@@ -1,0 +1,31 @@
+{
+	"name": "all-the-package-types",
+	"version": "1.0.0",
+	"description": "A list of all the `@types` packages on npm with metadata. Updated daily.",
+	"main": "types.json",
+	"bin": "cli.js",
+	"scripts": {
+		"build": "node script/build.js",
+		"test": "node test/index.js | tap-spec"
+	},
+	"repository": "https://github.com/jsdelivr/all-the-package-types",
+	"keywords": [
+		"npm",
+		"registry",
+		"packages",
+		"types",
+		"names",
+		"list",
+		"words",
+		"filter",
+		"search",
+		"offline"
+	],
+	"author": "Martin Kolárik",
+	"license": "MIT",
+	"devDependencies": {
+		"all-the-package-repos": "^2",
+		"tap-spec": "^5.0.0",
+		"tape": "^5.6.6"
+	}
+}

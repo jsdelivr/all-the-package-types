@@ -1,0 +1,35 @@
+name: Release
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+
+jobs:
+  release:
+    name: release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Update and Publish
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+
+          npm update all-the-package-repos
+          npm run build
+          npm test
+          
+          # bail if no changes are present
+          [[ `git status --porcelain` ]] || exit 0
+
+          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
+  
+          git add .
+          # bump the version, commit, and create a tag
+          npm version patch -f -m "Update all-the-package-types to %s"
+
+          git push origin master --follow-tags
+          npm publish
