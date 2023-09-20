@@ -440,6 +440,11 @@
     "t": "adone"
   },
   {
+    "p": "https://github.com/jisotalo/ads-client",
+    "l": "ads-client",
+    "t": "ads-client"
+  },
+  {
     "p": "https://ravy.dev/aero/libs/sanitizer",
     "l": "@aero/sanitizer",
     "t": "aero__sanitizer"
@@ -655,7 +660,7 @@
     "t": "ali-app"
   },
   {
-    "p": "https://github.com/aliyun/oss-nodejs-sdk",
+    "p": "https://github.com/ali-sdk/ali-oss",
     "l": "ali-oss",
     "t": "ali-oss"
   },
@@ -1370,6 +1375,11 @@
     "t": "angulartics"
   },
   {
+    "p": "https://github.com/boennemann/animals",
+    "l": "animals",
+    "t": "animals"
+  },
+  {
     "p": "https://github.com/sole/Animated_GIF",
     "l": "animated_gif",
     "t": "animated_gif"
@@ -1453,6 +1463,11 @@
     "p": "https://github.com/oranoran/antlr4-autosuggest-js",
     "l": "antlr4-autosuggest",
     "t": "antlr4-autosuggest"
+  },
+  {
+    "p": "https://github.com/HarasimowiczKamil/any-base",
+    "l": "any-base",
+    "t": "any-base"
   },
   {
     "p": "https://github.com/grncdr/node-any-db",
@@ -3410,12 +3425,12 @@
     "t": "bitcoinjs-lib"
   },
   {
-    "p": "https://github.com/bitpay/bitcore",
+    "p": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib",
     "l": "bitcore-lib",
     "t": "bitcore-lib"
   },
   {
-    "p": "https://github.com/bitpay/bitcore",
+    "p": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash",
     "l": "bitcore-lib-cash",
     "t": "bitcore-lib-cash"
   },
@@ -3938,6 +3953,11 @@
     "p": "https://github.com/vitalets/bro-fs",
     "l": "bro-fs",
     "t": "bro-fs"
+  },
+  {
+    "p": "https://github.com/broccolijs/broccoli-merge-trees",
+    "l": "broccoli-merge-trees",
+    "t": "broccoli-merge-trees"
   },
   {
     "p": "https://github.com/broccolijs/broccoli-plugin",
@@ -5273,6 +5293,11 @@
     "p": "https://github.com/gabzim/circle-to-polygon",
     "l": "circle-to-polygon",
     "t": "circle-to-polygon"
+  },
+  {
+    "p": "https://github.com/iden3/circomlibjs",
+    "l": "circomlibjs",
+    "t": "circomlibjs"
   },
   {
     "p": "https://github.com/yammer/circuit-breaker-js",
@@ -10015,6 +10040,11 @@
     "t": "easy-xapi-utils"
   },
   {
+    "p": "https://github.com/HichemTab-tech/EasyCaptchaJS",
+    "l": "easycaptchajs",
+    "t": "easycaptchajs"
+  },
+  {
     "p": "https://github.com/roryrjb/easydate",
     "l": "easydate",
     "t": "easydate"
@@ -11005,6 +11035,11 @@
     "t": "es-to-primitive"
   },
   {
+    "p": "https://github.com/ljharb/es-value-fixtures",
+    "l": "es-value-fixtures",
+    "t": "es-value-fixtures"
+  },
+  {
     "p": "https://github.com/WebReflection/es6-collections",
     "l": "es6-collections",
     "t": "es6-collections"
@@ -11455,7 +11490,7 @@
     "t": "expand-tilde"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "expect",
     "t": "expect"
   },
@@ -12580,7 +12615,7 @@
     "t": "figures"
   },
   {
-    "p": "https://github.com/royriojas/file-entry-cache",
+    "p": "https://github.com/jaredwray/file-entry-cache",
     "l": "file-entry-cache",
     "t": "file-entry-cache"
   },
@@ -12990,7 +13025,7 @@
     "t": "flat"
   },
   {
-    "p": "https://github.com/royriojas/flat-cache",
+    "p": "https://github.com/jaredwray/flat-cache",
     "l": "flat-cache",
     "t": "flat-cache"
   },
@@ -13273,6 +13308,11 @@
     "p": null,
     "l": null,
     "t": "fontoxml"
+  },
+  {
+    "p": "https://github.com/Raynos/for-each",
+    "l": "for-each",
+    "t": "for-each"
   },
   {
     "p": "https://github.com/vasturiano/force-graph",
@@ -17900,6 +17940,11 @@
     "t": "git-init"
   },
   {
+    "p": "https://github.com/bendrucker/git-log-parser",
+    "l": "git-log-parser",
+    "t": "git-log-parser"
+  },
+  {
     "p": "https://github.com/wayfair/git-parse",
     "l": "git-parse",
     "t": "git-parse"
@@ -19863,6 +19908,11 @@
     "p": "https://github.com/inspect-js/has-package-self-reference",
     "l": "has-package-self-reference",
     "t": "has-package-self-reference"
+  },
+  {
+    "p": "https://github.com/inspect-js/has-property-descriptors",
+    "l": "has-property-descriptors",
+    "t": "has-property-descriptors"
   },
   {
     "p": "https://github.com/inspect-js/has-symbols",
@@ -22735,7 +22785,7 @@
     "t": "jenkins"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest",
     "t": "jest"
   },
@@ -22745,7 +22795,7 @@
     "t": "jest-axe"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-cli",
     "t": "jest-cli"
   },
@@ -22760,17 +22810,17 @@
     "t": "jest-dev-server"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-diff",
     "t": "jest-diff"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-docblock",
     "t": "jest-docblock"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-each",
     "t": "jest-each"
   },
@@ -22790,7 +22840,7 @@
     "t": "jest-expect-message"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-get-type",
     "t": "jest-get-type"
   },
@@ -22815,7 +22865,7 @@
     "t": "jest-matcher-one-of"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-matcher-utils",
     "t": "jest-matcher-utils"
   },
@@ -22850,7 +22900,7 @@
     "t": "jest-specific-snapshot"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "jest-validate",
     "t": "jest-validate"
   },
@@ -29325,6 +29375,11 @@
     "t": "markdownlint"
   },
   {
+    "p": "https://github.com/DavidAnson/markdownlint",
+    "l": "markdownlint-rule-helpers",
+    "t": "markdownlint-rule-helpers"
+  },
+  {
     "p": "https://github.com/markedjs/marked",
     "l": "marked",
     "t": "marked"
@@ -33555,6 +33610,11 @@
     "t": "object.getownpropertydescriptors"
   },
   {
+    "p": "https://github.com/es-shims/Object.groupBy",
+    "l": "object.groupby",
+    "t": "object.groupby"
+  },
+  {
     "p": "https://github.com/jonschlinkert/object.omit",
     "l": "object.omit",
     "t": "object.omit"
@@ -35995,6 +36055,21 @@
     "t": "png-async"
   },
   {
+    "p": "https://github.com/hughsk/png-chunk-text",
+    "l": "png-chunk-text",
+    "t": "png-chunk-text"
+  },
+  {
+    "p": "https://github.com/hughsk/png-chunks-encode",
+    "l": "png-chunks-encode",
+    "t": "png-chunks-encode"
+  },
+  {
+    "p": "https://github.com/hughsk/png-chunks-extract",
+    "l": "png-chunks-extract",
+    "t": "png-chunks-extract"
+  },
+  {
     "p": "https://github.com/gemini-testing/png-img",
     "l": "png-img",
     "t": "png-img"
@@ -36630,7 +36705,7 @@
     "t": "precond"
   },
   {
-    "p": "https://github.com/zkochan/packages/tree/master/preferred-pm",
+    "p": "https://github.com/zkochan/packages",
     "l": "preferred-pm",
     "t": "preferred-pm"
   },
@@ -36700,7 +36775,7 @@
     "t": "pretty-data"
   },
   {
-    "p": "https://github.com/facebook/jest",
+    "p": "https://github.com/jestjs/jest",
     "l": "pretty-format",
     "t": "pretty-format"
   },
@@ -37605,7 +37680,7 @@
     "t": "qtip2"
   },
   {
-    "p": "https://github.com/belayeng/quadstore",
+    "p": "https://github.com/jacoscaz/quadstore",
     "l": "quadstore",
     "t": "quadstore"
   },
@@ -37885,6 +37960,11 @@
     "t": "random-web-token"
   },
   {
+    "p": "https://github.com/sindresorhus/random-word",
+    "l": "random-word",
+    "t": "random-word"
+  },
+  {
     "p": "https://github.com/apostrophecms/random-words",
     "l": "random-words",
     "t": "random-words"
@@ -37923,6 +38003,11 @@
     "p": "https://github.com/emilbayes/range-inclusive",
     "l": "range-inclusive",
     "t": "range-inclusive"
+  },
+  {
+    "p": "https://github.com/ashleymarkfletcher/range-map",
+    "l": "range-map",
+    "t": "range-map"
   },
   {
     "p": "https://github.com/jshttp/range-parser",
@@ -38020,7 +38105,7 @@
     "t": "raspi-soft-pwm"
   },
   {
-    "p": "https://github.com/wyattjoh/rate-limit-redis",
+    "p": "https://github.com/express-rate-limit/rate-limit-redis",
     "l": "rate-limit-redis",
     "t": "rate-limit-redis"
   },
@@ -39565,7 +39650,7 @@
     "t": "react-instantsearch"
   },
   {
-    "p": "https://github.com/algolia/instantsearch.js",
+    "p": "https://github.com/algolia/instantsearch",
     "l": "react-instantsearch-core",
     "t": "react-instantsearch-core"
   },
@@ -41000,6 +41085,11 @@
     "t": "react-recaptcha-v3"
   },
   {
+    "p": "https://github.com/brodybits/react-recompose",
+    "l": "react-recompose",
+    "t": "react-recompose"
+  },
+  {
     "p": "https://github.com/facebook/react",
     "l": "react-reconciler",
     "t": "react-reconciler"
@@ -42013,6 +42103,11 @@
     "p": "https://github.com/joewalnes/reconnecting-websocket",
     "l": "reconnectingwebsocket",
     "t": "reconnectingwebsocket"
+  },
+  {
+    "p": "https://github.com/dkhr/record-locator",
+    "l": "record-locator",
+    "t": "record-locator"
   },
   {
     "p": "https://github.com/ijsnow/studiojs",
@@ -43408,6 +43503,11 @@
     "p": "https://github.com/sindresorhus/round-to",
     "l": "round-to",
     "t": "round-to"
+  },
+  {
+    "p": "https://github.com/bradoyler/route-cache",
+    "l": "route-cache",
+    "t": "route-cache"
   },
   {
     "p": "https://github.com/rcs/route-parser",
@@ -45810,6 +45910,11 @@
     "t": "snapsvg"
   },
   {
+    "p": "https://github.com/iden3/snarkjs",
+    "l": "snarkjs",
+    "t": "snarkjs"
+  },
+  {
     "p": "https://github.com/atmist/snazzy-info-window",
     "l": "snazzy-info-window",
     "t": "snazzy-info-window"
@@ -46208,6 +46313,11 @@
     "p": "https://github.com/stephencookdev/speed-measure-webpack-plugin",
     "l": "speed-measure-webpack-plugin",
     "t": "speed-measure-webpack-plugin"
+  },
+  {
+    "p": "https://github.com/mafintosh/speedometer",
+    "l": "speedometer",
+    "t": "speedometer"
   },
   {
     "p": "https://github.com/ddsol/speedtest.net",
@@ -47525,7 +47635,7 @@
     "t": "survey-knockout"
   },
   {
-    "p": "https://github.com/Survicate/react-native-survicate",
+    "p": "https://github.com/Survicate/survicate-react-native-sdk",
     "l": "@survicate/react-native-survicate",
     "t": "survicate__react-native-survicate"
   },
@@ -47668,6 +47778,11 @@
     "p": "https://github.com/scriptex/svg64",
     "l": "svg64",
     "t": "svg64"
+  },
+  {
+    "p": "https://github.com/svgdotjs/svgdom",
+    "l": "svgdom",
+    "t": "svgdom"
   },
   {
     "p": "https://github.com/nfroidure/svgicons2svgfont",
@@ -48075,7 +48190,7 @@
     "t": "tampermonkey"
   },
   {
-    "p": "https://github.com/tapjs/node-tap",
+    "p": "https://github.com/tapjs/tapjs",
     "l": "tap",
     "t": "tap"
   },
@@ -49532,6 +49647,11 @@
   {
     "p": null,
     "l": null,
+    "t": "twitch-browser"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "twitch-ext"
   },
   {
@@ -50000,7 +50120,7 @@
     "t": "universal-analytics"
   },
   {
-    "p": "https://github.com/reactivestack/cookies",
+    "p": "https://github.com/bendotcodes/cookies",
     "l": "universal-cookie",
     "t": "universal-cookie"
   },
@@ -52110,7 +52230,7 @@
     "t": "which-boxed-primitive"
   },
   {
-    "p": "https://github.com/zkochan/packages/tree/master/which-pm",
+    "p": "https://github.com/zkochan/packages",
     "l": "which-pm",
     "t": "which-pm"
   },
@@ -52158,6 +52278,11 @@
     "p": null,
     "l": null,
     "t": "wicg-file-system-access"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "wicg-js-self-profiling"
   },
   {
     "p": null,
