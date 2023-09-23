@@ -29480,6 +29480,11 @@
     "t": "massive"
   },
   {
+    "p": "https://github.com/Mastercard/oauth1-signer-nodejs",
+    "l": "mastercard-oauth1-signer",
+    "t": "mastercard-oauth1-signer"
+  },
+  {
     "p": "https://github.com/IonicaBizau/match-it",
     "l": "match-it",
     "t": "match-it"
