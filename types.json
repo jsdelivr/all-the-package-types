@@ -6345,6 +6345,11 @@
     "t": "commons-validator-js"
   },
   {
+    "p": "https://github.com/filipdanic/compact-timezone-list",
+    "l": "compact-timezone-list",
+    "t": "compact-timezone-list"
+  },
+  {
     "p": "https://github.com/emilbayes/compare",
     "l": "compare",
     "t": "compare"
