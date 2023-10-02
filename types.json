@@ -29075,6 +29075,11 @@
     "t": "mainloop.js"
   },
   {
+    "p": "https://github.com/ljharb/make-async-function",
+    "l": "make-async-function",
+    "t": "make-async-function"
+  },
+  {
     "p": "https://github.com/sindresorhus/make-dir",
     "l": "make-dir",
     "t": "make-dir"
@@ -44913,6 +44918,11 @@
     "p": "https://github.com/nordcloud/serverless-jest-plugin",
     "l": "serverless-jest-plugin",
     "t": "serverless-jest-plugin"
+  },
+  {
+    "p": "https://github.com/horike37/serverless-step-functions",
+    "l": "serverless-step-functions",
+    "t": "serverless-step-functions"
   },
   {
     "p": null,
