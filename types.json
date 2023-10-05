@@ -11740,6 +11740,11 @@
     "t": "express-jwt"
   },
   {
+    "p": "https://github.com/dantman/express-legacy-expires",
+    "l": "express-legacy-expires",
+    "t": "express-legacy-expires"
+  },
+  {
     "p": "https://github.com/toogle/express-less",
     "l": "express-less",
     "t": "express-less"
@@ -36413,6 +36418,11 @@
     "p": "https://github.com/postcss/postcss-font-variant",
     "l": "postcss-font-variant",
     "t": "postcss-font-variant"
+  },
+  {
+    "p": "https://github.com/andyjansson/postcss-functions",
+    "l": "postcss-functions",
+    "t": "postcss-functions"
   },
   {
     "p": "https://github.com/csstools/postcss-plugins",
