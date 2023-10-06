@@ -731,6 +731,11 @@
   },
   {
     "p": "https://github.com/alpinejs/alpine",
+    "l": "@alpinejs/collapse",
+    "t": "alpinejs__collapse"
+  },
+  {
+    "p": "https://github.com/alpinejs/alpine",
     "l": "@alpinejs/focus",
     "t": "alpinejs__focus"
   },
@@ -6113,6 +6118,11 @@
     "p": "https://github.com/cryptocoinjs/coinstring",
     "l": "coinstring",
     "t": "coinstring"
+  },
+  {
+    "p": null,
+    "l": "colab",
+    "t": "colab"
   },
   {
     "p": "https://github.com/montagejs/collections",
@@ -13768,6 +13778,11 @@
     "p": "https://github.com/mikolalysenko/functional-red-black-tree",
     "l": "functional-red-black-tree",
     "t": "functional-red-black-tree"
+  },
+  {
+    "p": "https://github.com/inspect-js/functions-have-names",
+    "l": "functions-have-names",
+    "t": "functions-have-names"
   },
   {
     "p": "https://github.com/SAP/fundamental-react",
@@ -29080,9 +29095,19 @@
     "t": "mainloop.js"
   },
   {
+    "p": "https://github.com/ljharb/make-arrow-function",
+    "l": "make-arrow-function",
+    "t": "make-arrow-function"
+  },
+  {
     "p": "https://github.com/ljharb/make-async-function",
     "l": "make-async-function",
     "t": "make-async-function"
+  },
+  {
+    "p": "https://github.com/ljharb/make-async-generator-function",
+    "l": "make-async-generator-function",
+    "t": "make-async-generator-function"
   },
   {
     "p": "https://github.com/sindresorhus/make-dir",
@@ -29093,6 +29118,11 @@
     "p": "https://github.com/npm/make-fetch-happen",
     "l": "make-fetch-happen",
     "t": "make-fetch-happen"
+  },
+  {
+    "p": "https://github.com/ljharb/make-generator-function",
+    "l": "make-generator-function",
+    "t": "make-generator-function"
   },
   {
     "p": null,
