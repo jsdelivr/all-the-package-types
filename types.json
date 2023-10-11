@@ -4225,6 +4225,11 @@
     "t": "bugsnag-js"
   },
   {
+    "p": "https://github.com/bugsnag/cuid",
+    "l": "@bugsnag/cuid",
+    "t": "bugsnag__cuid"
+  },
+  {
     "p": "https://github.com/lukechilds/build-output-script",
     "l": "build-output-script",
     "t": "build-output-script"
@@ -6193,6 +6198,11 @@
     "p": "https://github.com/saikocat/colorbrewer",
     "l": "colorbrewer",
     "t": "colorbrewer"
+  },
+  {
+    "p": "https://github.com/SlexAxton/css-colorguard",
+    "l": "colorguard",
+    "t": "colorguard"
   },
   {
     "p": "https://github.com/bpostlethwaite/colormap",
@@ -20765,6 +20775,11 @@
     "t": "http-server"
   },
   {
+    "p": "https://github.com/joyent/node-http-signature",
+    "l": "http-signature",
+    "t": "http-signature"
+  },
+  {
     "p": "https://github.com/adaltas/node-http-status",
     "l": "http-status",
     "t": "http-status"
@@ -29125,6 +29140,11 @@
     "t": "make-generator-function"
   },
   {
+    "p": "https://github.com/daaku/nodejs-makeerror",
+    "l": "makeerror",
+    "t": "makeerror"
+  },
+  {
     "p": null,
     "l": null,
     "t": "maker.js"
@@ -35975,6 +35995,11 @@
     "t": "pixl-xml"
   },
   {
+    "p": "https://github.com/robwierzbowski/node-pixrem",
+    "l": "pixrem",
+    "t": "pixrem"
+  },
+  {
     "p": "https://github.com/alemangui/pizzicato",
     "l": "pizzicato",
     "t": "pizzicato"
@@ -36425,6 +36450,11 @@
     "t": "postcss-clamp"
   },
   {
+    "p": "https://github.com/postcss/postcss-color-gray",
+    "l": "postcss-color-gray",
+    "t": "postcss-color-gray"
+  },
+  {
     "p": "https://github.com/MadLittleMods/postcss-css-variables",
     "l": "postcss-css-variables",
     "t": "postcss-css-variables"
@@ -36595,9 +36625,19 @@
     "t": "postcss-safe-parser"
   },
   {
+    "p": "https://github.com/hudochenkov/postcss-sorting",
+    "l": "postcss-sorting",
+    "t": "postcss-sorting"
+  },
+  {
     "p": "https://github.com/postcss/postcss-url",
     "l": "postcss-url",
     "t": "postcss-url"
+  },
+  {
+    "p": "https://github.com/postcss/postcss-use",
+    "l": "postcss-use",
+    "t": "postcss-use"
   },
   {
     "p": "https://github.com/herrmannplatz/poster-image",
