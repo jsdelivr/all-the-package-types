@@ -32755,6 +32755,11 @@
     "t": "node-ral"
   },
   {
+    "p": "https://github.com/cscott/node-random-name",
+    "l": "node-random-name",
+    "t": "node-random-name"
+  },
+  {
     "p": "https://github.com/node-red/node-red",
     "l": "node-red",
     "t": "node-red"
@@ -47243,6 +47248,11 @@
     "p": "https://github.com/jimmywarting/StreamSaver.js",
     "l": "streamsaver",
     "t": "streamsaver"
+  },
+  {
+    "p": "https://github.com/mscdex/streamsearch",
+    "l": "streamsearch",
+    "t": "streamsearch"
   },
   {
     "p": "https://github.com/nfroidure/streamtest",
