@@ -5090,6 +5090,11 @@
     "t": "chartjs"
   },
   {
+    "p": "https://github.com/chartjs/chartjs-color-string",
+    "l": "chartjs-color-string",
+    "t": "chartjs-color-string"
+  },
+  {
     "p": "https://github.com/chartjs/chartjs-plugin-annotation",
     "l": "chartjs-plugin-annotation",
     "t": "chartjs-plugin-annotation"
@@ -11138,6 +11143,11 @@
     "p": "https://github.com/trygve-lie/esbuild-plugin-import-map",
     "l": "esbuild-plugin-import-map",
     "t": "esbuild-plugin-import-map"
+  },
+  {
+    "p": "https://github.com/apeschar/esbuild-vue",
+    "l": "esbuild-vue",
+    "t": "esbuild-vue"
   },
   {
     "p": "https://github.com/NielsLeenheer/EscPosEncoder",
@@ -30860,6 +30870,11 @@
     "t": "mock-knex"
   },
   {
+    "p": "https://github.com/ljharb/mock-property",
+    "l": "mock-property",
+    "t": "mock-property"
+  },
+  {
     "p": "https://github.com/FormidableLabs/mock-raf",
     "l": "mock-raf",
     "t": "mock-raf"
@@ -36583,6 +36598,11 @@
     "p": "https://github.com/csstools/postcss-normalize",
     "l": "postcss-normalize",
     "t": "postcss-normalize"
+  },
+  {
+    "p": "https://github.com/shrpne/postcss-page-break",
+    "l": "postcss-page-break",
+    "t": "postcss-page-break"
   },
   {
     "p": "https://github.com/himynameisdave/postcss-plugins",
