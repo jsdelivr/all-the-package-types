@@ -475,6 +475,11 @@
     "t": "aframe"
   },
   {
+    "p": "https://github.com/AfricasTalkingLtd/africastalking-node.js",
+    "l": "africastalking",
+    "t": "africastalking"
+  },
+  {
     "p": "https://github.com/watson/after-all-results",
     "l": "after-all-results",
     "t": "after-all-results"
@@ -37930,7 +37935,7 @@
     "t": "qunit"
   },
   {
-    "p": "https://github.com/simplabs/qunit-dom",
+    "p": "https://github.com/mainmatter/qunit-dom",
     "l": "qunit-dom",
     "t": "qunit-dom"
   },
@@ -38118,6 +38123,11 @@
     "p": "https://github.com/skratchdot/random-useragent",
     "l": "random-useragent",
     "t": "random-useragent"
+  },
+  {
+    "p": "https://github.com/leahciMic/uuid-v4",
+    "l": "random-uuid-v4",
+    "t": "random-uuid-v4"
   },
   {
     "p": "https://github.com/schrudolf/random-web-token",
