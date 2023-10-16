@@ -20255,6 +20255,11 @@
     "t": "hex-rgba"
   },
   {
+    "p": "https://github.com/AVVS/hex-to-binary",
+    "l": "hex-to-binary",
+    "t": "hex-to-binary"
+  },
+  {
     "p": "https://github.com/DeRain/hex-to-uuid",
     "l": "hex-to-uuid",
     "t": "hex-to-uuid"
@@ -51518,6 +51523,11 @@
     "p": "https://github.com/iamstevendao/vue-tel-input",
     "l": "vue-tel-input",
     "t": "vue-tel-input"
+  },
+  {
+    "p": "https://github.com/vuejs/vue-template-es2015-compiler",
+    "l": "vue-template-es2015-compiler",
+    "t": "vue-template-es2015-compiler"
   },
   {
     "p": null,
