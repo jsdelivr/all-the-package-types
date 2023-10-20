@@ -11205,6 +11205,11 @@
     "t": "eslint"
   },
   {
+    "p": "https://github.com/jfmengels/eslint-ast-utils",
+    "l": "eslint-ast-utils",
+    "t": "eslint-ast-utils"
+  },
+  {
     "p": "https://github.com/prettier/eslint-config-prettier",
     "l": "eslint-config-prettier",
     "t": "eslint-config-prettier"
@@ -34638,6 +34643,11 @@
     "p": "https://github.com/sindresorhus/package-json",
     "l": "package-json",
     "t": "package-json"
+  },
+  {
+    "p": "https://github.com/gorillamania/package.json-validator",
+    "l": "package-json-validator",
+    "t": "package-json-validator"
   },
   {
     "p": "https://github.com/dword-design/package-name-regex",
