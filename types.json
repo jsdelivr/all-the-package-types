@@ -360,6 +360,11 @@
     "t": "add2home"
   },
   {
+    "p": "https://github.com/mozilla/addons-linter",
+    "l": "addons-linter",
+    "t": "addons-linter"
+  },
+  {
     "p": "https://github.com/andris9/addressparser",
     "l": "addressparser",
     "t": "addressparser"
@@ -11238,6 +11243,11 @@
     "p": "https://github.com/eslint/eslint-visitor-keys",
     "l": "eslint-visitor-keys",
     "t": "eslint-visitor-keys"
+  },
+  {
+    "p": "https://github.com/eslint/eslintrc",
+    "l": "@eslint/eslintrc",
+    "t": "eslint__eslintrc"
   },
   {
     "p": "https://github.com/eslint/eslint",
@@ -26810,6 +26820,11 @@
     "t": "libarchive.js"
   },
   {
+    "p": "https://github.com/honeycombio/libhoney-js",
+    "l": "libhoney",
+    "t": "libhoney"
+  },
+  {
     "p": "https://github.com/andris9/libmime",
     "l": "libmime",
     "t": "libmime"
@@ -31928,6 +31943,11 @@
     "p": "https://github.com/named-data/ndn-js",
     "l": "ndn-js",
     "t": "ndn-js"
+  },
+  {
+    "p": "https://github.com/dtao/nearest-color",
+    "l": "nearest-color",
+    "t": "nearest-color"
   },
   {
     "p": "https://github.com/jmeas/nearest-periodic-value.js",
