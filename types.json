@@ -35090,6 +35090,11 @@
     "t": "passport"
   },
   {
+    "p": "https://github.com/pandark/passport-42",
+    "l": "passport-42",
+    "t": "passport-42"
+  },
+  {
     "p": "https://github.com/jaredhanson/passport-anonymous",
     "l": "passport-anonymous",
     "t": "passport-anonymous"
