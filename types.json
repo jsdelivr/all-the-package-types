@@ -3075,6 +3075,36 @@
     "t": "bbcode-to-react"
   },
   {
+    "p": "https://github.com/JiLiZART/bbob",
+    "l": "@bbob/core",
+    "t": "bbob__core"
+  },
+  {
+    "p": "https://github.com/JiLiZART/bbob",
+    "l": "@bbob/html",
+    "t": "bbob__html"
+  },
+  {
+    "p": "https://github.com/JiLiZART/bbob",
+    "l": "@bbob/parser",
+    "t": "bbob__parser"
+  },
+  {
+    "p": "https://github.com/JiLiZART/bbob",
+    "l": "@bbob/plugin-helper",
+    "t": "bbob__plugin-helper"
+  },
+  {
+    "p": "https://github.com/JiLiZART/bbob",
+    "l": "@bbob/preset",
+    "t": "bbob__preset"
+  },
+  {
+    "p": "https://github.com/JiLiZART/bbob",
+    "l": "@bbob/preset-html5",
+    "t": "bbob__preset-html5"
+  },
+  {
     "p": "https://github.com/ealmansi/bchaddrjs",
     "l": "bchaddrjs",
     "t": "bchaddrjs"
@@ -24803,6 +24833,11 @@
     "p": "https://github.com/wmertens/jsurl2",
     "l": "jsurl2",
     "t": "jsurl2"
+  },
+  {
+    "p": "https://github.com/jsx-eslint/jsx-ast-utils",
+    "l": "jsx-ast-utils",
+    "t": "jsx-ast-utils"
   },
   {
     "p": "https://github.com/bkonkle/jsx-chai",
