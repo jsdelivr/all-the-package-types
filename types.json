@@ -2225,6 +2225,11 @@
     "t": "atom__watcher"
   },
   {
+    "p": "https://github.com/davidmarkclements/atomic-sleep",
+    "l": "atomic-sleep",
+    "t": "atomic-sleep"
+  },
+  {
     "p": "https://github.com/soywiz/atpl.js",
     "l": "atpl",
     "t": "atpl"
