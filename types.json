@@ -1940,7 +1940,7 @@
     "t": "artyom.js"
   },
   {
-    "p": null,
+    "p": "https://github.com/Asana/node-asana",
     "l": "asana",
     "t": "asana"
   },
@@ -11985,7 +11985,7 @@
     "t": "express-sitemap-xml"
   },
   {
-    "p": "https://github.com/nfriedly/express-slow-down",
+    "p": "https://github.com/express-rate-limit/express-slow-down",
     "l": "express-slow-down",
     "t": "express-slow-down"
   },
