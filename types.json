@@ -32815,6 +32815,11 @@
     "t": "node-phpass"
   },
   {
+    "p": "https://github.com/ajfisher/node-pixel",
+    "l": "node-pixel",
+    "t": "node-pixel"
+  },
+  {
     "p": "https://github.com/airbnb/polyglot.js",
     "l": "node-polyglot",
     "t": "node-polyglot"
