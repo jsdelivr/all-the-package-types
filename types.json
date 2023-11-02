@@ -4745,6 +4745,11 @@
     "t": "card-validator"
   },
   {
+    "p": "https://github.com/thlorenz/cardinal",
+    "l": "cardinal",
+    "t": "cardinal"
+  },
+  {
     "p": "https://github.com/GoogleChromeLabs/carlo",
     "l": "carlo",
     "t": "carlo"
