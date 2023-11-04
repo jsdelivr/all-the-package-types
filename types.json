@@ -42895,6 +42895,11 @@
     "t": "regenerator-runtime"
   },
   {
+    "p": "https://github.com/IonicaBizau/regex-escape.js",
+    "l": "regex-escape",
+    "t": "regex-escape"
+  },
+  {
     "p": "https://github.com/jonschlinkert/regex-not",
     "l": "regex-not",
     "t": "regex-not"
