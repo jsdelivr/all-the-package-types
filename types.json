@@ -27035,6 +27035,11 @@
     "t": "linear-gradient"
   },
   {
+    "p": "https://github.com/mapbox/lineclip",
+    "l": "lineclip",
+    "t": "lineclip"
+  },
+  {
     "p": "https://github.com/jasonbellamy/linesert",
     "l": "linesert",
     "t": "linesert"
