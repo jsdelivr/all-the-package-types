@@ -7245,6 +7245,11 @@
     "t": "core-object"
   },
   {
+    "p": "https://github.com/isaacs/core-util-is",
+    "l": "core-util-is",
+    "t": "core-util-is"
+  },
+  {
     "p": "https://github.com/cornerstonejs/cornerstone",
     "l": "cornerstone-core",
     "t": "cornerstone-core"
@@ -21518,6 +21523,11 @@
     "p": "https://github.com/dreamerslab/node.inflection",
     "l": "inflection",
     "t": "inflection"
+  },
+  {
+    "p": "https://github.com/npm/inflight",
+    "l": "inflight",
+    "t": "inflight"
   },
   {
     "p": "https://github.com/dijs/infobox-parser",
