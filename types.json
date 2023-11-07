@@ -9515,6 +9515,11 @@
     "t": "dom-clipboard-api"
   },
   {
+    "p": "https://github.com/mattdesl/dom-css",
+    "l": "dom-css",
+    "t": "dom-css"
+  },
+  {
     "p": "https://github.com/react-bootstrap/dom-helpers",
     "l": "dom-helpers",
     "t": "dom-helpers"
@@ -22355,6 +22360,11 @@
     "t": "is-png"
   },
   {
+    "p": "https://github.com/jonschlinkert/is-posix-bracket",
+    "l": "is-posix-bracket",
+    "t": "is-posix-bracket"
+  },
+  {
     "p": "https://github.com/watson/is-pr",
     "l": "is-pr",
     "t": "is-pr"
@@ -24428,6 +24438,11 @@
     "p": "https://github.com/coston/json-to-csv-export",
     "l": "json-to-csv-export",
     "t": "json-to-csv-export"
+  },
+  {
+    "p": "https://github.com/alexcrist/json-to-pretty-yaml",
+    "l": "json-to-pretty-yaml",
+    "t": "json-to-pretty-yaml"
   },
   {
     "p": "https://github.com/zemirco/json2csv",
