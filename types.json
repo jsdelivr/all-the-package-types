@@ -48030,6 +48030,11 @@
     "t": "svg-path-bounds"
   },
   {
+    "p": "https://github.com/mattdesl/svg-path-contours",
+    "l": "svg-path-contours",
+    "t": "svg-path-contours"
+  },
+  {
     "p": "https://github.com/hughsk/svg-path-parser",
     "l": "svg-path-parser",
     "t": "svg-path-parser"
