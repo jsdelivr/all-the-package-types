@@ -12230,6 +12230,11 @@
     "t": "fake-lodash-pure-js"
   },
   {
+    "p": "https://github.com/thiennq/fake-user-agent",
+    "l": "fake-useragent",
+    "t": "fake-useragent"
+  },
+  {
     "p": "https://github.com/Marak/Faker.js",
     "l": "faker",
     "t": "faker"
@@ -21933,6 +21938,11 @@
     "p": "https://github.com/franksrevenge/IPSubnetCalculator",
     "l": "ip-subnet-calculator",
     "t": "ip-subnet-calculator"
+  },
+  {
+    "p": "https://github.com/joshuamarquez/node-ip-to-int",
+    "l": "ip-to-int",
+    "t": "ip-to-int"
   },
   {
     "p": "https://github.com/iP1SMS/is-disposable-phonenumber",
@@ -36558,6 +36568,11 @@
     "p": "https://github.com/baalexander/node-portscanner",
     "l": "portscanner",
     "t": "portscanner"
+  },
+  {
+    "p": "https://github.com/AlexanderElias/porty",
+    "l": "porty",
+    "t": "porty"
   },
   {
     "p": "https://github.com/sindresorhus/positive-zero",
