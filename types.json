@@ -29915,6 +29915,11 @@
     "t": "math-sign"
   },
   {
+    "p": "https://github.com/terkelg/math-toolbox",
+    "l": "math-toolbox",
+    "t": "math-toolbox"
+  },
+  {
     "p": "https://github.com/kevva/math-trunc",
     "l": "math-trunc",
     "t": "math-trunc"
@@ -33613,6 +33618,11 @@
     "p": "https://github.com/clncln1/node-ntlm-client",
     "l": "ntlm-client",
     "t": "ntlm-client"
+  },
+  {
+    "p": "https://github.com/moonpyk/node-ntp-client",
+    "l": "ntp-client",
+    "t": "ntp-client"
   },
   {
     "p": "https://github.com/jhedin/ntqdm",
