@@ -22155,6 +22155,11 @@
     "t": "is-elevated"
   },
   {
+    "p": "https://github.com/segmentio/is-email",
+    "l": "is-email",
+    "t": "is-email"
+  },
+  {
     "p": "https://github.com/ianstormtaylor/is-empty",
     "l": "is-empty",
     "t": "is-empty"
@@ -45728,6 +45733,11 @@
     "p": "https://github.com/khalidsalomao/simple-query-string",
     "l": "simple-query-string",
     "t": "simple-query-string"
+  },
+  {
+    "p": "https://github.com/donfour/simple-react-clipboard",
+    "l": "simple-react-clipboard",
+    "t": "simple-react-clipboard"
   },
   {
     "p": "https://github.com/michelecocuccio/simple-react-lightbox",
