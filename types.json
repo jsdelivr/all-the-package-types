@@ -8645,7 +8645,7 @@
     "t": "debessmann"
   },
   {
-    "p": "https://github.com/component/debounce",
+    "p": "https://github.com/sindresorhus/debounce",
     "l": "debounce",
     "t": "debounce"
   },
@@ -20865,7 +20865,7 @@
     "t": "http-server"
   },
   {
-    "p": "https://github.com/joyent/node-http-signature",
+    "p": "https://github.com/TritonDataCenter/node-http-signature",
     "l": "http-signature",
     "t": "http-signature"
   },
@@ -21268,6 +21268,11 @@
     "p": "https://github.com/IgniteUI/ignite-ui",
     "l": "ignite-ui",
     "t": "ignite-ui"
+  },
+  {
+    "p": "https://github.com/novemberborn/ignore-by-default",
+    "l": "ignore-by-default",
+    "t": "ignore-by-default"
   },
   {
     "p": "https://github.com/bkonkle/ignore-styles",
