@@ -1840,7 +1840,7 @@
     "t": "array-bounds"
   },
   {
-    "p": "https://github.com/component/array-equal",
+    "p": "https://github.com/sindresorhus/array-equal",
     "l": "array-equal",
     "t": "array-equal"
   },
@@ -6475,7 +6475,7 @@
     "t": "complexviewer"
   },
   {
-    "p": "https://github.com/component/emitter",
+    "p": "https://github.com/sindresorhus/component-emitter",
     "l": "component-emitter",
     "t": "component-emitter"
   },
@@ -30175,7 +30175,7 @@
     "t": "merge-deep"
   },
   {
-    "p": "https://github.com/component/merge-descriptors",
+    "p": "https://github.com/sindresorhus/merge-descriptors",
     "l": "merge-descriptors",
     "t": "merge-descriptors"
   },
@@ -36618,6 +36618,11 @@
     "p": "https://github.com/postaljs/postal.js",
     "l": "postal",
     "t": "postal"
+  },
+  {
+    "p": "https://github.com/jonathantneal/postcss-advanced-variables",
+    "l": "postcss-advanced-variables",
+    "t": "postcss-advanced-variables"
   },
   {
     "p": "https://github.com/postcss/postcss-calc",
