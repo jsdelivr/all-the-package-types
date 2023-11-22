@@ -3500,7 +3500,7 @@
     "t": "bitcore-lib"
   },
   {
-    "p": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash",
+    "p": "https://github.com/bitpay/bitcore",
     "l": "bitcore-lib-cash",
     "t": "bitcore-lib-cash"
   },
@@ -7528,6 +7528,11 @@
     "p": "https://github.com/roccivic/cron-converter",
     "l": "cron-converter",
     "t": "cron-converter"
+  },
+  {
+    "p": "https://github.com/cronitorio/cronitor-js",
+    "l": "cronitor",
+    "t": "cronitor"
   },
   {
     "p": "https://github.com/fengyuanchen/cropperjs",
@@ -32875,6 +32880,11 @@
     "t": "node-phpass"
   },
   {
+    "p": "https://github.com/kakxem/node-pipewire",
+    "l": "node-pipewire",
+    "t": "node-pipewire"
+  },
+  {
     "p": "https://github.com/ajfisher/node-pixel",
     "l": "node-pixel",
     "t": "node-pixel"
@@ -46903,6 +46913,11 @@
     "p": "https://github.com/cloudtracer/ssdeep.js",
     "l": "ssdeep.js",
     "t": "ssdeep.js"
+  },
+  {
+    "p": "https://github.com/einaros/sse.js",
+    "l": "sse",
+    "t": "sse"
   },
   {
     "p": "https://github.com/anandsuresh/sse4_crc32",
