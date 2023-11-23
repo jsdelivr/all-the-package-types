@@ -741,6 +741,11 @@
   },
   {
     "p": "https://github.com/alpinejs/alpine",
+    "l": "@alpinejs/anchor",
+    "t": "alpinejs__anchor"
+  },
+  {
+    "p": "https://github.com/alpinejs/alpine",
     "l": "@alpinejs/collapse",
     "t": "alpinejs__collapse"
   },
@@ -2518,6 +2523,11 @@
     "p": "https://github.com/mpyw/axios-interceptor-change-case",
     "l": "axios-case-converter",
     "t": "axios-case-converter"
+  },
+  {
+    "p": "https://github.com/bernawil/axios-concurrency",
+    "l": "axios-concurrency",
+    "t": "axios-concurrency"
   },
   {
     "p": "https://github.com/delirius325/axios-curlirize",
@@ -11438,6 +11448,11 @@
     "p": "https://github.com/ethereumjs/ethereumjs-monorepo",
     "l": "ethereumjs-util",
     "t": "ethereumjs-util"
+  },
+  {
+    "p": "https://github.com/mwittig/etherport-client",
+    "l": "etherport-client",
+    "t": "etherport-client"
   },
   {
     "p": "https://github.com/ethjs/ethjs-signer",
@@ -27005,6 +27020,11 @@
     "t": "lifeomic__axios-fetch"
   },
   {
+    "p": null,
+    "l": "liferay",
+    "t": "liferay"
+  },
+  {
     "p": "https://github.com/gulpjs/liftoff",
     "l": "liftoff",
     "t": "liftoff"
@@ -36635,6 +36655,11 @@
     "t": "postcss-advanced-variables"
   },
   {
+    "p": "https://github.com/postcss/postcss-bem-linter",
+    "l": "postcss-bem-linter",
+    "t": "postcss-bem-linter"
+  },
+  {
     "p": "https://github.com/postcss/postcss-calc",
     "l": "postcss-calc",
     "t": "postcss-calc"
@@ -44356,6 +44381,11 @@
   },
   {
     "p": null,
+    "l": "@sap/approuter",
+    "t": "sap__approuter"
+  },
+  {
+    "p": null,
     "l": "@sap/logging",
     "t": "sap__logging"
   },
@@ -48778,6 +48808,11 @@
     "p": "https://github.com/substack/terminal-menu",
     "l": "terminal-menu",
     "t": "terminal-menu"
+  },
+  {
+    "p": "https://github.com/TKasperczyk/node-termios",
+    "l": "termios-fixedv12",
+    "t": "termios-fixedv12"
   },
   {
     "p": "https://github.com/ternjs/tern",
