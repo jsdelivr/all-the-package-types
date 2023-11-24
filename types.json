@@ -272,6 +272,11 @@
   {
     "p": null,
     "l": null,
+    "t": "activex-opendssengine"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "activex-outlook"
   },
   {
@@ -9528,6 +9533,11 @@
     "p": null,
     "l": null,
     "t": "dom-clipboard-api"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "dom-close-watcher"
   },
   {
     "p": "https://github.com/mattdesl/dom-css",
@@ -23333,6 +23343,11 @@
     "p": "https://github.com/AceMetrix/jquery-deparam",
     "l": "jquery-deparam",
     "t": "jquery-deparam"
+  },
+  {
+    "p": null,
+    "l": "jquery-deserialize",
+    "t": "jquery-deserialize"
   },
   {
     "p": "https://github.com/blivesta/drawer",
