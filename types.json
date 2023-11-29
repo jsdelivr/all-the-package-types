@@ -39035,7 +39035,7 @@
     "t": "react-autosuggest"
   },
   {
-    "p": "https://github.com/mosch/react-avatar-editor",
+    "p": null,
     "l": "react-avatar-editor",
     "t": "react-avatar-editor"
   },
@@ -47463,6 +47463,11 @@
     "p": "https://github.com/stream-utils/stream-to-array",
     "l": "stream-to-array",
     "t": "stream-to-array"
+  },
+  {
+    "p": "https://github.com/feross/stream-to-blob",
+    "l": "stream-to-blob",
+    "t": "stream-to-blob"
   },
   {
     "p": "https://github.com/bendrucker/stream-to-promise",
