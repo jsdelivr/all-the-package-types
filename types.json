@@ -8015,6 +8015,11 @@
     "t": "cytoscape-cxtmenu"
   },
   {
+    "p": "https://github.com/shichuanpo/cytoscape.js-d3-force",
+    "l": "cytoscape-d3-force",
+    "t": "cytoscape-d3-force"
+  },
+  {
     "p": "https://github.com/cytoscape/cytoscape.js-dagre",
     "l": "cytoscape-dagre",
     "t": "cytoscape-dagre"
