@@ -3510,7 +3510,7 @@
     "t": "bitcoinjs-lib"
   },
   {
-    "p": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib",
+    "p": "https://github.com/bitpay/bitcore",
     "l": "bitcore-lib",
     "t": "bitcore-lib"
   },
@@ -43573,6 +43573,11 @@
     "p": "https://github.com/janogonzalez/ringbufferjs",
     "l": "ringbufferjs",
     "t": "ringbufferjs"
+  },
+  {
+    "p": "https://github.com/ringcentral/easy-pkce",
+    "l": "@ringcentral/easy-pkce",
+    "t": "ringcentral__easy-pkce"
   },
   {
     "p": "https://github.com/riot/riot",
