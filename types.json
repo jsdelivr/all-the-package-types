@@ -11730,6 +11730,11 @@
     "t": "express-actuator"
   },
   {
+    "p": "https://github.com/bergos/express-as-promise",
+    "l": "express-as-promise",
+    "t": "express-as-promise"
+  },
+  {
     "p": "https://github.com/Greenfields/express-async-wrap",
     "l": "express-async-wrap",
     "t": "express-async-wrap"
@@ -13925,7 +13930,7 @@
     "t": "furigana-markdown-it"
   },
   {
-    "p": "https://github.com/smebberson/fuse",
+    "p": "https://github.com/StellateHQ/fuse.js",
     "l": "fuse",
     "t": "fuse"
   },
@@ -22213,6 +22218,11 @@
     "p": "https://github.com/jonschlinkert/is-even",
     "l": "is-even",
     "t": "is-even"
+  },
+  {
+    "p": "https://github.com/pugjs/is-expression",
+    "l": "is-expression",
+    "t": "is-expression"
   },
   {
     "p": "https://github.com/davidmarkclements/is-file-esm",
@@ -43330,6 +43340,11 @@
     "t": "resolve-cwd"
   },
   {
+    "p": "https://github.com/jonschlinkert/resolve-dir",
+    "l": "resolve-dir",
+    "t": "resolve-dir"
+  },
+  {
     "p": "https://github.com/sindresorhus/resolve-from",
     "l": "resolve-from",
     "t": "resolve-from"
@@ -44918,6 +44933,11 @@
     "p": "https://github.com/segmentio/isodate",
     "l": "@segment/isodate",
     "t": "segment__isodate"
+  },
+  {
+    "p": "https://github.com/zenorocha/select",
+    "l": "select",
+    "t": "select"
   },
   {
     "p": "https://github.com/select2/select2",
