@@ -17980,6 +17980,11 @@
     "t": "get-stream"
   },
   {
+    "p": "https://github.com/inspect-js/get-symbol-description",
+    "l": "get-symbol-description",
+    "t": "get-symbol-description"
+  },
+  {
     "p": "https://github.com/sindresorhus/get-urls",
     "l": "get-urls",
     "t": "get-urls"
@@ -22503,6 +22508,11 @@
     "p": "https://github.com/IonicaBizau/is-semver",
     "l": "is-semver",
     "t": "is-semver"
+  },
+  {
+    "p": "https://github.com/inspect-js/is-set",
+    "l": "is-set",
+    "t": "is-set"
   },
   {
     "p": "https://github.com/IonicaBizau/node-is-ssh",
