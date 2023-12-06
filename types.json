@@ -2105,6 +2105,11 @@
     "t": "async-redis"
   },
   {
+    "p": "https://github.com/fahidarif/rerun",
+    "l": "async-rerun",
+    "t": "async-rerun"
+  },
+  {
     "p": "https://github.com/vercel/async-retry",
     "l": "async-retry",
     "t": "async-retry"
@@ -2138,6 +2143,11 @@
     "p": "https://github.com/RubenVerborgh/AsyncIterator",
     "l": "asynciterator",
     "t": "asynciterator"
+  },
+  {
+    "p": "https://github.com/RyanZim/at-least-node",
+    "l": "at-least-node",
+    "t": "at-least-node"
   },
   {
     "p": "https://github.com/AthenaJS/athenajs",
@@ -4328,6 +4338,16 @@
     "p": "https://github.com/stevelacy/bump-regex",
     "l": "bump-regex",
     "t": "bump-regex"
+  },
+  {
+    "p": "https://github.com/sindresorhus/bundle-id",
+    "l": "bundle-id",
+    "t": "bundle-id"
+  },
+  {
+    "p": "https://github.com/sindresorhus/bundle-name",
+    "l": "bundle-name",
+    "t": "bundle-name"
   },
   {
     "p": "https://github.com/dial-once/node-bunnymq",
@@ -8805,6 +8825,11 @@
     "t": "deezer-sdk"
   },
   {
+    "p": "https://github.com/sindresorhus/default-browser-id",
+    "l": "default-browser-id",
+    "t": "default-browser-id"
+  },
+  {
     "p": "https://github.com/silverwind/default-gateway",
     "l": "default-gateway",
     "t": "default-gateway"
@@ -9018,6 +9043,11 @@
     "p": "https://github.com/danalloway/detect-emoji-support",
     "l": "detect-emoji-support",
     "t": "detect-emoji-support"
+  },
+  {
+    "p": "https://github.com/doowb/detect-file",
+    "l": "detect-file",
+    "t": "detect-file"
   },
   {
     "p": "https://github.com/rafgraph/detect-hover",
@@ -22230,6 +22260,11 @@
     "t": "is-expression"
   },
   {
+    "p": "https://github.com/jonschlinkert/is-extglob",
+    "l": "is-extglob",
+    "t": "is-extglob"
+  },
+  {
     "p": "https://github.com/davidmarkclements/is-file-esm",
     "l": "is-file-esm",
     "t": "is-file-esm"
@@ -22368,6 +22403,11 @@
     "p": "https://github.com/jonschlinkert/is-negated-glob",
     "l": "is-negated-glob",
     "t": "is-negated-glob"
+  },
+  {
+    "p": "https://github.com/inspect-js/is-negative-zero",
+    "l": "is-negative-zero",
+    "t": "is-negative-zero"
   },
   {
     "p": "https://github.com/jonschlinkert/is-number",
@@ -22613,6 +22653,11 @@
     "p": "https://github.com/hacdias/is-valid-zipcode",
     "l": "is-valid-zipcode",
     "t": "is-valid-zipcode"
+  },
+  {
+    "p": "https://github.com/inspect-js/is-weakref",
+    "l": "is-weakref",
+    "t": "is-weakref"
   },
   {
     "p": "https://github.com/jonschlinkert/is-windows",
@@ -35463,6 +35508,11 @@
     "p": "https://github.com/hubgit/passport-orcid",
     "l": "passport-orcid",
     "t": "passport-orcid"
+  },
+  {
+    "p": "https://github.com/qdsang/passport-qq",
+    "l": "passport-qq",
+    "t": "passport-qq"
   },
   {
     "p": "https://github.com/jaredhanson/passport-remember-me",
@@ -49550,6 +49600,11 @@
     "t": "to-markdown"
   },
   {
+    "p": "https://github.com/jonschlinkert/to-object-path",
+    "l": "to-object-path",
+    "t": "to-object-path"
+  },
+  {
     "p": "https://github.com/mikolalysenko/to-px",
     "l": "to-px",
     "t": "to-px"
@@ -50578,6 +50633,11 @@
     "p": "https://github.com/sindresorhus/unique-random-array",
     "l": "unique-random-array",
     "t": "unique-random-array"
+  },
+  {
+    "p": "https://github.com/npm/unique-slug",
+    "l": "unique-slug",
+    "t": "unique-slug"
   },
   {
     "p": "https://github.com/sindresorhus/unique-string",
