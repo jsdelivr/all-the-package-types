@@ -4610,6 +4610,11 @@
     "t": "camelcase-keys-deep"
   },
   {
+    "p": "https://github.com/ljharb/camelize",
+    "l": "camelize",
+    "t": "camelize"
+  },
+  {
     "p": "https://github.com/andrei-markeev/camljs",
     "l": "camljs",
     "t": "camljs"
@@ -43128,6 +43133,11 @@
     "p": "https://github.com/stevenvachon/relateurl",
     "l": "relateurl",
     "t": "relateurl"
+  },
+  {
+    "p": "https://github.com/mumuy/relationship",
+    "l": "relationship.js",
+    "t": "relationship.js"
   },
   {
     "p": "https://github.com/phadej/relaxed-json",
