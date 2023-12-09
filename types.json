@@ -35580,6 +35580,11 @@
     "t": "passport-vkontakte"
   },
   {
+    "p": "https://github.com/xinbenlv/passport-weibo",
+    "l": "passport-weibo",
+    "t": "passport-weibo"
+  },
+  {
     "p": "https://github.com/auth0/passport-windowsauth",
     "l": "passport-windowsauth",
     "t": "passport-windowsauth"
