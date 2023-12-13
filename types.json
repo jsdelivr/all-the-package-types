@@ -51745,6 +51745,11 @@
     "t": "vortex-web-client"
   },
   {
+    "p": "https://github.com/alphacep/vosk-api",
+    "l": "vosk",
+    "t": "vosk"
+  },
+  {
     "p": "https://github.com/rspective/voucher-code-generator-js",
     "l": "voucher-code-generator",
     "t": "voucher-code-generator"
