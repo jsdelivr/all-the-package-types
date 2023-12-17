@@ -4340,6 +4340,11 @@
     "t": "bump-regex"
   },
   {
+    "p": "https://github.com/oven-sh/bun",
+    "l": "bun",
+    "t": "bun"
+  },
+  {
     "p": "https://github.com/sindresorhus/bundle-id",
     "l": "bundle-id",
     "t": "bundle-id"
@@ -50825,8 +50830,8 @@
     "t": "upyun"
   },
   {
-    "p": "https://github.com/NightfallAlicorn/urban-dictionary",
-    "l": "urban-dictionary",
+    "p": null,
+    "l": null,
     "t": "urban-dictionary"
   },
   {
