@@ -44335,6 +44335,11 @@
     "t": "s3-uploader"
   },
   {
+    "p": "https://github.com/orangewise/s3-zip",
+    "l": "s3-zip",
+    "t": "s3-zip"
+  },
+  {
     "p": "https://github.com/jamhall/s3rver",
     "l": "s3rver",
     "t": "s3rver"
