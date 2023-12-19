@@ -13120,6 +13120,11 @@
     "t": "fined"
   },
   {
+    "p": "https://github.com/andypotato/fingerpose",
+    "l": "fingerpose",
+    "t": "fingerpose"
+  },
+  {
     "p": null,
     "l": "fingerprintjs",
     "t": "fingerprintjs"
@@ -24515,7 +24520,7 @@
     "t": "json-schema-traverse"
   },
   {
-    "p": "https://github.com/typicode/json-server",
+    "p": null,
     "l": "json-server",
     "t": "json-server"
   },
@@ -50738,6 +50743,11 @@
     "p": null,
     "l": "unpaginated",
     "t": "unpaginated"
+  },
+  {
+    "p": "https://github.com/lakenen/node-unquote",
+    "l": "unquote",
+    "t": "unquote"
   },
   {
     "p": "https://github.com/unsplash/unsplash-js",
