@@ -7425,6 +7425,11 @@
     "t": "cqrs-domain"
   },
   {
+    "p": "https://github.com/gajus/crack-json",
+    "l": "crack-json",
+    "t": "crack-json"
+  },
+  {
     "p": "https://github.com/dilanx/craco",
     "l": "@craco/craco",
     "t": "craco__craco"
