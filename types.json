@@ -52940,6 +52940,11 @@
     "t": "win-version-info"
   },
   {
+    "p": "https://github.com/stevenvachon/winattr",
+    "l": "winattr",
+    "t": "winattr"
+  },
+  {
     "p": "https://github.com/nextapps-de/winbox",
     "l": "winbox",
     "t": "winbox"
