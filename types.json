@@ -515,6 +515,11 @@
     "t": "ag-grid"
   },
   {
+    "p": "https://github.com/SocketCluster/ag-request",
+    "l": "ag-request",
+    "t": "ag-request"
+  },
+  {
     "p": null,
     "l": "ag-simple-broker",
     "t": "ag-simple-broker"
@@ -1483,6 +1488,11 @@
     "p": "https://github.com/sindresorhus/ansi-escapes",
     "l": "ansi-escapes",
     "t": "ansi-escapes"
+  },
+  {
+    "p": "https://github.com/Tjatse/ansi-html",
+    "l": "ansi-html",
+    "t": "ansi-html"
   },
   {
     "p": "https://github.com/chalk/ansi-regex",
