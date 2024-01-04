@@ -5125,6 +5125,11 @@
     "t": "chalk-pipe"
   },
   {
+    "p": "https://github.com/chamaeleonidae/chmln",
+    "l": "@chamaeleonidae/chmln",
+    "t": "chamaeleonidae__chmln"
+  },
+  {
     "p": "https://github.com/chancejs/chancejs",
     "l": "chance",
     "t": "chance"
@@ -42488,6 +42493,11 @@
     "p": "https://github.com/nodejs/readable-stream",
     "l": "readable-stream",
     "t": "readable-stream"
+  },
+  {
+    "p": "https://github.com/bergos/readable-to-readable",
+    "l": "readable-to-readable",
+    "t": "readable-to-readable"
   },
   {
     "p": "https://github.com/JS-DevTools/readdir-enhanced",
