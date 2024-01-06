@@ -24550,7 +24550,7 @@
     "t": "json-schema-traverse"
   },
   {
-    "p": null,
+    "p": "https://github.com/typicode/json-server",
     "l": "json-server",
     "t": "json-server"
   },
@@ -52195,7 +52195,7 @@
     "t": "wav-encoder"
   },
   {
-    "p": "https://github.com/wavesurfer-js/wavesurfer.js",
+    "p": "https://github.com/katspaugh/wavesurfer.js",
     "l": "wavesurfer.js",
     "t": "wavesurfer.js"
   },
