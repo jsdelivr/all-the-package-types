@@ -49245,6 +49245,11 @@
     "t": "tgfancy"
   },
   {
+    "p": "https://github.com/thegreenwebfoundation/co2.js",
+    "l": "@tgwf/co2",
+    "t": "tgwf__co2"
+  },
+  {
     "p": "https://github.com/system-ui/theme-ui",
     "l": "theme-ui",
     "t": "theme-ui"
