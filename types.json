@@ -5390,6 +5390,11 @@
     "t": "chrome-remote-interface"
   },
   {
+    "p": "https://github.com/fregante/chrome-webstore-upload",
+    "l": "chrome-webstore-upload",
+    "t": "chrome-webstore-upload"
+  },
+  {
     "p": "https://github.com/alxhotel/chromecast-api",
     "l": "chromecast-api",
     "t": "chromecast-api"
