@@ -42230,6 +42230,11 @@
     "t": "react-transition-group"
   },
   {
+    "p": "https://github.com/jpb12/react-tree-graph",
+    "l": "react-tree-graph",
+    "t": "react-tree-graph"
+  },
+  {
     "p": "https://github.com/chenglou/react-treeview",
     "l": "react-treeview",
     "t": "react-treeview"
