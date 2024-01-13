@@ -47810,6 +47810,11 @@
     "t": "string.prototype.matchall"
   },
   {
+    "p": "https://github.com/es-shims/String.prototype.trim",
+    "l": "string.prototype.trim",
+    "t": "string.prototype.trim"
+  },
+  {
     "p": "https://github.com/joshaven/string_score",
     "l": "string_score",
     "t": "string_score"
@@ -49363,6 +49368,11 @@
     "p": "https://github.com/brycebaril/through2-map",
     "l": "through2-map",
     "t": "through2-map"
+  },
+  {
+    "p": null,
+    "l": "throw-empty",
+    "t": "throw-empty"
   },
   {
     "p": "https://github.com/RyanAfrish7/thumbsupply",
