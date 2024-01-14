@@ -18010,6 +18010,11 @@
     "t": "get-node-dimensions"
   },
   {
+    "p": "https://github.com/cfware/get-package-type",
+    "l": "get-package-type",
+    "t": "get-package-type"
+  },
+  {
     "p": "https://github.com/fahad19/get-params",
     "l": "get-params",
     "t": "get-params"
@@ -38845,6 +38850,11 @@
     "t": "rdfjs__fetch-lite"
   },
   {
+    "p": "https://github.com/rdfjs-base/formats",
+    "l": "@rdfjs/formats",
+    "t": "rdfjs__formats"
+  },
+  {
     "p": "https://github.com/rdfjs-base/formats-common",
     "l": "@rdfjs/formats-common",
     "t": "rdfjs__formats-common"
@@ -38893,6 +38903,11 @@
     "p": "https://github.com/rdfjs-base/serializer-rdfjs",
     "l": "@rdfjs/serializer-rdfjs",
     "t": "rdfjs__serializer-rdfjs"
+  },
+  {
+    "p": "https://github.com/rdfjs-base/serializer-turtle",
+    "l": "@rdfjs/serializer-turtle",
+    "t": "rdfjs__serializer-turtle"
   },
   {
     "p": "https://github.com/rdfjs-base/sink-map",
