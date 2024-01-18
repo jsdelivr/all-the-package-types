@@ -14010,7 +14010,7 @@
     "t": "furigana-markdown-it"
   },
   {
-    "p": "https://github.com/StellateHQ/fuse.js",
+    "p": "https://github.com/StellateHQ/fuse",
     "l": "fuse",
     "t": "fuse"
   },
@@ -37320,7 +37320,7 @@
     "t": "pretty-proptypes"
   },
   {
-    "p": "https://github.com/azz/pretty-quick",
+    "p": "https://github.com/prettier/pretty-quick",
     "l": "pretty-quick",
     "t": "pretty-quick"
   },
@@ -53478,6 +53478,11 @@
     "p": "https://github.com/substack/node-wordwrap",
     "l": "wordwrap",
     "t": "wordwrap"
+  },
+  {
+    "p": "https://github.com/75lb/wordwrapjs",
+    "l": "wordwrapjs",
+    "t": "wordwrapjs"
   },
   {
     "p": "https://github.com/googlechrome/workbox",
