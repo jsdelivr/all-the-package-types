@@ -21210,6 +21210,11 @@
     "t": "i18n-abide"
   },
   {
+    "p": "https://github.com/haykelmahfoudhi/i18n-iso-countries-regions",
+    "l": "i18n-iso-countries-regions",
+    "t": "i18n-iso-countries-regions"
+  },
+  {
     "p": "https://github.com/fnando/i18n",
     "l": "i18n-js",
     "t": "i18n-js"
@@ -32023,6 +32028,11 @@
     "p": "https://github.com/emilbayes/nanoassert",
     "l": "nanoassert",
     "t": "nanoassert"
+  },
+  {
+    "p": "https://github.com/mafintosh/nanobench",
+    "l": "nanobench",
+    "t": "nanobench"
   },
   {
     "p": "https://github.com/ai/nanoevents",
