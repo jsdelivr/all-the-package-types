@@ -1930,6 +1930,11 @@
     "t": "array.from"
   },
   {
+    "p": "https://github.com/es-shims/Array.prototype.every",
+    "l": "array.prototype.every",
+    "t": "array.prototype.every"
+  },
+  {
     "p": "https://github.com/es-shims/Array.prototype.flat",
     "l": "array.prototype.flat",
     "t": "array.prototype.flat"
@@ -34068,6 +34073,11 @@
     "p": "https://github.com/bpmn-io/object-refs",
     "l": "object-refs",
     "t": "object-refs"
+  },
+  {
+    "p": "https://github.com/es-shims/Object.entries",
+    "l": "object.entries",
+    "t": "object.entries"
   },
   {
     "p": "https://github.com/es-shims/Object.fromEntries",
