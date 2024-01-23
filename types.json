@@ -1755,6 +1755,11 @@
     "t": "arbiter"
   },
   {
+    "p": "https://github.com/hex7c0/arc4",
+    "l": "arc4",
+    "t": "arc4"
+  },
+  {
     "p": null,
     "l": "arcgis-js-api",
     "t": "arcgis-js-api"
