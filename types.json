@@ -21045,6 +21045,11 @@
     "t": "hubot"
   },
   {
+    "p": "https://github.com/slackapi/hubot-slack",
+    "l": "hubot-slack",
+    "t": "hubot-slack"
+  },
+  {
     "p": null,
     "l": null,
     "t": "hubspot-pace"
@@ -48290,7 +48295,7 @@
     "t": "survicate__react-native-survicate"
   },
   {
-    "p": "https://github.com/ngyewch/svelte-leaflet",
+    "p": "https://github.com/ngyewch/svelte-leafletjs",
     "l": "svelte-leafletjs",
     "t": "svelte-leafletjs"
   },
