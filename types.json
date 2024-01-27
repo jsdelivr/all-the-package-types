@@ -29670,6 +29670,11 @@
     "t": "mapbox__vector-tile"
   },
   {
+    "p": "https://github.com/mimio/mapboxgl-spiderifier",
+    "l": "mapboxgl-spiderifier",
+    "t": "mapboxgl-spiderifier"
+  },
+  {
     "p": "https://github.com/maplibre/maplibre-gl-js",
     "l": "maplibre-gl",
     "t": "maplibre-gl"
