@@ -41935,6 +41935,11 @@
     "t": "react-simple-oauth2-login"
   },
   {
+    "p": "https://github.com/cedricdelpoux/react-simple-tooltip",
+    "l": "react-simple-tooltip",
+    "t": "react-simple-tooltip"
+  },
+  {
     "p": "https://github.com/berrtech/react-size-reporter",
     "l": "react-size-reporter",
     "t": "react-size-reporter"
