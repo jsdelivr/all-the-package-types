@@ -38410,6 +38410,11 @@
     "t": "rails__activestorage"
   },
   {
+    "p": "https://github.com/rails/request.js",
+    "l": "@rails/request.js",
+    "t": "rails__request.js"
+  },
+  {
     "p": "https://github.com/rails/rails",
     "l": "@rails/ujs",
     "t": "rails__ujs"
