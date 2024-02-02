@@ -36500,6 +36500,11 @@
     "t": "playmusic"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "pleasanter-web-script"
+  },
+  {
     "p": "https://github.com/Fooidge/PleaseJS",
     "l": "pleasejs",
     "t": "pleasejs"
