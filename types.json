@@ -22930,6 +22930,11 @@
     "t": "ix.js"
   },
   {
+    "p": "https://github.com/iyzico/iyzipay-node",
+    "l": "iyzipay",
+    "t": "iyzipay"
+  },
+  {
     "p": "https://github.com/dejavu1987/jabber",
     "l": "jabber",
     "t": "jabber"
@@ -31500,7 +31505,7 @@
     "t": "mongoose-simple-random"
   },
   {
-    "p": "https://github.com/blakehaswell/mongoose-unique-validator",
+    "p": "https://github.com/mongoose-unique-validator/mongoose-unique-validator",
     "l": "mongoose-unique-validator",
     "t": "mongoose-unique-validator"
   },
