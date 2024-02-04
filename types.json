@@ -46530,7 +46530,7 @@
     "t": "smshelper"
   },
   {
-    "p": "https://github.com/andris9/smtp-server",
+    "p": "https://github.com/nodemailer/smtp-server",
     "l": "smtp-server",
     "t": "smtp-server"
   },
@@ -48163,6 +48163,11 @@
     "p": "https://github.com/stylus/stylus",
     "l": "stylus",
     "t": "stylus"
+  },
+  {
+    "p": "https://github.com/holepunchto/sub-encoder",
+    "l": "sub-encoder",
+    "t": "sub-encoder"
   },
   {
     "p": "https://github.com/Level/subleveldown",
