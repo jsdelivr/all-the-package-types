@@ -3380,6 +3380,11 @@
     "t": "big-rat"
   },
   {
+    "p": "https://github.com/mafintosh/big-sparse-array",
+    "l": "big-sparse-array",
+    "t": "big-sparse-array"
+  },
+  {
     "p": "https://github.com/MikeMcl/big.js",
     "l": "big.js",
     "t": "big.js"
