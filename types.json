@@ -37060,6 +37060,11 @@
     "t": "postcss-safe-parser"
   },
   {
+    "p": "https://github.com/AleshaOleg/postcss-sass",
+    "l": "postcss-sass",
+    "t": "postcss-sass"
+  },
+  {
     "p": "https://github.com/hudochenkov/postcss-sorting",
     "l": "postcss-sorting",
     "t": "postcss-sorting"
