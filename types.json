@@ -40795,6 +40795,11 @@
     "t": "react-native-dialog"
   },
   {
+    "p": "https://github.com/joseestrella89/react-native-dialog-input",
+    "l": "react-native-dialog-input",
+    "t": "react-native-dialog-input"
+  },
+  {
     "p": "https://github.com/innFactory/react-native-dialogflow",
     "l": "react-native-dialogflow",
     "t": "react-native-dialogflow"
