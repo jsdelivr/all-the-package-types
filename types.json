@@ -29135,6 +29135,11 @@
     "t": "lokijs"
   },
   {
+    "p": "https://github.com/robertmarsal/lolcatjs",
+    "l": "lolcatjs",
+    "t": "lolcatjs"
+  },
+  {
     "p": "https://github.com/sinonjs/lolex",
     "l": "lolex",
     "t": "lolex"
