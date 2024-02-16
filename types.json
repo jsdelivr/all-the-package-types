@@ -43230,6 +43230,11 @@
     "t": "reflect-metadata"
   },
   {
+    "p": "https://github.com/es-shims/Reflect.ownKeys",
+    "l": "reflect.ownkeys",
+    "t": "reflect.ownkeys"
+  },
+  {
     "p": "https://github.com/rebassjs/rebass",
     "l": "reflexbox",
     "t": "reflexbox"
