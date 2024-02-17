@@ -9545,6 +9545,11 @@
     "t": "dockerode"
   },
   {
+    "p": "https://github.com/apocas/dockerode-compose",
+    "l": "dockerode-compose",
+    "t": "dockerode-compose"
+  },
+  {
     "p": "https://github.com/scarnie/docopt.coffee",
     "l": "docopt",
     "t": "docopt"
@@ -24135,7 +24140,7 @@
     "t": "js-base64"
   },
   {
-    "p": "https://github.com/beautify-web/js-beautify",
+    "p": "https://github.com/beautifier/js-beautify",
     "l": "js-beautify",
     "t": "js-beautify"
   },
