@@ -34110,6 +34110,11 @@
     "t": "object-refs"
   },
   {
+    "p": "https://github.com/ljharb/object.assign",
+    "l": "object.assign",
+    "t": "object.assign"
+  },
+  {
     "p": "https://github.com/es-shims/Object.entries",
     "l": "object.entries",
     "t": "object.entries"
