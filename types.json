@@ -46935,7 +46935,7 @@
     "t": "sparkpost"
   },
   {
-    "p": "https://github.com/bergos/sparql-http-client",
+    "p": "https://github.com/rdf-ext/sparql-http-client",
     "l": "sparql-http-client",
     "t": "sparql-http-client"
   },
