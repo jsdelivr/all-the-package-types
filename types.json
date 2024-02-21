@@ -24700,6 +24700,11 @@
     "t": "json2mq"
   },
   {
+    "p": "https://github.com/rikkertkoppes/json2xls",
+    "l": "json2xls",
+    "t": "json2xls"
+  },
+  {
     "p": "https://github.com/estheban/node-json2xml",
     "l": "json2xml",
     "t": "json2xml"
@@ -40400,6 +40405,11 @@
     "t": "react-lazyload"
   },
   {
+    "p": "https://github.com/ahakem/react-lazyload-youtube",
+    "l": "react-lazyload-youtube",
+    "t": "react-lazyload-youtube"
+  },
+  {
     "p": "https://github.com/mozilla-frontend-infra/react-lazylog",
     "l": "react-lazylog",
     "t": "react-lazylog"
@@ -49950,6 +49960,11 @@
     "t": "toposort"
   },
   {
+    "p": null,
+    "l": "@torchlight-api/torchlight-cli",
+    "t": "torchlight-api__torchlight-cli"
+  },
+  {
     "p": "https://github.com/JimmyLaurent/torrent-search-api",
     "l": "torrent-search-api",
     "t": "torrent-search-api"
@@ -51038,6 +51053,11 @@
     "p": "https://github.com/litejs/uri-template-lite",
     "l": "uri-template-lite",
     "t": "uri-template-lite"
+  },
+  {
+    "p": "https://github.com/bergos/uri-template-route",
+    "l": "uri-template-route",
+    "t": "uri-template-route"
   },
   {
     "p": "https://github.com/geraintluff/uri-templates",
@@ -54453,6 +54473,11 @@
     "p": "https://github.com/gajus/youtube-player",
     "l": "youtube-player",
     "t": "youtube-player"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "ysdk"
   },
   {
     "p": "https://github.com/feross/yt-player",
