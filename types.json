@@ -29695,6 +29695,11 @@
     "t": "mapbox__vector-tile"
   },
   {
+    "p": "https://github.com/mapbox/whoots-js",
+    "l": "@mapbox/whoots-js",
+    "t": "mapbox__whoots-js"
+  },
+  {
     "p": "https://github.com/mimio/mapboxgl-spiderifier",
     "l": "mapboxgl-spiderifier",
     "t": "mapboxgl-spiderifier"
@@ -31528,6 +31533,11 @@
     "p": "https://github.com/mongoose-unique-validator/mongoose-unique-validator",
     "l": "mongoose-unique-validator",
     "t": "mongoose-unique-validator"
+  },
+  {
+    "p": "https://github.com/mongoosejs/mongoose-async-hooks",
+    "l": "@mongoosejs/async-hooks",
+    "t": "mongoosejs__async-hooks"
   },
   {
     "p": "https://github.com/vdemedes/mongorito",
@@ -38158,6 +38168,11 @@
     "p": "https://github.com/rapomon/pwd-strength",
     "l": "pwd-strength",
     "t": "pwd-strength"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "pxr-oneline"
   },
   {
     "p": "https://github.com/nprapps/pym.js",
@@ -47155,7 +47170,7 @@
     "t": "sql-formatter"
   },
   {
-    "p": "https://github.com/sqlectron/sql-query-identifier",
+    "p": "https://github.com/coresql/sql-query-identifier",
     "l": "sql-query-identifier",
     "t": "sql-query-identifier"
   },
