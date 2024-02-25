@@ -27125,7 +27125,7 @@
     "t": "libhoney"
   },
   {
-    "p": "https://github.com/andris9/libmime",
+    "p": "https://github.com/nodemailer/libmime",
     "l": "libmime",
     "t": "libmime"
   },
@@ -27155,7 +27155,7 @@
     "t": "libpq"
   },
   {
-    "p": "https://github.com/andris9/libqp",
+    "p": "https://github.com/nodemailer/libqp",
     "l": "libqp",
     "t": "libqp"
   },
@@ -35883,6 +35883,11 @@
     "p": "https://github.com/kehers/paystack",
     "l": "paystack",
     "t": "paystack"
+  },
+  {
+    "p": "https://github.com/paytm/Paytm_Node_Checksum",
+    "l": "paytmchecksum",
+    "t": "paytmchecksum"
   },
   {
     "p": null,
