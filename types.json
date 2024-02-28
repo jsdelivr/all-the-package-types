@@ -1940,6 +1940,11 @@
     "t": "array.prototype.every"
   },
   {
+    "p": "https://github.com/paulmillr/Array.prototype.find",
+    "l": "array.prototype.find",
+    "t": "array.prototype.find"
+  },
+  {
     "p": "https://github.com/es-shims/Array.prototype.flat",
     "l": "array.prototype.flat",
     "t": "array.prototype.flat"
@@ -3513,6 +3518,11 @@
     "p": "https://github.com/bitcoinjs/bip38",
     "l": "bip38",
     "t": "bip38"
+  },
+  {
+    "p": "https://github.com/groestlcoin/bip38grs",
+    "l": "bip38grs",
+    "t": "bip38grs"
   },
   {
     "p": "https://github.com/bitcoinjs/bip39",
@@ -20710,6 +20720,11 @@
     "t": "hot-formula-parser"
   },
   {
+    "p": "https://github.com/hotwired/turbo",
+    "l": "@hotwired/turbo",
+    "t": "hotwired__turbo"
+  },
+  {
     "p": "https://github.com/goldfire/howler.js",
     "l": "howler",
     "t": "howler"
@@ -21868,6 +21883,11 @@
     "p": "https://github.com/Instabug/Instabug-React-Native",
     "l": "instabug-reactnative",
     "t": "instabug-reactnative"
+  },
+  {
+    "p": "https://github.com/stevenschobert/instafeed.js",
+    "l": "instafeed.js",
+    "t": "instafeed.js"
   },
   {
     "p": "https://github.com/dannycoates/int53",
@@ -30785,6 +30805,11 @@
     "t": "mfiles"
   },
   {
+    "p": "https://github.com/Geotab/mg-api-js",
+    "l": "mg-api-js",
+    "t": "mg-api-js"
+  },
+  {
     "p": "https://github.com/vercel/micro",
     "l": "micro",
     "t": "micro"
@@ -31333,6 +31358,11 @@
     "p": "https://github.com/niwaringo/moji",
     "l": "moji",
     "t": "moji"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "mokapi"
   },
   {
     "p": "https://github.com/moment/moment",
@@ -34450,6 +34480,11 @@
     "t": "open-graph-scraper"
   },
   {
+    "p": null,
+    "l": "open-location-code",
+    "t": "open-location-code"
+  },
+  {
     "p": "https://github.com/open-wc/open-wc",
     "l": "@open-wc/testing-karma",
     "t": "open-wc__testing-karma"
@@ -37088,6 +37123,11 @@
     "p": null,
     "l": "postcss-resolve-nested-selector",
     "t": "postcss-resolve-nested-selector"
+  },
+  {
+    "p": "https://github.com/vkalinichev/postcss-rtl",
+    "l": "postcss-rtl",
+    "t": "postcss-rtl"
   },
   {
     "p": "https://github.com/postcss/postcss-safe-parser",
@@ -43573,6 +43613,11 @@
     "p": "https://github.com/reduxjs/reselect",
     "l": "reselect",
     "t": "reselect"
+  },
+  {
+    "p": "https://github.com/skortchmark9/reselect-tools",
+    "l": "reselect-tools",
+    "t": "reselect-tools"
   },
   {
     "p": "https://github.com/rsmbl/Resemble.js",
@@ -54728,6 +54773,11 @@
     "p": "https://github.com/imagemin/zopflipng-bin",
     "l": "zopflipng-bin",
     "t": "zopflipng-bin"
+  },
+  {
+    "p": "https://github.com/metafloor/zpl-image",
+    "l": "zpl-image",
+    "t": "zpl-image"
   },
   {
     "p": "https://github.com/ecomfe/zrender",
