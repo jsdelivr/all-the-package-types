@@ -7275,6 +7275,11 @@
     "t": "cordova-plugin-safariviewcontroller"
   },
   {
+    "p": "https://github.com/Amphiluke/cordova-plugin-save-dialog",
+    "l": "cordova-plugin-save-dialog",
+    "t": "cordova-plugin-save-dialog"
+  },
+  {
     "p": "https://github.com/justin-credible/cordova-plugin-spinner",
     "l": "cordova-plugin-spinner",
     "t": "cordova-plugin-spinner"
@@ -22120,7 +22125,7 @@
     "t": "ip-regex"
   },
   {
-    "p": "https://github.com/franksrevenge/IPSubnetCalculator",
+    "p": "https://github.com/salieri/IPSubnetCalculator",
     "l": "ip-subnet-calculator",
     "t": "ip-subnet-calculator"
   },
@@ -34115,6 +34120,11 @@
     "t": "object-inspect"
   },
   {
+    "p": "https://github.com/es-shims/object-is",
+    "l": "object-is",
+    "t": "object-is"
+  },
+  {
     "p": "https://github.com/sarukuku/object-joiner",
     "l": "object-joiner",
     "t": "object-joiner"
@@ -34178,6 +34188,11 @@
     "p": "https://github.com/es-shims/Object.groupBy",
     "l": "object.groupby",
     "t": "object.groupby"
+  },
+  {
+    "p": "https://github.com/m59peacemaker/js-object.is",
+    "l": "object.is",
+    "t": "object.is"
   },
   {
     "p": "https://github.com/jonschlinkert/object.omit",
@@ -35403,6 +35418,11 @@
     "p": "https://github.com/ppaskaris/node-parse-prefer-header",
     "l": "parse-prefer-header",
     "t": "parse-prefer-header"
+  },
+  {
+    "p": "https://github.com/albell/parse-srcset",
+    "l": "parse-srcset",
+    "t": "parse-srcset"
   },
   {
     "p": "https://github.com/webtorrent/parse-torrent",
@@ -36965,6 +36985,11 @@
     "t": "postcss-custom-properties"
   },
   {
+    "p": "https://github.com/csstools/postcss-plugins",
+    "l": "postcss-env-function",
+    "t": "postcss-env-function"
+  },
+  {
     "p": "https://github.com/luisrudge/postcss-flexbugs-fixes",
     "l": "postcss-flexbugs-fixes",
     "t": "postcss-flexbugs-fixes"
@@ -37323,6 +37348,11 @@
     "p": "https://github.com/tniessen/node-pqclean",
     "l": "pqclean",
     "t": "pqclean"
+  },
+  {
+    "p": "https://github.com/egoist/pragma",
+    "l": "pragma",
+    "t": "pragma"
   },
   {
     "p": "https://github.com/zeh/prando",
