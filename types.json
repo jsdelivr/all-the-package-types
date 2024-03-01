@@ -435,6 +435,11 @@
     "t": "adobe__aio-lib-analytics"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "adobe__ccweb-add-on-sdk"
+  },
+  {
     "p": "https://github.com/adobe/es-modules-middleware",
     "l": "@adobe/es-modules-middleware",
     "t": "adobe__es-modules-middleware"
@@ -31106,6 +31111,11 @@
   },
   {
     "p": "https://github.com/mjmlio/mjml",
+    "l": "mjml-browser",
+    "t": "mjml-browser"
+  },
+  {
+    "p": "https://github.com/mjmlio/mjml",
     "l": "mjml-core",
     "t": "mjml-core"
   },
@@ -43453,6 +43463,11 @@
     "p": "https://github.com/zestedesavoir/zmarkdown/tree/master/packages/remark-abbr",
     "l": "remark-abbr",
     "t": "remark-abbr"
+  },
+  {
+    "p": "https://github.com/imcuttle/remark-heading-id",
+    "l": "remark-heading-id",
+    "t": "remark-heading-id"
   },
   {
     "p": "https://github.com/sergioramos/remark-hint",
