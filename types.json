@@ -29435,6 +29435,11 @@
     "t": "magicsuggest"
   },
   {
+    "p": "https://github.com/google/magika",
+    "l": "magika",
+    "t": "magika"
+  },
+  {
     "p": "https://github.com/webtorrent/magnet-uri",
     "l": "magnet-uri",
     "t": "magnet-uri"
@@ -38485,6 +38490,11 @@
     "t": "qwest"
   },
   {
+    "p": "https://github.com/qzind/tray",
+    "l": "qz-tray",
+    "t": "qz-tray"
+  },
+  {
     "p": "https://github.com/joshkatz/r-script",
     "l": "r-script",
     "t": "r-script"
@@ -43398,6 +43408,11 @@
     "p": "https://github.com/devongovett/regexgen",
     "l": "regexgen",
     "t": "regexgen"
+  },
+  {
+    "p": "https://github.com/es-shims/RegExp.prototype.flags",
+    "l": "regexp.prototype.flags",
+    "t": "regexp.prototype.flags"
   },
   {
     "p": "https://github.com/rexxars/registry-auth-token",
