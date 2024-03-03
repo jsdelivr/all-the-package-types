@@ -39935,6 +39935,11 @@
     "t": "react-ellipsis-with-tooltip"
   },
   {
+    "p": "https://github.com/evancz/react-elm-components",
+    "l": "react-elm-components",
+    "t": "react-elm-components"
+  },
+  {
     "p": "https://github.com/unlayer/react-email-editor",
     "l": "react-email-editor",
     "t": "react-email-editor"
