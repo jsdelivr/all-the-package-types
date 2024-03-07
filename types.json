@@ -36505,7 +36505,7 @@
     "t": "pixi-spine"
   },
   {
-    "p": "https://github.com/pixijs/pixijs",
+    "p": null,
     "l": "pixi.js",
     "t": "pixi.js"
   },
@@ -52143,6 +52143,11 @@
     "p": "https://github.com/mhusseini/vssln-parser",
     "l": "vssln-parser",
     "t": "vssln-parser"
+  },
+  {
+    "p": "https://github.com/vtex/vtex.js",
+    "l": "vtex.js",
+    "t": "vtex.js"
   },
   {
     "p": "https://github.com/vuejs/core",
