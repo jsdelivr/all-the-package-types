@@ -11420,6 +11420,11 @@
     "t": "eslint-plugin-markdown"
   },
   {
+    "p": "https://github.com/lo1tuma/eslint-plugin-mocha",
+    "l": "eslint-plugin-mocha",
+    "t": "eslint-plugin-mocha"
+  },
+  {
     "p": "https://github.com/prettier/eslint-plugin-prettier",
     "l": "eslint-plugin-prettier",
     "t": "eslint-plugin-prettier"
