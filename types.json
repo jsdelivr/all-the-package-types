@@ -29410,6 +29410,11 @@
     "t": "lzbase62"
   },
   {
+    "p": "https://github.com/nmrugg/LZMA-JS",
+    "l": "lzma",
+    "t": "lzma"
+  },
+  {
     "p": "https://github.com/addaleax/lzma-native",
     "l": "lzma-native",
     "t": "lzma-native"
@@ -49813,6 +49818,11 @@
     "p": "https://github.com/bitcoinjs/tiny-secp256k1",
     "l": "tiny-secp256k1",
     "t": "tiny-secp256k1"
+  },
+  {
+    "p": "https://github.com/leungwensen/tiny-segmenter",
+    "l": "tiny-segmenter",
+    "t": "tiny-segmenter"
   },
   {
     "p": "https://github.com/jechav/tiny-slider-react",
