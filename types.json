@@ -6115,7 +6115,7 @@
     "t": "cloudevents-sdk"
   },
   {
-    "p": "https://github.com/cloudflare/node-cloudflare",
+    "p": "https://github.com/cloudflare/cloudflare-typescript",
     "l": "cloudflare",
     "t": "cloudflare"
   },
