@@ -21080,6 +21080,11 @@
     "t": "httpsnippet"
   },
   {
+    "p": "https://github.com/httptoolkit/esm",
+    "l": "@httptoolkit/esm",
+    "t": "httptoolkit__esm"
+  },
+  {
     "p": "https://github.com/hubotio/hubot",
     "l": "hubot",
     "t": "hubot"
@@ -51905,7 +51910,7 @@
     "t": "videojs-errors"
   },
   {
-    "p": "https://github.com/chrisboustead/videojs-hls-quality-selector",
+    "p": null,
     "l": "videojs-hls-quality-selector",
     "t": "videojs-hls-quality-selector"
   },
