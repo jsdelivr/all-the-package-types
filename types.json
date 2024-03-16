@@ -22860,7 +22860,7 @@
     "t": "isstream"
   },
   {
-    "p": "https://github.com/pvdlg/issue-parser",
+    "p": "https://github.com/semantic-release/issue-parser",
     "l": "issue-parser",
     "t": "issue-parser"
   },
@@ -52283,6 +52283,11 @@
     "p": null,
     "l": "vue-the-mask",
     "t": "vue-the-mask"
+  },
+  {
+    "p": "https://github.com/quelchx/vue-writer",
+    "l": "vue-writer",
+    "t": "vue-writer"
   },
   {
     "p": "https://github.com/mengxiong10/vue2-datepicker",
