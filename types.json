@@ -1925,6 +1925,11 @@
     "t": "array-sort"
   },
   {
+    "p": "https://github.com/shinnn/array-to-sentence",
+    "l": "array-to-sentence",
+    "t": "array-to-sentence"
+  },
+  {
     "p": "https://github.com/sindresorhus/array-uniq",
     "l": "array-uniq",
     "t": "array-uniq"
