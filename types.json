@@ -4925,6 +4925,11 @@
     "t": "cbor"
   },
   {
+    "p": "https://github.com/paroga/cbor-js",
+    "l": "cbor-js",
+    "t": "cbor-js"
+  },
+  {
     "p": "https://github.com/DoubleSpout/ccap",
     "l": "ccap",
     "t": "ccap"
@@ -46763,6 +46768,11 @@
     "p": "https://github.com/Brooooooklyn/snappy",
     "l": "snappy",
     "t": "snappy"
+  },
+  {
+    "p": "https://github.com/zhipeng-jia/snappyjs",
+    "l": "snappyjs",
+    "t": "snappyjs"
   },
   {
     "p": "https://github.com/adobe-webplatform/Snap.svg",
