@@ -4890,6 +4890,11 @@
     "t": "cassanknex"
   },
   {
+    "p": "https://github.com/thibauts/node-castv2",
+    "l": "castv2",
+    "t": "castv2"
+  },
+  {
     "p": "https://github.com/interactivethings/catalog",
     "l": "catalog",
     "t": "catalog"
@@ -18375,6 +18380,11 @@
     "t": "github"
   },
   {
+    "p": "https://github.com/substack/github-from-package",
+    "l": "github-from-package",
+    "t": "github-from-package"
+  },
+  {
     "p": "https://github.com/Financial-Times/github-label-sync",
     "l": "github-label-sync",
     "t": "github-label-sync"
@@ -30238,6 +30248,11 @@
     "p": "https://github.com/mathjax/MathJax",
     "l": "mathjax",
     "t": "mathjax"
+  },
+  {
+    "p": "https://github.com/mathjax/MathJax-node",
+    "l": "mathjax-node",
+    "t": "mathjax-node"
   },
   {
     "p": "https://github.com/josdejong/mathjs",
