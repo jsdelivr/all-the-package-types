@@ -11680,6 +11680,11 @@
     "t": "event-to-promise"
   },
   {
+    "p": "https://github.com/krasimir/EventBus",
+    "l": "eventbusjs",
+    "t": "eventbusjs"
+  },
+  {
     "p": "https://github.com/hij1nx/EventEmitter2",
     "l": "eventemitter2",
     "t": "eventemitter2"
