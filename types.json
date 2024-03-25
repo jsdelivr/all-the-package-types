@@ -52015,6 +52015,11 @@
     "t": "vimeo__player"
   },
   {
+    "p": "https://github.com/vimeo/vimeo.js",
+    "l": "@vimeo/vimeo",
+    "t": "vimeo__vimeo"
+  },
+  {
     "p": "https://github.com/gulpjs/vinyl",
     "l": "vinyl",
     "t": "vinyl"
