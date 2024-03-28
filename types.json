@@ -9250,7 +9250,7 @@
     "t": "devtools-detect"
   },
   {
-    "p": "https://github.com/dfahlander/Dexie.js",
+    "p": "https://github.com/dexie/Dexie.js",
     "l": "dexie",
     "t": "dexie"
   },
@@ -49100,7 +49100,7 @@
     "t": "tailwindcss"
   },
   {
-    "p": "https://github.com/tailwindcss/typography",
+    "p": "https://github.com/tailwindlabs/tailwindcss-typography",
     "l": "@tailwindcss/typography",
     "t": "tailwindcss__typography"
   },
