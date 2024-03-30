@@ -955,7 +955,7 @@
     "t": "amp-message"
   },
   {
-    "p": "https://github.com/ampproject/amphtml/blob/main/validator",
+    "p": "https://github.com/ampproject/amphtml",
     "l": "amphtml-validator",
     "t": "amphtml-validator"
   },
@@ -3870,6 +3870,11 @@
     "t": "bootstrap-growl-ifightcrime"
   },
   {
+    "p": "https://github.com/paullaros/bootstrap-icons-react",
+    "l": "bootstrap-icons-react",
+    "t": "bootstrap-icons-react"
+  },
+  {
     "p": "https://github.com/mimo84/bootstrap-maxlength",
     "l": "bootstrap-maxlength",
     "t": "bootstrap-maxlength"
@@ -4918,6 +4923,11 @@
     "p": "https://github.com/catho/quantum",
     "l": "@catho/quantum",
     "t": "catho__quantum"
+  },
+  {
+    "p": "https://github.com/tcort/caverphone",
+    "l": "caverphone",
+    "t": "caverphone"
   },
   {
     "p": "https://github.com/pixielabs/cavy",
@@ -21685,6 +21695,11 @@
     "t": "imsi-grok"
   },
   {
+    "p": "https://github.com/fatelei/imagetype",
+    "l": "imtype",
+    "t": "imtype"
+  },
+  {
     "p": "https://github.com/sindresorhus/imul",
     "l": "imul",
     "t": "imul"
@@ -29435,6 +29450,11 @@
     "t": "lz4"
   },
   {
+    "p": "https://github.com/Benzinga/lz4js",
+    "l": "lz4js",
+    "t": "lz4js"
+  },
+  {
     "p": "https://github.com/polygonplanet/lzbase62",
     "l": "lzbase62",
     "t": "lzbase62"
@@ -36035,6 +36055,11 @@
     "t": "pcm-volume"
   },
   {
+    "p": "https://github.com/warpdesign/pcx-js",
+    "l": "pcx-js",
+    "t": "pcx-js"
+  },
+  {
     "p": "https://github.com/Marak/pdf.js",
     "l": "pdf",
     "t": "pdf"
@@ -36133,6 +36158,11 @@
     "p": "https://github.com/bcherny/penner",
     "l": "penner",
     "t": "penner"
+  },
+  {
+    "p": "https://github.com/arthurvr/percentage-regex",
+    "l": "percentage-regex",
+    "t": "percentage-regex"
   },
   {
     "p": "https://github.com/mdbootstrap/perfect-scrollbar",
@@ -40553,6 +40583,11 @@
     "p": "https://github.com/linsight/react-keyboard-event-handler",
     "l": "react-keyboard-event-handler",
     "t": "react-keyboard-event-handler"
+  },
+  {
+    "p": "https://github.com/CostasAK/react-kofi-button",
+    "l": "react-kofi-button",
+    "t": "react-kofi-button"
   },
   {
     "p": "https://github.com/zzish/react-latex",
@@ -54383,6 +54418,11 @@
     "p": "https://github.com/xojs/xo",
     "l": "xo",
     "t": "xo"
+  },
+  {
+    "p": "https://github.com/carlipa/node-xrandr",
+    "l": "xrandr",
+    "t": "xrandr"
   },
   {
     "p": "https://github.com/slevithan/xregexp",
