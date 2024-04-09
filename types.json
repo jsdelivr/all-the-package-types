@@ -570,6 +570,11 @@
     "t": "agora-rtc-sdk"
   },
   {
+    "p": "https://github.com/BrunoRB/ahocorasick",
+    "l": "ahocorasick",
+    "t": "ahocorasick"
+  },
+  {
     "p": "https://github.com/ankane/ahoy.js",
     "l": "ahoy.js",
     "t": "ahoy.js"
@@ -4535,7 +4540,7 @@
     "t": "cacache"
   },
   {
-    "p": "https://github.com/node-cache-manager/node-cache-manager",
+    "p": "https://github.com/jaredwray/cache-manager",
     "l": "cache-manager",
     "t": "cache-manager"
   },
@@ -11488,6 +11493,11 @@
     "p": "https://github.com/fisker/esm-utils",
     "l": "esm-utils",
     "t": "esm-utils"
+  },
+  {
+    "p": "https://github.com/eslint/espree",
+    "l": "espree",
+    "t": "espree"
   },
   {
     "p": "https://github.com/jquery/esprima",
@@ -21913,6 +21923,11 @@
     "p": "https://github.com/SBoudrias/inquirer-npm-name",
     "l": "inquirer-npm-name",
     "t": "inquirer-npm-name"
+  },
+  {
+    "p": "https://github.com/bevacqua/insane",
+    "l": "insane",
+    "t": "insane"
   },
   {
     "p": "https://github.com/substack/insert-css",
@@ -43825,6 +43840,11 @@
     "t": "resolve-global"
   },
   {
+    "p": null,
+    "l": "resolve-id-refs",
+    "t": "resolve-id-refs"
+  },
+  {
     "p": "https://github.com/gulpjs/resolve-options",
     "l": "resolve-options",
     "t": "resolve-options"
@@ -44988,6 +45008,11 @@
     "p": "https://github.com/f5io/satnav-js",
     "l": "satnav",
     "t": "satnav"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "saturn-web"
   },
   {
     "p": "https://github.com/HealthWave/sauronjs",
@@ -54758,6 +54783,11 @@
     "p": "https://github.com/zaggino/z-schema",
     "l": "z-schema",
     "t": "z-schema"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "zafclient"
   },
   {
     "p": "https://github.com/krakenjs/zalgo-promise",
