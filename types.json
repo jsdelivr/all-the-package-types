@@ -5505,6 +5505,11 @@
     "t": "cidr-matcher"
   },
   {
+    "p": "https://github.com/Shnoo/js-CIE-1931-rgb-color-converter",
+    "l": "cie-rgb-color-converter",
+    "t": "cie-rgb-color-converter"
+  },
+  {
     "p": "https://github.com/crypto-browserify/cipher-base",
     "l": "cipher-base",
     "t": "cipher-base"
