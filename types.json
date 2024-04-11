@@ -6905,6 +6905,11 @@
     "t": "consolidate"
   },
   {
+    "p": "https://github.com/lencioni/consolidated-events",
+    "l": "consolidated-events",
+    "t": "consolidated-events"
+  },
+  {
     "p": "https://github.com/blakeembrey/change-case",
     "l": "constant-case",
     "t": "constant-case"
@@ -44495,6 +44500,11 @@
     "t": "rrc"
   },
   {
+    "p": "https://github.com/Chrriis/rrdiagram-js",
+    "l": "rrdiagram-js",
+    "t": "rrdiagram-js"
+  },
+  {
     "p": "https://github.com/silverwind/rrdir",
     "l": "rrdir",
     "t": "rrdir"
@@ -49628,6 +49638,11 @@
     "p": null,
     "l": "texzilla",
     "t": "texzilla"
+  },
+  {
+    "p": null,
+    "l": "@tg-ads-mediation/ads-cdn",
+    "t": "tg-ads-mediation__ads-cdn"
   },
   {
     "p": "https://github.com/GochoMugo/tgfancy",
