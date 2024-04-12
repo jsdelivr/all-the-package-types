@@ -19830,6 +19830,11 @@
     "t": "gulp-tap"
   },
   {
+    "p": "https://github.com/sindresorhus/gulp-tar",
+    "l": "gulp-tar",
+    "t": "gulp-tar"
+  },
+  {
     "p": "https://github.com/OverZealous/gulp-task-listing",
     "l": "gulp-task-listing",
     "t": "gulp-task-listing"
