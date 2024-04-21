@@ -22670,6 +22670,11 @@
     "t": "is-posix-bracket"
   },
   {
+    "p": "https://github.com/mathiasbynens/is-potential-custom-element-name",
+    "l": "is-potential-custom-element-name",
+    "t": "is-potential-custom-element-name"
+  },
+  {
     "p": "https://github.com/watson/is-pr",
     "l": "is-pr",
     "t": "is-pr"
