@@ -30420,6 +30420,11 @@
     "t": "mdx-js__react"
   },
   {
+    "p": "https://github.com/mrmalhotra/meaningful-string",
+    "l": "meaningful-string",
+    "t": "meaningful-string"
+  },
+  {
     "p": "https://github.com/jshttp/media-typer",
     "l": "media-typer",
     "t": "media-typer"
