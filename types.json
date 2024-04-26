@@ -46120,7 +46120,7 @@
     "t": "shipit-utils"
   },
   {
-    "p": "https://github.com/goshippo/shippo-node-client",
+    "p": "https://github.com/goshippo/shippo-javascript-sdk",
     "l": "shippo",
     "t": "shippo"
   },
