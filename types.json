@@ -5990,6 +5990,11 @@
     "t": "cleave.js"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "clerk.io"
+  },
+  {
     "p": "https://github.com/CleverTap/clevertap-node",
     "l": "clevertap",
     "t": "clevertap"
@@ -43605,7 +43610,7 @@
     "t": "reload"
   },
   {
-    "p": "https://github.com/zestedesavoir/zmarkdown/tree/master/packages/remark-abbr",
+    "p": "https://github.com/zestedesavoir/zmarkdown",
     "l": "remark-abbr",
     "t": "remark-abbr"
   },
