@@ -13030,6 +13030,11 @@
     "t": "filemaker-webviewer"
   },
   {
+    "p": "https://github.com/sindresorhus/filename-reserved-regex",
+    "l": "filename-reserved-regex",
+    "t": "filename-reserved-regex"
+  },
+  {
     "p": "https://github.com/sindresorhus/filenamify",
     "l": "filenamify",
     "t": "filenamify"
