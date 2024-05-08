@@ -46785,6 +46785,11 @@
     "t": "slug"
   },
   {
+    "p": "https://github.com/apostrophecms/sluggo",
+    "l": "sluggo",
+    "t": "sluggo"
+  },
+  {
     "p": "https://github.com/JuneAndGreen/sm-crypto",
     "l": "sm-crypto",
     "t": "sm-crypto"
