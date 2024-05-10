@@ -1745,6 +1745,11 @@
     "t": "applicationinsights-js"
   },
   {
+    "p": "https://github.com/nfriedly/approximate-number",
+    "l": "approximate-number",
+    "t": "approximate-number"
+  },
+  {
     "p": null,
     "l": "@apptimize/apptimize-web-sdk",
     "t": "apptimize__apptimize-web-sdk"
@@ -22933,6 +22938,11 @@
     "p": "https://github.com/isomorphic-git/lightning-fs",
     "l": "@isomorphic-git/lightning-fs",
     "t": "isomorphic-git__lightning-fs"
+  },
+  {
+    "p": "https://github.com/isomorphic-git/openpgp-plugin",
+    "l": "@isomorphic-git/openpgp-plugin",
+    "t": "isomorphic-git__openpgp-plugin"
   },
   {
     "p": "https://github.com/metafizzy/isotope",
