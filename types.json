@@ -24730,7 +24730,7 @@
     "t": "json-schema-traverse"
   },
   {
-    "p": null,
+    "p": "https://github.com/typicode/json-server",
     "l": "json-server",
     "t": "json-server"
   },
