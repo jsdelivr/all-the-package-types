@@ -6465,7 +6465,7 @@
     "t": "combokeys"
   },
   {
-    "p": "https://github.com/cometd/cometd",
+    "p": "https://github.com/cometd/cometd-javascript",
     "l": "cometd",
     "t": "cometd"
   },
@@ -11478,6 +11478,11 @@
     "p": "https://github.com/prettier/eslint-plugin-prettier",
     "l": "eslint-plugin-prettier",
     "t": "eslint-plugin-prettier"
+  },
+  {
+    "p": "https://github.com/eslint-community/eslint-plugin-security",
+    "l": "eslint-plugin-security",
+    "t": "eslint-plugin-security"
   },
   {
     "p": "https://github.com/eslint/eslint-scope",
@@ -39130,6 +39135,16 @@
     "t": "rdf-loaders-registry"
   },
   {
+    "p": "https://github.com/rdf-ext/rdf-parser-csvw",
+    "l": "rdf-parser-csvw",
+    "t": "rdf-parser-csvw"
+  },
+  {
+    "p": "https://github.com/rdf-ext/rdf-parser-csvw-xlsx",
+    "l": "rdf-parser-csvw-xlsx",
+    "t": "rdf-parser-csvw-xlsx"
+  },
+  {
     "p": "https://github.com/rdf-ext/rdf-store-fs",
     "l": "rdf-store-fs",
     "t": "rdf-store-fs"
@@ -39253,6 +39268,11 @@
     "p": "https://github.com/rdfjs-base/sink-map",
     "l": "@rdfjs/sink-map",
     "t": "rdfjs__sink-map"
+  },
+  {
+    "p": "https://github.com/rdfjs-base/sink-to-duplex",
+    "l": "@rdfjs/sink-to-duplex",
+    "t": "rdfjs__sink-to-duplex"
   },
   {
     "p": "https://github.com/rdfjs-base/term-map",
@@ -42283,6 +42303,11 @@
     "p": "https://github.com/zillow/react-slider",
     "l": "react-slider",
     "t": "react-slider"
+  },
+  {
+    "p": "https://github.com/patw0929/react-smartbanner",
+    "l": "react-smartbanner",
+    "t": "react-smartbanner"
   },
   {
     "p": "https://github.com/idiotWu/react-smooth-scrollbar",
