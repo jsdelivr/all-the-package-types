@@ -6520,6 +6520,11 @@
     "t": "comment-json"
   },
   {
+    "p": null,
+    "l": "@commerce7/admin-ui",
+    "t": "commerce7__admin-ui"
+  },
+  {
     "p": "https://github.com/commercetools/enzyme-extensions",
     "l": "@commercetools/enzyme-extensions",
     "t": "commercetools__enzyme-extensions"
@@ -38373,6 +38378,11 @@
     "p": "https://github.com/felixgirault/pure-render-decorator",
     "l": "pure-render-decorator",
     "t": "pure-render-decorator"
+  },
+  {
+    "p": "https://github.com/One-com/purify",
+    "l": "purify",
+    "t": "purify"
   },
   {
     "p": "https://github.com/webpack-contrib/purifycss-webpack",
