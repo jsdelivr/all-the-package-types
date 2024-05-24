@@ -4110,6 +4110,11 @@
     "t": "bristol-sentry"
   },
   {
+    "p": "https://github.com/holepunchto/brittle",
+    "l": "brittle",
+    "t": "brittle"
+  },
+  {
     "p": "https://github.com/vitalets/bro-fs",
     "l": "bro-fs",
     "t": "bro-fs"
@@ -10748,6 +10753,11 @@
     "p": "https://github.com/kripod/elgamal.js",
     "l": "elgamal",
     "t": "elgamal"
+  },
+  {
+    "p": "https://github.com/tkafka/node-elizabot",
+    "l": "elizabot",
+    "t": "elizabot"
   },
   {
     "p": "https://github.com/mvhenten/ellipsize",
@@ -45870,7 +45880,7 @@
     "t": "server-timing-header"
   },
   {
-    "p": "https://github.com/serverless/serverless",
+    "p": null,
     "l": "serverless",
     "t": "serverless"
   },
