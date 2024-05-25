@@ -30100,6 +30100,11 @@
     "t": "massive"
   },
   {
+    "p": "https://github.com/Mastercard/client-encryption-nodejs",
+    "l": "mastercard-client-encryption",
+    "t": "mastercard-client-encryption"
+  },
+  {
     "p": "https://github.com/Mastercard/oauth1-signer-nodejs",
     "l": "mastercard-oauth1-signer",
     "t": "mastercard-oauth1-signer"
@@ -47035,7 +47040,7 @@
     "t": "soap"
   },
   {
-    "p": "https://github.com/Automattic/social-logos",
+    "p": "https://github.com/Automattic/jetpack",
     "l": "social-logos",
     "t": "social-logos"
   },
