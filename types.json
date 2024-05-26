@@ -9240,6 +9240,11 @@
     "t": "detect-port"
   },
   {
+    "p": "https://github.com/fourcube/detect-rpi",
+    "l": "detect-rpi",
+    "t": "detect-rpi"
+  },
+  {
     "p": "https://github.com/rafgraph/detect-touch",
     "l": "detect-touch",
     "t": "detect-touch"
