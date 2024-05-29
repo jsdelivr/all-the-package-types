@@ -49740,7 +49740,7 @@
     "t": "texzilla"
   },
   {
-    "p": null,
+    "p": "https://github.com/tg-ads-mediation/ads",
     "l": "@tg-ads-mediation/ads-cdn",
     "t": "tg-ads-mediation__ads-cdn"
   },
