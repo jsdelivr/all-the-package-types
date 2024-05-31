@@ -27275,6 +27275,11 @@
     "t": "lexicographic-integer"
   },
   {
+    "p": "https://github.com/dmitriiabramov/lfsr",
+    "l": "lfsr",
+    "t": "lfsr"
+  },
+  {
     "p": "https://github.com/hobbyquaker/lgtv2",
     "l": "lgtv2",
     "t": "lgtv2"
@@ -31703,6 +31708,11 @@
     "p": "https://github.com/CampbellSoftwareSolutions/mongoose-id-validator",
     "l": "mongoose-id-validator",
     "t": "mongoose-id-validator"
+  },
+  {
+    "p": "https://github.com/vkarpov15/mongoose-lean-id",
+    "l": "mongoose-lean-id",
+    "t": "mongoose-lean-id"
   },
   {
     "p": "https://github.com/vkarpov15/mongoose-lean-virtuals",
