@@ -6865,6 +6865,11 @@
     "t": "connect-redis"
   },
   {
+    "p": "https://github.com/baryshev/connect-route",
+    "l": "connect-route",
+    "t": "connect-route"
+  },
+  {
     "p": "https://github.com/sirap-group/connect-sequence",
     "l": "connect-sequence",
     "t": "connect-sequence"
@@ -46840,6 +46845,11 @@
     "t": "slimerjs"
   },
   {
+    "p": "https://github.com/colinbdclark/slip.js",
+    "l": "slip",
+    "t": "slip"
+  },
+  {
     "p": "https://github.com/flosse/sloc",
     "l": "sloc",
     "t": "sloc"
@@ -50293,6 +50303,11 @@
     "p": "https://github.com/trendmicro-frontend/tonic-ui",
     "l": "@tonic-ui/react",
     "t": "tonic-ui__react"
+  },
+  {
+    "p": "https://github.com/trendmicro-frontend/tonic-ui",
+    "l": "@tonic-ui/react-icons",
+    "t": "tonic-ui__react-icons"
   },
   {
     "p": "https://github.com/strml/node-toobusy",
