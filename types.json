@@ -49610,7 +49610,7 @@
     "t": "test-listen"
   },
   {
-    "p": "https://github.com/kentcdodds/cypress-testing-library",
+    "p": "https://github.com/testing-library/cypress-testing-library",
     "l": "@testing-library/cypress",
     "t": "testing-library__cypress"
   },
