@@ -5030,7 +5030,7 @@
     "t": "chai-arrays"
   },
   {
-    "p": "https://github.com/domenic/chai-as-promised",
+    "p": "https://github.com/chaijs/chai-as-promised",
     "l": "chai-as-promised",
     "t": "chai-as-promised"
   },
@@ -40695,7 +40695,7 @@
     "t": "react-katex"
   },
   {
-    "p": "https://github.com/miukimiu/react-kawaii",
+    "p": null,
     "l": "react-kawaii",
     "t": "react-kawaii"
   },
@@ -53318,6 +53318,11 @@
     "p": null,
     "l": null,
     "t": "webvr-api"
+  },
+  {
+    "p": "https://github.com/w3c/webvtt.js",
+    "l": "webvtt-parser",
+    "t": "webvtt-parser"
   },
   {
     "p": "https://github.com/webvrrocks/webxr",
