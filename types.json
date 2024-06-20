@@ -29700,7 +29700,7 @@
     "t": "maker.js"
   },
   {
-    "p": "https://github.com/makeup/makeup-js/tree/master/packages/makeup-expander",
+    "p": "https://github.com/makeup/makeup-js",
     "l": "makeup-expander",
     "t": "makeup-expander"
   },
@@ -29715,7 +29715,7 @@
     "t": "makeup-keyboard-trap"
   },
   {
-    "p": "https://github.com/makeup/makeup-js/tree/master/packages/makeup-prevent-scroll-keys",
+    "p": "https://github.com/makeup/makeup-js",
     "l": "makeup-prevent-scroll-keys",
     "t": "makeup-prevent-scroll-keys"
   },
@@ -35355,6 +35355,11 @@
     "t": "pangu"
   },
   {
+    "p": "https://github.com/mpetroff/pannellum",
+    "l": "pannellum",
+    "t": "pannellum"
+  },
+  {
     "p": "https://github.com/mholt/PapaParse",
     "l": "papaparse",
     "t": "papaparse"
@@ -35848,6 +35853,11 @@
     "p": "https://github.com/kizzlebot/passport-lastfm",
     "l": "passport-lastfm",
     "t": "passport-lastfm"
+  },
+  {
+    "p": "https://github.com/nitzo/passport-line",
+    "l": "passport-line",
+    "t": "passport-line"
   },
   {
     "p": "https://github.com/auth0/passport-linkedin-oauth2",
@@ -48110,6 +48120,11 @@
     "t": "stream-json"
   },
   {
+    "p": null,
+    "l": "stream-line-wrapper",
+    "t": "stream-line-wrapper"
+  },
+  {
     "p": "https://github.com/brycebaril/node-stream-meter",
     "l": "stream-meter",
     "t": "stream-meter"
@@ -49315,7 +49330,7 @@
     "t": "tapable"
   },
   {
-    "p": "https://github.com/ljharb/tape",
+    "p": "https://github.com/tape-testing/tape",
     "l": "tape",
     "t": "tape"
   },
@@ -52290,6 +52305,11 @@
     "t": "vitalsigns"
   },
   {
+    "p": "https://github.com/kirankunigiri/vite-plugin-react-control-statements",
+    "l": "vite-plugin-react-control-statements",
+    "t": "vite-plugin-react-control-statements"
+  },
+  {
     "p": "https://github.com/visualfanatic/vite-svg",
     "l": "vite-plugin-react-svg",
     "t": "vite-plugin-react-svg"
@@ -53503,6 +53523,11 @@
     "p": null,
     "l": null,
     "t": "wicg-web-app-launch"
+  },
+  {
+    "p": "https://github.com/arthur-e/Wicket",
+    "l": "wicket",
+    "t": "wicket"
   },
   {
     "p": "https://github.com/bitcoinjs/wif",
