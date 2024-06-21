@@ -53215,6 +53215,11 @@
     "t": "webpack-plugin-serve"
   },
   {
+    "p": "https://github.com/runreflect/webpack-react-component-name",
+    "l": "webpack-react-component-name",
+    "t": "webpack-react-component-name"
+  },
+  {
     "p": "https://github.com/shellscape/webpack-serve",
     "l": "webpack-serve",
     "t": "webpack-serve"
