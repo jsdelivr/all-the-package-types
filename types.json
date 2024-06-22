@@ -11170,7 +11170,7 @@
     "t": "ensure-posix-path"
   },
   {
-    "p": "https://github.com/substack/node-ent",
+    "p": "https://github.com/ljharb/ent",
     "l": "ent",
     "t": "ent"
   },
@@ -38783,6 +38783,11 @@
     "p": "https://github.com/transitive-bullshit/random",
     "l": "random",
     "t": "random"
+  },
+  {
+    "p": "https://github.com/random-access-storage/random-access-storage",
+    "l": "random-access-storage",
+    "t": "random-access-storage"
   },
   {
     "p": "https://github.com/arthurvr/random-boolean",
