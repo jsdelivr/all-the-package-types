@@ -12415,6 +12415,11 @@
     "t": "ez-plus"
   },
   {
+    "p": "https://github.com/Hikvision-Ezviz/EZUIKit-JavaScript-npm",
+    "l": "ezuikit-js",
+    "t": "ezuikit-js"
+  },
+  {
     "p": "https://github.com/jam3/f1",
     "l": "f1",
     "t": "f1"
@@ -38783,6 +38788,11 @@
     "p": "https://github.com/transitive-bullshit/random",
     "l": "random",
     "t": "random"
+  },
+  {
+    "p": "https://github.com/random-access-storage/random-access-file",
+    "l": "random-access-file",
+    "t": "random-access-file"
   },
   {
     "p": "https://github.com/random-access-storage/random-access-storage",
