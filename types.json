@@ -26360,7 +26360,7 @@
     "t": "koa-multer"
   },
   {
-    "p": "https://github.com/node-modules/koa-override",
+    "p": "https://github.com/eggjs/koa-override",
     "l": "koa-override",
     "t": "koa-override"
   },
