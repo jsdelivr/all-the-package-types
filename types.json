@@ -14337,6 +14337,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.addressvalidation-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.adexchangebuyer"
   },
   {
@@ -14427,12 +14432,42 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.aiplatform-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.aiplatform-v1beta1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.airquality-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.alertcenter"
   },
   {
     "p": null,
     "l": null,
     "t": "gapi.client.alertcenter-v1beta1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.alloydb-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.alloydb-v1alpha"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.alloydb-v1beta"
   },
   {
     "p": null,
@@ -14572,6 +14607,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.apim-v1alpha"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.appengine"
   },
   {
@@ -14588,6 +14628,16 @@
     "p": null,
     "l": null,
     "t": "gapi.client.appengine-v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.apphub-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.apphub-v1alpha"
   },
   {
     "p": null,
@@ -14657,6 +14707,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.backupdr-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.baremetalsolution"
   },
   {
@@ -14702,6 +14757,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.biglake-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.bigquery"
   },
   {
@@ -14717,7 +14777,17 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.bigqueryconnection-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.bigqueryconnection-v1beta1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.bigquerydatapolicy-v1"
   },
   {
     "p": null,
@@ -14787,6 +14857,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.blockchainnodeengine-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.blogger"
   },
   {
@@ -14848,6 +14923,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.chat-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.checks-v1alpha"
   },
   {
     "p": null,
@@ -14972,12 +15052,27 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.cloudbuild-v2"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.cloudchannel"
   },
   {
     "p": null,
     "l": null,
     "t": "gapi.client.cloudchannel-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.cloudcontrolspartner-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.cloudcontrolspartner-v1beta"
   },
   {
     "p": null,
@@ -15152,6 +15247,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.cloudsupport-v2"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.cloudsupport-v2beta"
   },
   {
@@ -15233,6 +15333,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.compute-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.config-v1"
   },
   {
     "p": null,
@@ -15442,6 +15547,16 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.dataportability-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.dataportability-v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.dataproc"
   },
   {
@@ -15503,6 +15618,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.deploymentmanager-v2beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.developerconnect-v1"
   },
   {
     "p": null,
@@ -15572,6 +15692,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.discoveryengine-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.discoveryengine-v1alpha"
   },
   {
@@ -15593,6 +15718,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.displayvideo-v2"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.displayvideo-v3"
   },
   {
     "p": null,
@@ -15847,6 +15977,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.firebaseappdistribution-v1alpha"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.firebasedatabase"
   },
   {
@@ -15893,6 +16028,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.firebaseml-v1beta2"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.firebaseml-v2beta"
   },
   {
     "p": null,
@@ -16067,6 +16207,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.gkeonprem-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.gmail"
   },
   {
@@ -16113,6 +16258,26 @@
     "p": null,
     "l": null,
     "t": "gapi.client.googleads-v13"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.googleads-v14"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.googleads-v15"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.googleads-v16"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.googleads-v17"
   },
   {
     "p": null,
@@ -16297,6 +16462,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.integrations-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.integrations-v1alpha"
   },
   {
@@ -16367,6 +16537,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.language-v2"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.libraryagent"
   },
   {
@@ -16417,6 +16592,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.looker-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.managedidentities"
   },
   {
@@ -16447,6 +16627,16 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.marketingplatformadmin-v1alpha"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.meet-v2"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.memcache"
   },
   {
@@ -16458,6 +16648,56 @@
     "p": null,
     "l": null,
     "t": "gapi.client.memcache-v1beta2"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-accounts_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-conversions_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-datasources_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-inventories_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-lfp_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-notifications_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-products_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-promotions_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-quota_v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.merchantapi-reports_v1beta"
   },
   {
     "p": null,
@@ -16478,6 +16718,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.metastore-v1beta"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.migrationcenter-v1"
   },
   {
     "p": null,
@@ -16787,6 +17032,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.places-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.playablelocations"
   },
   {
@@ -16813,6 +17063,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.playdeveloperreporting-v1beta1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.playgrouping-v1alpha1"
   },
   {
     "p": null,
@@ -16897,6 +17152,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.pollen-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.poly"
   },
   {
@@ -16942,6 +17202,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.publicca-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.publicca-v1alpha1"
   },
   {
@@ -16983,6 +17248,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.qpxexpress"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.rapidmigrationassessment-v1"
   },
   {
     "p": null,
@@ -17147,6 +17417,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.safebrowsing-v5"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.sasportal"
   },
   {
@@ -17193,6 +17468,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.secretmanager-v1beta1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.secretmanager-v1beta2"
   },
   {
     "p": null,
@@ -17343,6 +17623,11 @@
     "p": null,
     "l": null,
     "t": "gapi.client.smartdevicemanagement-v1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.solar-v1"
   },
   {
     "p": null,
@@ -17552,6 +17837,11 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.trafficdirector-v3"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.transcoder"
   },
   {
@@ -17702,12 +17992,22 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.vmwareengine-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.vpcaccess-v1"
   },
   {
     "p": null,
     "l": null,
     "t": "gapi.client.vpcaccess-v1beta1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.walletobjects-v1"
   },
   {
     "p": null,
@@ -17797,7 +18097,17 @@
   {
     "p": null,
     "l": null,
+    "t": "gapi.client.workspaceevents-v1"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "gapi.client.workstations"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "gapi.client.workstations-v1"
   },
   {
     "p": null,
