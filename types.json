@@ -45425,7 +45425,7 @@
     "t": "sasl-plain"
   },
   {
-    "p": "https://github.com/legastero/js-sasl-scram-sha-1",
+    "p": "https://github.com/mwild1/js-sasl-scram-sha-1",
     "l": "sasl-scram-sha-1",
     "t": "sasl-scram-sha-1"
   },
