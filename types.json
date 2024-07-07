@@ -13545,6 +13545,11 @@
     "t": "floyd-steinberg"
   },
   {
+    "p": "https://github.com/veltman/flubber",
+    "l": "flubber",
+    "t": "flubber"
+  },
+  {
     "p": "https://github.com/projectfluent/fluent.js",
     "l": "fluent",
     "t": "fluent"
