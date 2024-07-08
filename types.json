@@ -3580,7 +3580,7 @@
     "t": "bitcoinjs-lib"
   },
   {
-    "p": "https://github.com/bitpay/bitcore",
+    "p": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib",
     "l": "bitcore-lib",
     "t": "bitcore-lib"
   },
