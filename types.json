@@ -31980,7 +31980,7 @@
     "t": "mongodb"
   },
   {
-    "p": "https://github.com/nodkz/mongodb-memory-server",
+    "p": "https://github.com/typegoose/mongodb-memory-server",
     "l": "mongodb-memory-server",
     "t": "mongodb-memory-server"
   },
