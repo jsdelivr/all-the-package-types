@@ -33365,6 +33365,11 @@
     "t": "node-cleanup"
   },
   {
+    "p": "https://github.com/RIAEvangelist/node-cmd",
+    "l": "node-cmd",
+    "t": "node-cmd"
+  },
+  {
     "p": "https://github.com/AVVS/node-errors",
     "l": "node-common-errors",
     "t": "node-common-errors"
