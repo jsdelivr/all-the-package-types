@@ -8235,6 +8235,11 @@
     "t": "d3"
   },
   {
+    "p": "https://github.com/niekes/d3-3d",
+    "l": "d3-3d",
+    "t": "d3-3d"
+  },
+  {
     "p": "https://github.com/d3/d3-array",
     "l": "d3-array",
     "t": "d3-array"
