@@ -47450,7 +47450,7 @@
     "t": "socket.io-p2p"
   },
   {
-    "p": "https://github.com/socketio/socket.io-parser",
+    "p": "https://github.com/Automattic/socket.io-parser",
     "l": "socket.io-parser",
     "t": "socket.io-parser"
   },
