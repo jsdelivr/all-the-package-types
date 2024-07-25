@@ -10915,7 +10915,7 @@
     "t": "ember-task-scheduler"
   },
   {
-    "p": "https://github.com/emberjs/ember-test-helpers",
+    "p": "https://github.com/switchfly/ember-test-helpers",
     "l": "ember-test-helpers",
     "t": "ember-test-helpers"
   },
