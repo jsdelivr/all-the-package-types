@@ -19330,6 +19330,11 @@
     "t": "got-resume"
   },
   {
+    "p": "https://github.com/alphagov/govuk-frontend",
+    "l": "govuk-frontend",
+    "t": "govuk-frontend"
+  },
+  {
     "p": "https://github.com/isaacs/node-graceful-fs",
     "l": "graceful-fs",
     "t": "graceful-fs"
@@ -46970,7 +46975,7 @@
     "t": "sinon-as-promised"
   },
   {
-    "p": "https://github.com/domenic/sinon-chai",
+    "p": "https://github.com/chaijs/sinon-chai",
     "l": "sinon-chai",
     "t": "sinon-chai"
   },
