@@ -37035,7 +37035,7 @@
     "t": "pixi-spine"
   },
   {
-    "p": null,
+    "p": "https://github.com/pixijs/pixijs",
     "l": "pixi.js",
     "t": "pixi.js"
   },
