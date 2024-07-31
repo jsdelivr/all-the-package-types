@@ -6235,7 +6235,7 @@
     "t": "cmd-shim"
   },
   {
-    "p": "https://github.com/gabrielizaias/cnpj",
+    "p": "https://github.com/gabeidx/cnpj",
     "l": "cnpj",
     "t": "cnpj"
   },
@@ -6470,7 +6470,7 @@
     "t": "combokeys"
   },
   {
-    "p": "https://github.com/cometd/cometd-javascript",
+    "p": "https://github.com/cometd/cometd",
     "l": "cometd",
     "t": "cometd"
   },
