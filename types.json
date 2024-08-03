@@ -25150,6 +25150,11 @@
     "t": "json-to-csv-export"
   },
   {
+    "p": "https://github.com/kduprey/json-to-go",
+    "l": "json-to-go",
+    "t": "json-to-go"
+  },
+  {
     "p": "https://github.com/alexcrist/json-to-pretty-yaml",
     "l": "json-to-pretty-yaml",
     "t": "json-to-pretty-yaml"
@@ -38940,6 +38945,11 @@
     "t": "quantize"
   },
   {
+    "p": "https://github.com/quantastica/quantum-circuit",
+    "l": "quantum-circuit",
+    "t": "quantum-circuit"
+  },
+  {
     "p": "https://github.com/rawify/Quaternion.js",
     "l": "quaternion",
     "t": "quaternion"
@@ -44115,7 +44125,7 @@
     "t": "remotedev-server"
   },
   {
-    "p": "https://github.com/stiang/remove-markdown",
+    "p": "https://github.com/zuchka/remove-markdown",
     "l": "remove-markdown",
     "t": "remove-markdown"
   },
