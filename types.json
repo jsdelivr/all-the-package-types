@@ -4550,7 +4550,7 @@
     "t": "cacache"
   },
   {
-    "p": "https://github.com/jaredwray/cache-manager",
+    "p": "https://github.com/jaredwray/cacheable",
     "l": "cache-manager",
     "t": "cache-manager"
   },
