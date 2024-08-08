@@ -11495,6 +11495,11 @@
     "t": "eslint-config-prettier"
   },
   {
+    "p": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y",
+    "l": "eslint-plugin-jsx-a11y",
+    "t": "eslint-plugin-jsx-a11y"
+  },
+  {
     "p": "https://github.com/eslint/eslint-plugin-markdown",
     "l": "eslint-plugin-markdown",
     "t": "eslint-plugin-markdown"
@@ -23375,6 +23380,11 @@
     "t": "istextorbinary"
   },
   {
+    "p": "https://github.com/stevenvachon/isurl",
+    "l": "isurl",
+    "t": "isurl"
+  },
+  {
     "p": "https://github.com/achingbrain/it",
     "l": "it-all",
     "t": "it-all"
@@ -33001,7 +33011,7 @@
   },
   {
     "p": null,
-    "l": null,
+    "l": "new-relic-browser",
     "t": "new-relic-browser"
   },
   {
