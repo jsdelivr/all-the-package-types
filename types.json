@@ -18595,6 +18595,11 @@
     "t": "ghauth"
   },
   {
+    "p": "https://github.com/vaguue/Ghidra.js",
+    "l": "ghidra.js",
+    "t": "ghidra.js"
+  },
+  {
     "p": "https://github.com/TryGhost/Ghost-Storage-Base",
     "l": "ghost-storage-base",
     "t": "ghost-storage-base"
@@ -33010,7 +33015,7 @@
     "t": "new-github-release-url"
   },
   {
-    "p": null,
+    "p": "https://github.com/npm/security-holder",
     "l": "new-relic-browser",
     "t": "new-relic-browser"
   },
@@ -33288,6 +33293,11 @@
     "p": "https://github.com/nightwatchjs/nightwatch",
     "l": "nightwatch",
     "t": "nightwatch"
+  },
+  {
+    "p": "https://github.com/jjranalli/nightwind",
+    "l": "nightwind",
+    "t": "nightwind"
   },
   {
     "p": "https://github.com/sinonjs/nise",
@@ -42173,6 +42183,11 @@
     "p": "https://github.com/rumax/react-native-PDFView",
     "l": "react-native-view-pdf",
     "t": "react-native-view-pdf"
+  },
+  {
+    "p": "https://github.com/necolas/react-native-web",
+    "l": "react-native-web",
+    "t": "react-native-web"
   },
   {
     "p": "https://github.com/react-native-webrtc/react-native-webrtc",
