@@ -12580,6 +12580,11 @@
     "t": "fast-crc32c"
   },
   {
+    "p": "https://github.com/delvedor/fast-decode-uri-component",
+    "l": "fast-decode-uri-component",
+    "t": "fast-decode-uri-component"
+  },
+  {
     "p": "https://github.com/jhchen/fast-diff",
     "l": "fast-diff",
     "t": "fast-diff"
