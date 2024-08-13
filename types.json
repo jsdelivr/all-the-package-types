@@ -37730,7 +37730,7 @@
     "t": "postcss-reporter"
   },
   {
-    "p": null,
+    "p": "https://github.com/csstools/postcss-resolve-nested-selector",
     "l": "postcss-resolve-nested-selector",
     "t": "postcss-resolve-nested-selector"
   },
