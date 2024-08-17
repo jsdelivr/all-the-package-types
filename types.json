@@ -12425,7 +12425,7 @@
     "t": "ez-plus"
   },
   {
-    "p": "https://github.com/Hikvision-Ezviz/EZUIKit-JavaScript-npm",
+    "p": "https://github.com/Ezviz-OpenBiz/EZUIKit-JavaScript-npm",
     "l": "ezuikit-js",
     "t": "ezuikit-js"
   },
@@ -36788,6 +36788,11 @@
     "p": "https://github.com/simonepri/phc-bcrypt",
     "l": "@phc/bcrypt",
     "t": "phc__bcrypt"
+  },
+  {
+    "p": "https://github.com/simonepri/phc-format",
+    "l": "@phc/format",
+    "t": "phc__format"
   },
   {
     "p": "https://github.com/ethanent/phin",
