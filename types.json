@@ -12425,7 +12425,7 @@
     "t": "ez-plus"
   },
   {
-    "p": "https://github.com/Ezviz-OpenBiz/EZUIKit-JavaScript-npm",
+    "p": "https://github.com/Hikvision-Ezviz/EZUIKit-JavaScript-npm",
     "l": "ezuikit-js",
     "t": "ezuikit-js"
   },
@@ -36420,7 +36420,7 @@
     "t": "path-regex"
   },
   {
-    "p": "https://github.com/pillarjs/path-to-regexp",
+    "p": "https://github.com/component/path-to-regexp",
     "l": "path-to-regexp",
     "t": "path-to-regexp"
   },
