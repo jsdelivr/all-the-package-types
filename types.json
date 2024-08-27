@@ -11455,6 +11455,11 @@
     "t": "escape-latex"
   },
   {
+    "p": "https://github.com/mgduk/escape-quotes",
+    "l": "escape-quotes",
+    "t": "escape-quotes"
+  },
+  {
     "p": null,
     "l": "escape-regexp",
     "t": "escape-regexp"
@@ -25833,6 +25838,11 @@
     "p": null,
     "l": null,
     "t": "kakaomaps"
+  },
+  {
+    "p": "https://github.com/wouterbulten/kalmanjs",
+    "l": "kalmanjs",
+    "t": "kalmanjs"
   },
   {
     "p": null,
