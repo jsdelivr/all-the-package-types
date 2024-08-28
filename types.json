@@ -11725,6 +11725,41 @@
     "t": "evaporate"
   },
   {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/core",
+    "t": "event-calendar__core"
+  },
+  {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/day-grid",
+    "t": "event-calendar__day-grid"
+  },
+  {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/interaction",
+    "t": "event-calendar__interaction"
+  },
+  {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/list",
+    "t": "event-calendar__list"
+  },
+  {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/resource-time-grid",
+    "t": "event-calendar__resource-time-grid"
+  },
+  {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/resource-timeline",
+    "t": "event-calendar__resource-timeline"
+  },
+  {
+    "p": "https://github.com/vkurko/calendar",
+    "l": "@event-calendar/time-grid",
+    "t": "event-calendar__time-grid"
+  },
+  {
     "p": "https://github.com/medikoo/event-emitter",
     "l": "event-emitter",
     "t": "event-emitter"
@@ -20618,6 +20653,11 @@
     "p": "https://github.com/hapipal/toys",
     "l": "@hapipal/toys",
     "t": "hapipal__toys"
+  },
+  {
+    "p": "https://github.com/tmcw/happen",
+    "l": "happen",
+    "t": "happen"
   },
   {
     "p": "https://github.com/happo/happo-cypress",
@@ -30223,6 +30263,11 @@
     "p": "https://github.com/mapbox/s3urls",
     "l": "@mapbox/s3urls",
     "t": "mapbox__s3urls"
+  },
+  {
+    "p": "https://github.com/mapbox/sexagesimal",
+    "l": "@mapbox/sexagesimal",
+    "t": "mapbox__sexagesimal"
   },
   {
     "p": "https://github.com/mapbox/shelf-pack",
