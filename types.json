@@ -11525,6 +11525,11 @@
     "t": "eslint-plugin-security"
   },
   {
+    "p": "https://github.com/francoismassart/eslint-plugin-tailwindcss",
+    "l": "eslint-plugin-tailwindcss",
+    "t": "eslint-plugin-tailwindcss"
+  },
+  {
     "p": "https://github.com/eslint/eslint-scope",
     "l": "eslint-scope",
     "t": "eslint-scope"
