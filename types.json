@@ -2035,6 +2035,11 @@
     "t": "asciify"
   },
   {
+    "p": "https://github.com/CodeAdventure/ase-utils",
+    "l": "ase-utils",
+    "t": "ase-utils"
+  },
+  {
     "p": "https://github.com/a-labo/asenv",
     "l": "asenv",
     "t": "asenv"
@@ -36480,7 +36485,7 @@
     "t": "path-regex"
   },
   {
-    "p": "https://github.com/component/path-to-regexp",
+    "p": "https://github.com/pillarjs/path-to-regexp",
     "l": "path-to-regexp",
     "t": "path-to-regexp"
   },
@@ -44970,7 +44975,7 @@
     "t": "root-check"
   },
   {
-    "p": "https://git.rootprojects.org/root/asn1.js.git",
+    "p": "https://github.com/therootcompany/asn1.js",
     "l": "@root/asn1",
     "t": "root__asn1"
   },
