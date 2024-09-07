@@ -9727,6 +9727,11 @@
   {
     "p": null,
     "l": null,
+    "t": "dom-chromium-ai"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "dom-chromium-installation-events"
   },
   {
@@ -38848,6 +38853,11 @@
     "p": "https://github.com/puppeteer/puppeteer",
     "l": "puppeteer-core",
     "t": "puppeteer-core"
+  },
+  {
+    "p": "https://github.com/Everettss/puppeteer-har",
+    "l": "puppeteer-har",
+    "t": "puppeteer-har"
   },
   {
     "p": "https://github.com/transitive-bullshit/puppeteer-lottie",
