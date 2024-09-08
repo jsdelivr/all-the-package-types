@@ -4345,6 +4345,11 @@
     "t": "buffer-xor"
   },
   {
+    "p": "https://github.com/tjfontaine/node-buffercursor",
+    "l": "buffercursor",
+    "t": "buffercursor"
+  },
+  {
     "p": "https://github.com/JacksonTian/bufferhelper",
     "l": "bufferhelper",
     "t": "bufferhelper"
@@ -27693,6 +27698,11 @@
     "p": "https://github.com/words/levenshtein-edit-distance",
     "l": "levenshtein-edit-distance",
     "t": "levenshtein-edit-distance"
+  },
+  {
+    "p": "https://github.com/gkz/levn",
+    "l": "levn",
+    "t": "levn"
   },
   {
     "p": "https://github.com/substack/lexicographic-integer",
