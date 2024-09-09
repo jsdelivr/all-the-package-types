@@ -6590,6 +6590,11 @@
     "t": "commons-validator-js"
   },
   {
+    "p": "https://github.com/compact-encoding/compact-encoding",
+    "l": "compact-encoding",
+    "t": "compact-encoding"
+  },
+  {
     "p": "https://github.com/filipdanic/compact-timezone-list",
     "l": "compact-timezone-list",
     "t": "compact-timezone-list"
@@ -42623,6 +42628,11 @@
     "p": "https://github.com/danilosetra/react-responsive-spritesheet",
     "l": "react-responsive-spritesheet",
     "t": "react-responsive-spritesheet"
+  },
+  {
+    "p": "https://github.com/tryretool/react-retool",
+    "l": "react-retool",
+    "t": "react-retool"
   },
   {
     "p": "https://github.com/bokuweb/react-rnd",
