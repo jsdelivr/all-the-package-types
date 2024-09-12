@@ -26960,6 +26960,11 @@
     "t": "koa__cors"
   },
   {
+    "p": "https://github.com/koajs/ejs",
+    "l": "@koa/ejs",
+    "t": "koa__ejs"
+  },
+  {
     "p": "https://github.com/koajs/multer",
     "l": "@koa/multer",
     "t": "koa__multer"
