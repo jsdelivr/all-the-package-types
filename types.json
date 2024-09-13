@@ -38885,6 +38885,11 @@
     "t": "puppeteer-lottie"
   },
   {
+    "p": "https://github.com/burnpiro/puppeteer-screenshot-tester",
+    "l": "puppeteer-screenshot-tester",
+    "t": "puppeteer-screenshot-tester"
+  },
+  {
     "p": "https://github.com/danielb2/purdy.js",
     "l": "purdy",
     "t": "purdy"
@@ -52970,7 +52975,7 @@
     "t": "vue-feather-icons"
   },
   {
-    "p": "https://github.com/intlify/vue-i18n-next",
+    "p": "https://github.com/intlify/vue-i18n",
     "l": "vue-i18n",
     "t": "vue-i18n"
   },
