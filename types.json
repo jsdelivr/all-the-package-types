@@ -8170,6 +8170,11 @@
     "t": "cypress__code-coverage"
   },
   {
+    "p": null,
+    "l": "cyrb53",
+    "t": "cyrb53"
+  },
+  {
     "p": "https://github.com/cytoscape/cytoscape.js",
     "l": "cytoscape",
     "t": "cytoscape"
@@ -52638,6 +52643,11 @@
     "p": "https://github.com/FormidableLabs/victory",
     "l": "victory",
     "t": "victory"
+  },
+  {
+    "p": "https://github.com/Ivshti/video-name-parser",
+    "l": "video-name-parser",
+    "t": "video-name-parser"
   },
   {
     "p": "https://github.com/video-react/video-react",
