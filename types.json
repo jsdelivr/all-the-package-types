@@ -34235,7 +34235,7 @@
     "t": "noise-curve-secp"
   },
   {
-    "p": "https://github.com/chm-diederichs/noise-handshake",
+    "p": "https://github.com/holepunchto/noise-handshake",
     "l": "noise-handshake",
     "t": "noise-handshake"
   },
