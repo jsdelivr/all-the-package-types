@@ -11165,12 +11165,12 @@
     "t": "engine-check"
   },
   {
-    "p": "https://github.com/socketio/engine.io",
+    "p": "https://github.com/socketio/socket.io",
     "l": "engine.io",
     "t": "engine.io"
   },
   {
-    "p": "https://github.com/socketio/engine.io-client",
+    "p": "https://github.com/socketio/socket.io",
     "l": "engine.io-client",
     "t": "engine.io-client"
   },
@@ -47590,7 +47590,7 @@
     "t": "socket.io"
   },
   {
-    "p": "https://github.com/socketio/socket.io-client",
+    "p": "https://github.com/socketio/socket.io",
     "l": "socket.io-client",
     "t": "socket.io-client"
   },
