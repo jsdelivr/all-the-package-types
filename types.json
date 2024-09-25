@@ -9120,6 +9120,11 @@
     "t": "deluge"
   },
   {
+    "p": "https://github.com/YounGoat/nodejs.deno",
+    "l": "deno",
+    "t": "deno"
+  },
+  {
     "p": "https://github.com/matthew-andrews/denodeify",
     "l": "denodeify",
     "t": "denodeify"
@@ -43035,6 +43040,11 @@
     "t": "react-swipeable"
   },
   {
+    "p": "https://github.com/manufont/react-swipeable-bottom-sheet",
+    "l": "react-swipeable-bottom-sheet",
+    "t": "react-swipeable-bottom-sheet"
+  },
+  {
     "p": "https://github.com/oliviertassinari/react-swipeable-views",
     "l": "react-swipeable-views",
     "t": "react-swipeable-views"
@@ -48125,6 +48135,11 @@
     "t": "srp"
   },
   {
+    "p": "https://github.com/mafintosh/srt-to-vtt",
+    "l": "srt-to-vtt",
+    "t": "srt-to-vtt"
+  },
+  {
     "p": "https://github.com/Qiming-Liu/srtparse.js",
     "l": "srtparsejs",
     "t": "srtparsejs"
@@ -51728,6 +51743,11 @@
     "p": "https://github.com/ConradIrwin/unicode-dragon",
     "l": "unicode-dragon",
     "t": "unicode-dragon"
+  },
+  {
+    "p": "https://github.com/jmeas/unicode-string-to-javascript-escape.js",
+    "l": "unicode-escape",
+    "t": "unicode-escape"
   },
   {
     "p": "https://github.com/devongovett/unicode-properties",
