@@ -4405,7 +4405,7 @@
     "t": "bull-board"
   },
   {
-    "p": "https://github.com/Wikiki/bulma-calendar",
+    "p": "https://github.com/michael-hack/bulma-calendar",
     "l": "bulma-calendar",
     "t": "bulma-calendar"
   },
@@ -9508,6 +9508,11 @@
     "p": "https://github.com/flatiron/director",
     "l": "director",
     "t": "director"
+  },
+  {
+    "p": "https://github.com/MistAEGIS/Directory-Structure-JSON",
+    "l": "directory-structure-json",
+    "t": "directory-structure-json"
   },
   {
     "p": "https://github.com/regexps/dirname-regex",
