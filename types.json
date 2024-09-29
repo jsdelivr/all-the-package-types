@@ -11570,7 +11570,7 @@
     "t": "eslint-plugin-tailwindcss"
   },
   {
-    "p": "https://github.com/eslint/eslint-scope",
+    "p": "https://github.com/eslint/js",
     "l": "eslint-scope",
     "t": "eslint-scope"
   },
@@ -11580,7 +11580,7 @@
     "t": "eslint-utils"
   },
   {
-    "p": "https://github.com/eslint/eslint-visitor-keys",
+    "p": "https://github.com/eslint/js",
     "l": "eslint-visitor-keys",
     "t": "eslint-visitor-keys"
   },
@@ -11605,7 +11605,7 @@
     "t": "esm-utils"
   },
   {
-    "p": "https://github.com/eslint/espree",
+    "p": "https://github.com/eslint/js",
     "l": "espree",
     "t": "espree"
   },
