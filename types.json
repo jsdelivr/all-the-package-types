@@ -32225,7 +32225,7 @@
     "t": "mongoose-simple-random"
   },
   {
-    "p": "https://github.com/mongoose-unique-validator/mongoose-unique-validator",
+    "p": "https://github.com/blakehaswell/mongoose-unique-validator",
     "l": "mongoose-unique-validator",
     "t": "mongoose-unique-validator"
   },
