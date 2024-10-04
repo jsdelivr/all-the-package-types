@@ -30545,6 +30545,11 @@
     "t": "marko"
   },
   {
+    "p": "https://github.com/adammark/Markup.js",
+    "l": "markup-js",
+    "t": "markup-js"
+  },
+  {
     "p": "https://github.com/clayzermk1/node-marshal",
     "l": "marshal",
     "t": "marshal"
@@ -34643,6 +34648,11 @@
     "p": "https://github.com/nicolaspanel/numjs",
     "l": "numjs",
     "t": "numjs"
+  },
+  {
+    "p": "https://github.com/vidul-nikolaev-petrov/nums2wordsBG",
+    "l": "nums2words-bg",
+    "t": "nums2words-bg"
   },
   {
     "p": "https://github.com/mozilla/nunjucks",
