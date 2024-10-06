@@ -6640,7 +6640,7 @@
     "t": "complex"
   },
   {
-    "p": "https://github.com/infusion/Complex.js",
+    "p": "https://github.com/rawify/Complex.js",
     "l": "complex.js",
     "t": "complex.js"
   },
@@ -13115,7 +13115,7 @@
     "t": "figures"
   },
   {
-    "p": "https://github.com/jaredwray/file-entry-cache",
+    "p": "https://github.com/jaredwray/cacheable",
     "l": "file-entry-cache",
     "t": "file-entry-cache"
   },
@@ -34068,6 +34068,11 @@
     "p": "https://github.com/kr1sp1n/node-vault",
     "l": "node-vault",
     "t": "node-vault"
+  },
+  {
+    "p": "https://github.com/namecheap/node-vault-client",
+    "l": "node-vault-client",
+    "t": "node-vault-client"
   },
   {
     "p": "https://github.com/andreasgal/node-wav",
