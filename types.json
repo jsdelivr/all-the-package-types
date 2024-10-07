@@ -51375,6 +51375,11 @@
     "t": "twitch-ext"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "twitchat"
+  },
+  {
     "p": "https://github.com/desmondmorris/node-twitter",
     "l": "twitter",
     "t": "twitter"
@@ -53030,7 +53035,7 @@
     "t": "vue-feather-icons"
   },
   {
-    "p": "https://github.com/intlify/vue-i18n-next",
+    "p": "https://github.com/intlify/vue-i18n",
     "l": "vue-i18n",
     "t": "vue-i18n"
   },
