@@ -3590,7 +3590,7 @@
     "t": "bitcore-lib"
   },
   {
-    "p": "https://github.com/bitpay/bitcore",
+    "p": "https://github.com/bitpay/bitcore/tree/master/packages/bitcore-lib-cash",
     "l": "bitcore-lib-cash",
     "t": "bitcore-lib-cash"
   },
