@@ -11935,6 +11935,11 @@
     "t": "exif"
   },
   {
+    "p": "https://github.com/exif-js/exif-js",
+    "l": "exif-js",
+    "t": "exif-js"
+  },
+  {
     "p": "https://github.com/devongovett/exif-reader",
     "l": "exif-reader",
     "t": "exif-reader"
