@@ -35245,7 +35245,7 @@
     "t": "openid"
   },
   {
-    "p": "https://github.com/panva/node-openid-client",
+    "p": "https://github.com/panva/openid-client",
     "l": "openid-client",
     "t": "openid-client"
   },
@@ -35770,7 +35770,7 @@
     "t": "package-json"
   },
   {
-    "p": "https://github.com/gorillamania/package.json-validator",
+    "p": "https://github.com/JoshuaKGoldberg/package.json-validator",
     "l": "package-json-validator",
     "t": "package-json-validator"
   },
@@ -46435,7 +46435,7 @@
     "t": "serve-favicon"
   },
   {
-    "p": "https://github.com/zeit/serve-handler",
+    "p": "https://github.com/vercel/serve-handler",
     "l": "serve-handler",
     "t": "serve-handler"
   },
