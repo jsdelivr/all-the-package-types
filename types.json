@@ -1565,6 +1565,11 @@
     "t": "anydb-sql-migrations"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "anylogic-cloud-client"
+  },
+  {
     "p": "https://github.com/micromatch/anymatch",
     "l": "anymatch",
     "t": "anymatch"
@@ -4233,6 +4238,11 @@
     "p": "https://github.com/browserify/browserify",
     "l": "browserify",
     "t": "browserify"
+  },
+  {
+    "p": "https://github.com/crypto-browserify/browserify-cipher",
+    "l": "browserify-cipher",
+    "t": "browserify-cipher"
   },
   {
     "p": "https://github.com/browserslist/browserslist",
@@ -36638,6 +36648,11 @@
     "p": "https://github.com/kehers/paystack",
     "l": "paystack",
     "t": "paystack"
+  },
+  {
+    "p": "https://github.com/PaystackHQ/inline-js",
+    "l": "@paystack/inline-js",
+    "t": "paystack__inline-js"
   },
   {
     "p": "https://github.com/paytm/Paytm_Node_Checksum",
