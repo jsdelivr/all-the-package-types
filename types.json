@@ -35005,6 +35005,11 @@
     "t": "oidc-provider"
   },
   {
+    "p": "https://github.com/panva/oidc-token-hash",
+    "l": "oidc-token-hash",
+    "t": "oidc-token-hash"
+  },
+  {
     "p": "https://github.com/IdentityModel/oidc-token-manager",
     "l": "oidc-token-manager",
     "t": "oidc-token-manager"
@@ -35780,7 +35785,7 @@
     "t": "package-json"
   },
   {
-    "p": "https://github.com/JoshuaKGoldberg/package.json-validator",
+    "p": "https://github.com/JoshuaKGoldberg/package-json-validator",
     "l": "package-json-validator",
     "t": "package-json-validator"
   },
