@@ -6510,6 +6510,11 @@
     "t": "command-exists"
   },
   {
+    "p": "https://github.com/raftario/command-exists",
+    "l": "command-exists-promise",
+    "t": "command-exists-promise"
+  },
+  {
     "p": "https://github.com/75lb/command-line-args",
     "l": "command-line-args",
     "t": "command-line-args"
@@ -6673,6 +6678,11 @@
     "p": "https://github.com/hyperledger/composer-concerto",
     "l": "composer-concerto",
     "t": "composer-concerto"
+  },
+  {
+    "p": "https://github.com/archiverjs/node-compress-commons",
+    "l": "compress-commons",
+    "t": "compress-commons"
   },
   {
     "p": "https://github.com/alextanhongpin/compress.js",
@@ -27268,6 +27278,11 @@
     "p": "https://github.com/OverZealous/lazypipe",
     "l": "lazypipe",
     "t": "lazypipe"
+  },
+  {
+    "p": "https://github.com/jpommerening/node-lazystream",
+    "l": "lazystream",
+    "t": "lazystream"
   },
   {
     "p": "https://github.com/nickleefly/node-lcm",
