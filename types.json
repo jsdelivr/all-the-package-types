@@ -44390,8 +44390,8 @@
     "t": "req-cwd"
   },
   {
-    "p": null,
-    "l": null,
+    "p": "https://github.com/lacherogwu/req-real-ip",
+    "l": "req-real-ip",
     "t": "req-real-ip"
   },
   {
@@ -49405,7 +49405,7 @@
     "t": "svg-outline-stroke"
   },
   {
-    "p": "https://github.com/ariutta/svg-pan-zoom",
+    "p": "https://github.com/bumbu/svg-pan-zoom",
     "l": "svg-pan-zoom",
     "t": "svg-pan-zoom"
   },
