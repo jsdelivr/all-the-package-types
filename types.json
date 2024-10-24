@@ -11900,6 +11900,11 @@
     "t": "evernote"
   },
   {
+    "p": "https://github.com/JamesHight/node-evil-dns",
+    "l": "evil-dns",
+    "t": "evil-dns"
+  },
+  {
     "p": "https://github.com/ReactiveSocket/ewma",
     "l": "ewma",
     "t": "ewma"
@@ -55683,6 +55688,11 @@
     "p": "https://github.com/zinggrid/zinggrid",
     "l": "zinggrid",
     "t": "zinggrid"
+  },
+  {
+    "p": "https://github.com/archiverjs/node-zip-stream",
+    "l": "zip-stream",
+    "t": "zip-stream"
   },
   {
     "p": "https://github.com/erikdesjardins/zip-webpack-plugin",
