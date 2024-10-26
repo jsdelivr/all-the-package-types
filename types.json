@@ -1025,6 +1025,11 @@
     "t": "android-device-list"
   },
   {
+    "p": "https://github.com/google/android-emulator-webrtc",
+    "l": "android-emulator-webrtc",
+    "t": "android-emulator-webrtc"
+  },
+  {
     "p": "https://github.com/dvoiss/android-versions",
     "l": "android-versions",
     "t": "android-versions"
@@ -11483,6 +11488,11 @@
     "p": "https://github.com/nickjj/esbuild-copy-static-files",
     "l": "esbuild-copy-static-files",
     "t": "esbuild-copy-static-files"
+  },
+  {
+    "p": "https://github.com/Knowre-Dev/esbuild-plugin-ignore",
+    "l": "esbuild-plugin-ignore",
+    "t": "esbuild-plugin-ignore"
   },
   {
     "p": "https://github.com/trygve-lie/esbuild-plugin-import-map",
@@ -30195,17 +30205,17 @@
     "t": "maker.js"
   },
   {
-    "p": "https://github.com/makeup/makeup-js",
+    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-expander",
     "l": "makeup-expander",
     "t": "makeup-expander"
   },
   {
-    "p": "https://github.com/makeup/makeup-js",
+    "p": "https://github.com/makeup/makeup-js/tree/master/packages/ui/makeup-floating-label",
     "l": "makeup-floating-label",
     "t": "makeup-floating-label"
   },
   {
-    "p": "https://github.com/makeup/makeup-js",
+    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-keyboard-trap",
     "l": "makeup-keyboard-trap",
     "t": "makeup-keyboard-trap"
   },
