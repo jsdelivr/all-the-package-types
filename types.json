@@ -1770,7 +1770,7 @@
     "t": "aqb"
   },
   {
-    "p": null,
+    "p": "https://github.com/npm/security-holder",
     "l": "arangodb",
     "t": "arangodb"
   },
