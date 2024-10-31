@@ -55535,6 +55535,11 @@
     "t": "youtube"
   },
   {
+    "p": "https://github.com/algolia/youtube-captions-scraper",
+    "l": "youtube-captions-scraper",
+    "t": "youtube-captions-scraper"
+  },
+  {
     "p": "https://github.com/przemyslawpluta/node-youtube-dl",
     "l": "youtube-dl",
     "t": "youtube-dl"
