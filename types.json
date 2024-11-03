@@ -9505,6 +9505,11 @@
     "t": "digital-link.js"
   },
   {
+    "p": "https://github.com/digitalbazaar/bitstring",
+    "l": "@digitalbazaar/bitstring",
+    "t": "digitalbazaar__bitstring"
+  },
+  {
     "p": "https://github.com/dinerojs/dinero.js",
     "l": "dinero.js",
     "t": "dinero.js"
