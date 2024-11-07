@@ -14095,6 +14095,11 @@
     "t": "freeport"
   },
   {
+    "p": "https://github.com/darwiin/french-badwords-list",
+    "l": "french-badwords-list",
+    "t": "french-badwords-list"
+  },
+  {
     "p": "https://github.com/jshttp/fresh",
     "l": "fresh",
     "t": "fresh"
@@ -38021,6 +38026,11 @@
   },
   {
     "p": "https://github.com/pouchdb/pouchdb",
+    "l": "pouchdb-adapter-indexeddb",
+    "t": "pouchdb-adapter-indexeddb"
+  },
+  {
+    "p": "https://github.com/pouchdb/pouchdb",
     "l": "pouchdb-adapter-leveldb",
     "t": "pouchdb-adapter-leveldb"
   },
@@ -40043,6 +40053,11 @@
     "p": "https://github.com/GoogleChromeLabs/react-adaptive-hooks",
     "l": "react-adaptive-hooks",
     "t": "react-adaptive-hooks"
+  },
+  {
+    "p": "https://github.com/grigorischristainas/react-add-new",
+    "l": "react-add-new",
+    "t": "react-add-new"
   },
   {
     "p": "https://github.com/jasonsalzman/react-add-to-calendar",
