@@ -2965,6 +2965,11 @@
     "t": "baidumap-web-sdk"
   },
   {
+    "p": "https://github.com/khqr/sdk-javascript",
+    "l": "bakong-khqr",
+    "t": "bakong-khqr"
+  },
+  {
     "p": "https://github.com/juliangruber/balanced-match",
     "l": "balanced-match",
     "t": "balanced-match"
