@@ -5,6 +5,11 @@
     "t": "11ty__eleventy-img"
   },
   {
+    "p": "https://github.com/11ty/eleventy-plugin-rss",
+    "l": "@11ty/eleventy-plugin-rss",
+    "t": "11ty__eleventy-plugin-rss"
+  },
+  {
     "p": null,
     "l": "1line-aa",
     "t": "1line-aa"
