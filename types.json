@@ -11605,6 +11605,11 @@
     "t": "eslint-plugin-prettier"
   },
   {
+    "p": "https://github.com/ArnaudBarre/eslint-plugin-react-refresh",
+    "l": "eslint-plugin-react-refresh",
+    "t": "eslint-plugin-react-refresh"
+  },
+  {
     "p": "https://github.com/eslint-community/eslint-plugin-security",
     "l": "eslint-plugin-security",
     "t": "eslint-plugin-security"
@@ -35275,7 +35280,7 @@
     "t": "openapi-factory"
   },
   {
-    "p": "https://github.com/APIs-guru/openapi-sampler",
+    "p": "https://github.com/redocly/openapi-sampler",
     "l": "openapi-sampler",
     "t": "openapi-sampler"
   },
