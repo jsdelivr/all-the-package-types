@@ -30245,12 +30245,12 @@
     "t": "makeup-keyboard-trap"
   },
   {
-    "p": "https://github.com/makeup/makeup-js",
+    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-prevent-scroll-keys",
     "l": "makeup-prevent-scroll-keys",
     "t": "makeup-prevent-scroll-keys"
   },
   {
-    "p": "https://github.com/makeup/makeup-js",
+    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-screenreader-trap",
     "l": "makeup-screenreader-trap",
     "t": "makeup-screenreader-trap"
   },
@@ -37138,6 +37138,11 @@
     "p": "https://github.com/amsul/pickadate.js",
     "l": "pickadate",
     "t": "pickadate"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "pico-sdk-js"
   },
   {
     "p": "https://github.com/PictElm/pico8parse",
@@ -45598,6 +45603,11 @@
     "p": "https://github.com/lovasoa/salesman.js",
     "l": "salesman.js",
     "t": "salesman.js"
+  },
+  {
+    "p": "https://github.com/DanskSupermarked/sg-auth",
+    "l": "@salling-group/auth",
+    "t": "salling-group__auth"
   },
   {
     "p": "https://github.com/samchon/framework",
