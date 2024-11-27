@@ -6240,7 +6240,7 @@
     "t": "clovelced-plugin-audiomanagement"
   },
   {
-    "p": "https://github.com/rdf-ext/clownface",
+    "p": "https://github.com/zazuko/clownface",
     "l": "clownface",
     "t": "clownface"
   },
@@ -26480,6 +26480,11 @@
     "t": "kind-of"
   },
   {
+    "p": "https://github.com/lavrton/KineticJS",
+    "l": "kinetic",
+    "t": "kinetic"
+  },
+  {
     "p": "https://github.com/XavierFabregat/kineticjs",
     "l": "kineticjs",
     "t": "kineticjs"
@@ -35255,6 +35260,11 @@
     "t": "open-graph-scraper"
   },
   {
+    "p": "https://github.com/lahmatiy/open-in-editor",
+    "l": "open-in-editor",
+    "t": "open-in-editor"
+  },
+  {
     "p": null,
     "l": "open-location-code",
     "t": "open-location-code"
@@ -42258,6 +42268,11 @@
     "p": "https://github.com/RepairShopr/react-native-signature-capture",
     "l": "react-native-signature-capture",
     "t": "react-native-signature-capture"
+  },
+  {
+    "p": "https://github.com/joeyschroeder/react-native-simple-animations",
+    "l": "react-native-simple-animations",
+    "t": "react-native-simple-animations"
   },
   {
     "p": "https://github.com/moschan/react-native-simple-radio-button",
