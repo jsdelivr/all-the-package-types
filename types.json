@@ -5,6 +5,11 @@
     "t": "11ty__eleventy-img"
   },
   {
+    "p": "https://github.com/11ty/eleventy-plugin-directory-output",
+    "l": "@11ty/eleventy-plugin-directory-output",
+    "t": "11ty__eleventy-plugin-directory-output"
+  },
+  {
     "p": "https://github.com/11ty/eleventy-plugin-rss",
     "l": "@11ty/eleventy-plugin-rss",
     "t": "11ty__eleventy-plugin-rss"
@@ -803,6 +808,16 @@
     "p": "https://github.com/alpinejs/alpine",
     "l": "@alpinejs/persist",
     "t": "alpinejs__persist"
+  },
+  {
+    "p": "https://github.com/alpinejs/alpine",
+    "l": "@alpinejs/resize",
+    "t": "alpinejs__resize"
+  },
+  {
+    "p": "https://github.com/alpinejs/alpine",
+    "l": "@alpinejs/sort",
+    "t": "alpinejs__sort"
   },
   {
     "p": "https://github.com/goatslacker/alt",
@@ -10843,6 +10858,11 @@
     "p": "https://github.com/racker/node-elementtree",
     "l": "elementtree",
     "t": "elementtree"
+  },
+  {
+    "p": "https://github.com/jdsteinbach/eleventy-plugin-toc",
+    "l": "eleventy-plugin-toc",
+    "t": "eleventy-plugin-toc"
   },
   {
     "p": "https://github.com/kripod/elgamal.js",
