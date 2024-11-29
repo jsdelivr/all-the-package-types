@@ -5685,7 +5685,7 @@
     "t": "ckeditor__ckeditor5-clipboard"
   },
   {
-    "p": "https://github.com/ckeditor/ckeditor5",
+    "p": null,
     "l": "@ckeditor/ckeditor5-cloud-services",
     "t": "ckeditor__ckeditor5-cloud-services"
   },
@@ -14413,6 +14413,11 @@
     "p": null,
     "l": "fxn",
     "t": "fxn"
+  },
+  {
+    "p": "https://github.com/idmadj/ga-gtag",
+    "l": "ga-gtag",
+    "t": "ga-gtag"
   },
   {
     "p": null,
@@ -30048,6 +30053,11 @@
     "p": "https://github.com/rromanovsky/luhn-generator",
     "l": "luhn-generator",
     "t": "luhn-generator"
+  },
+  {
+    "p": "https://github.com/imgix/luminous",
+    "l": "luminous-lightbox",
+    "t": "luminous-lightbox"
   },
   {
     "p": "https://github.com/olivernn/lunr.js",
@@ -54278,6 +54288,11 @@
     "p": "https://github.com/nextapps-de/winbox",
     "l": "winbox",
     "t": "winbox"
+  },
+  {
+    "p": "https://github.com/auth0/winchan",
+    "l": "winchan",
+    "t": "winchan"
   },
   {
     "p": "https://github.com/purposeindustries/window-or-global",
