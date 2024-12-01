@@ -5685,7 +5685,7 @@
     "t": "ckeditor__ckeditor5-clipboard"
   },
   {
-    "p": null,
+    "p": "https://github.com/ckeditor/ckeditor5",
     "l": "@ckeditor/ckeditor5-cloud-services",
     "t": "ckeditor__ckeditor5-cloud-services"
   },
