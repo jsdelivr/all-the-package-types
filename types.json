@@ -23335,7 +23335,7 @@
     "t": "is-stream"
   },
   {
-    "p": "https://github.com/ljharb/is-string",
+    "p": "https://github.com/inspect-js/is-string",
     "l": "is-string",
     "t": "is-string"
   },
