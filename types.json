@@ -2975,6 +2975,11 @@
     "t": "bagpipes"
   },
   {
+    "p": "https://github.com/Baidu-AIP/nodejs-sdk",
+    "l": "baidu-aip-sdk",
+    "t": "baidu-aip-sdk"
+  },
+  {
     "p": null,
     "l": null,
     "t": "baidu-app"
@@ -33855,7 +33860,7 @@
     "t": "node-mailjet"
   },
   {
-    "p": "https://github.com/illuspas/Node-Media-Server",
+    "p": null,
     "l": "node-media-server",
     "t": "node-media-server"
   },
@@ -52428,6 +52433,11 @@
     "p": "https://github.com/3rd-Eden/useragent",
     "l": "useragent",
     "t": "useragent"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "usercentrics-browser-ui"
   },
   {
     "p": "https://github.com/sindresorhus/username",
