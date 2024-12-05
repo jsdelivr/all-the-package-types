@@ -55790,6 +55790,16 @@
     "t": "zetapush-js"
   },
   {
+    "p": null,
+    "l": "zetrix-encryption-nodejs",
+    "t": "zetrix-encryption-nodejs"
+  },
+  {
+    "p": "http://192.168.1.11/zetrix-v4/zetrix-sdk-nodejs.git",
+    "l": "zetrix-sdk-nodejs",
+    "t": "zetrix-sdk-nodejs"
+  },
+  {
     "p": "https://github.com/jaames/zfont",
     "l": "zfont",
     "t": "zfont"
