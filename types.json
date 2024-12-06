@@ -41905,6 +41905,11 @@
     "t": "react-native-fetch-blob"
   },
   {
+    "p": "https://github.com/prscX/react-native-file-type",
+    "l": "react-native-file-type",
+    "t": "react-native-file-type"
+  },
+  {
     "p": "https://github.com/moschan/react-native-flip-card",
     "l": "react-native-flip-card",
     "t": "react-native-flip-card"
