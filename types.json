@@ -13905,6 +13905,11 @@
     "t": "fontmin"
   },
   {
+    "p": "https://github.com/danbovey/fontname",
+    "l": "fontname",
+    "t": "fontname"
+  },
+  {
     "p": null,
     "l": null,
     "t": "fontoxml"
