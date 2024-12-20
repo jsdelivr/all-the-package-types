@@ -53160,6 +53160,11 @@
     "t": "vssln-parser"
   },
   {
+    "p": "https://github.com/mapbox/vt-pbf",
+    "l": "vt-pbf",
+    "t": "vt-pbf"
+  },
+  {
     "p": "https://github.com/vtex/vtex.js",
     "l": "vtex.js",
     "t": "vtex.js"
@@ -53303,6 +53308,11 @@
     "p": "https://github.com/Ray93/vue3-carousel-3d",
     "l": "vue3-carousel-3d",
     "t": "vue3-carousel-3d"
+  },
+  {
+    "p": "https://github.com/qiuquanwu/vue3-json-viewer",
+    "l": "vue3-json-viewer",
+    "t": "vue3-json-viewer"
   },
   {
     "p": "https://github.com/SortableJS/Vue.Draggable",
