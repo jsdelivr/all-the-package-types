@@ -40440,6 +40440,11 @@
     "t": "react-chat-widget"
   },
   {
+    "p": "https://github.com/ruilisi/react-chessground",
+    "l": "react-chessground",
+    "t": "react-chessground"
+  },
+  {
     "p": "https://github.com/adriantoine/react-circular",
     "l": "react-circular",
     "t": "react-circular"
