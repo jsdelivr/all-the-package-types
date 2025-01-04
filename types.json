@@ -43100,6 +43100,11 @@
     "t": "react-sparklines"
   },
   {
+    "p": null,
+    "l": "react-speech-kit",
+    "t": "react-speech-kit"
+  },
+  {
     "p": "https://github.com/JamesBrill/react-speech-recognition",
     "l": "react-speech-recognition",
     "t": "react-speech-recognition"
