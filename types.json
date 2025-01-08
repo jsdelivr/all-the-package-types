@@ -12440,6 +12440,11 @@
     "t": "express-socket.io-session"
   },
   {
+    "p": "https://github.com/dpskvn/express-sse",
+    "l": "express-sse",
+    "t": "express-sse"
+  },
+  {
     "p": "https://github.com/florianheinemann/express-sslify",
     "l": "express-sslify",
     "t": "express-sslify"
