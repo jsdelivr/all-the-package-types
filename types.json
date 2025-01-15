@@ -2145,6 +2145,11 @@
     "t": "async"
   },
   {
+    "p": "https://github.com/accudio/async-alpine",
+    "l": "async-alpine",
+    "t": "async-alpine"
+  },
+  {
     "p": "https://github.com/m4nuC/async-busboy",
     "l": "async-busboy",
     "t": "async-busboy"
@@ -3173,6 +3178,11 @@
     "p": "https://github.com/electerious/basicScroll",
     "l": "basicscroll",
     "t": "basicscroll"
+  },
+  {
+    "p": null,
+    "l": "basil.js",
+    "t": "basil.js"
   },
   {
     "p": "https://github.com/segmentio/batch-stream",
