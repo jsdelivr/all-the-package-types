@@ -34480,6 +34480,11 @@
     "t": "noteflight-client"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "notiad-sdk"
+  },
+  {
     "p": "https://github.com/jaredreich/notie",
     "l": "notie",
     "t": "notie"
@@ -37238,6 +37243,11 @@
     "p": "https://github.com/soyuka/pidusage",
     "l": "pidusage",
     "t": "pidusage"
+  },
+  {
+    "p": "https://github.com/hMatoba/piexifjs",
+    "l": "piexifjs",
+    "t": "piexifjs"
   },
   {
     "p": "https://github.com/sindresorhus/pify",
@@ -45590,6 +45600,11 @@
     "t": "rx.wamp"
   },
   {
+    "p": "https://github.com/sebastiansandqvist/s-salt-pepper",
+    "l": "s-salt-pepper",
+    "t": "s-salt-pepper"
+  },
+  {
     "p": "https://github.com/jb55/s3-download-stream",
     "l": "s3-download-stream",
     "t": "s3-download-stream"
@@ -50198,6 +50213,11 @@
     "p": "https://github.com/mullwar/telebot",
     "l": "telebot",
     "t": "telebot"
+  },
+  {
+    "p": "https://github.com/mikiyasET/Telegram-Mini-App",
+    "l": "telegram-mini-app",
+    "t": "telegram-mini-app"
   },
   {
     "p": "https://github.com/vovaspace/telegram-web-app",
