@@ -44880,6 +44880,11 @@
     "t": "rfc2047"
   },
   {
+    "p": "https://github.com/foss-haas/rfc2253",
+    "l": "rfc2253",
+    "t": "rfc2253"
+  },
+  {
     "p": "https://github.com/swansontec/rfc4648.js",
     "l": "rfc4648",
     "t": "rfc4648"
