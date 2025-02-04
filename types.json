@@ -36560,8 +36560,8 @@
     "t": "passport-remember-me"
   },
   {
-    "p": "https://github.com/dereklakin/passport-remember-me",
-    "l": "passport-remember-me-extended",
+    "p": null,
+    "l": null,
     "t": "passport-remember-me-extended"
   },
   {
