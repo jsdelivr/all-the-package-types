@@ -26025,6 +26025,11 @@
     "t": "kafkajs"
   },
   {
+    "p": "https://github.com/tulios/kafkajs-snappy",
+    "l": "kafkajs-snappy",
+    "t": "kafkajs-snappy"
+  },
+  {
     "p": "https://github.com/salesforce/kagekiri",
     "l": "kagekiri",
     "t": "kagekiri"
