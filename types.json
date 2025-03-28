@@ -10820,6 +10820,11 @@
     "t": "electron-store"
   },
   {
+    "p": "https://github.com/kilian/electron-to-chromium",
+    "l": "electron-to-chromium",
+    "t": "electron-to-chromium"
+  },
+  {
     "p": "https://github.com/sindresorhus/electron-unhandled",
     "l": "electron-unhandled",
     "t": "electron-unhandled"
@@ -10965,7 +10970,7 @@
     "t": "ember"
   },
   {
-    "p": "https://github.com/poteto/ember-changeset-validations",
+    "p": "https://github.com/adopted-ember-addons/ember-changeset-validations",
     "l": "ember-changeset-validations",
     "t": "ember-changeset-validations"
   },
@@ -13868,6 +13873,11 @@
     "p": "https://github.com/tjwebb/fnv-plus",
     "l": "fnv-plus",
     "t": "fnv-plus"
+  },
+  {
+    "p": "https://github.com/davidtheclark/focus-group",
+    "l": "focus-group",
+    "t": "focus-group"
   },
   {
     "p": "https://github.com/jonathantneal/focus-within",
@@ -23050,6 +23060,11 @@
     "t": "is-empty-object"
   },
   {
+    "p": "https://github.com/sosoba/is-errno-exception",
+    "l": "is-errno-exception",
+    "t": "is-errno-exception"
+  },
+  {
     "p": "https://github.com/jonschlinkert/is-even",
     "l": "is-even",
     "t": "is-even"
@@ -23078,6 +23093,11 @@
     "p": "https://github.com/gillstrom/is-firefox",
     "l": "is-firefox",
     "t": "is-firefox"
+  },
+  {
+    "p": "https://github.com/parro-it/is-fqdn",
+    "l": "is-fqdn",
+    "t": "is-fqdn"
   },
   {
     "p": "https://github.com/sindresorhus/is-fullwidth-code-point",
@@ -31675,8 +31695,8 @@
     "t": "microsoft-ajax"
   },
   {
-    "p": null,
-    "l": null,
+    "p": "https://github.com/Future-Secure-AI/microsoft-graph",
+    "l": "microsoft-graph",
     "t": "microsoft-graph"
   },
   {
@@ -34840,7 +34860,7 @@
     "t": "nvd3"
   },
   {
-    "p": null,
+    "p": "https://github.com/npm/security-holder",
     "l": "nw.gui",
     "t": "nw.gui"
   },
@@ -40965,7 +40985,7 @@
     "t": "react-flags-select"
   },
   {
-    "p": "https://github.com/coderhaoxin/react-flatpickr",
+    "p": "https://github.com/haoxins/react-flatpickr",
     "l": "react-flatpickr",
     "t": "react-flatpickr"
   },
@@ -42150,7 +42170,7 @@
     "t": "react-native-mixpanel"
   },
   {
-    "p": "https://github.com/react-native-community/react-native-modal",
+    "p": "https://github.com/react-native-modal/react-native-modal",
     "l": "react-native-modal",
     "t": "react-native-modal"
   },
@@ -54520,7 +54540,7 @@
     "t": "wistia-player-browser"
   },
   {
-    "p": "https://github.com/wix-private/wix-design-systems",
+    "p": null,
     "l": "wix-style-react",
     "t": "wix-style-react"
   },
