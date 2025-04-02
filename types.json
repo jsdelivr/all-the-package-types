@@ -12070,6 +12070,11 @@
     "t": "expect"
   },
   {
+    "p": "https://github.com/gregl83/expect-cookies",
+    "l": "expect-cookies",
+    "t": "expect-cookies"
+  },
+  {
     "p": "https://github.com/argos-ci/jest-puppeteer",
     "l": "expect-puppeteer",
     "t": "expect-puppeteer"
@@ -41320,7 +41325,7 @@
     "t": "react-inlinesvg"
   },
   {
-    "p": "https://github.com/laurenashpole/react-inner-image-zoom",
+    "p": "https://github.com/laurenashpole/inner-image-zoom",
     "l": "react-inner-image-zoom",
     "t": "react-inner-image-zoom"
   },
