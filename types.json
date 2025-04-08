@@ -1835,6 +1835,11 @@
     "t": "architect__sandbox"
   },
   {
+    "p": "https://github.com/architect/utils",
+    "l": "@architect/utils",
+    "t": "architect__utils"
+  },
+  {
     "p": "https://github.com/archiverjs/node-archiver",
     "l": "archiver",
     "t": "archiver"
@@ -30605,6 +30610,11 @@
     "t": "markdown-it-attrs"
   },
   {
+    "p": "https://github.com/AgentBUB/markdown-it-color-inline",
+    "l": "markdown-it-color-inline",
+    "t": "markdown-it-color-inline"
+  },
+  {
     "p": "https://github.com/markdown-it/markdown-it-container",
     "l": "markdown-it-container",
     "t": "markdown-it-container"
@@ -30618,6 +30628,11 @@
     "p": "https://github.com/rotorz/markdown-it-external-links",
     "l": "markdown-it-external-links",
     "t": "markdown-it-external-links"
+  },
+  {
+    "p": "https://github.com/geekplux/markdown-it-fence",
+    "l": "markdown-it-fence",
+    "t": "markdown-it-fence"
   },
   {
     "p": "https://github.com/markdown-it/markdown-it-footnote",
