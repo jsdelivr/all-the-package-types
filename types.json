@@ -5060,6 +5060,11 @@
     "t": "cerner__terra-functional-testing"
   },
   {
+    "p": "https://github.com/CaliDog/certstream-js",
+    "l": "certstream",
+    "t": "certstream"
+  },
+  {
     "p": "https://github.com/CesiumGS/cesium",
     "l": "cesium",
     "t": "cesium"
@@ -9408,6 +9413,11 @@
     "p": "https://github.com/biggora/device-uuid",
     "l": "device-uuid",
     "t": "device-uuid"
+  },
+  {
+    "p": "https://github.com/DeviceFarmer/stf-syrup",
+    "l": "@devicefarmer/stf-syrup",
+    "t": "devicefarmer__stf-syrup"
   },
   {
     "p": "https://github.com/sindresorhus/devtools-detect",
@@ -27630,6 +27640,11 @@
     "t": "leaflet.awesome-markers"
   },
   {
+    "p": "https://github.com/htoooth/Leaflet.ChineseTmsProviders",
+    "l": "leaflet.chinatmsproviders",
+    "t": "leaflet.chinatmsproviders"
+  },
+  {
     "p": "https://github.com/ghybs/Leaflet.FeatureGroup.SubGroup",
     "l": "leaflet.featuregroup.subgroup",
     "t": "leaflet.featuregroup.subgroup"
@@ -34233,6 +34248,11 @@
     "p": "https://github.com/ebemunk/node-uci",
     "l": "node-uci",
     "t": "node-uci"
+  },
+  {
+    "p": "https://github.com/jens-maus/node-unifi",
+    "l": "node-unifi",
+    "t": "node-unifi"
   },
   {
     "p": null,
@@ -41265,7 +41285,7 @@
     "t": "react-icons"
   },
   {
-    "p": "https://github.com/sekoyo/react-image-crop",
+    "p": "https://github.com/dominictobias/react-image-crop",
     "l": "react-image-crop",
     "t": "react-image-crop"
   },
@@ -53300,7 +53320,7 @@
     "t": "vue-clickaway"
   },
   {
-    "p": "https://github.com/xiaokaike/vue-color",
+    "p": "https://github.com/linx4200/vue-color",
     "l": "vue-color",
     "t": "vue-color"
   },
