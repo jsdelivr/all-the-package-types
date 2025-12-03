@@ -1,5 +1,9 @@
 name: Release
 
+permissions:
+  id-token: write
+  contents: write
+
 on:
   schedule:
     - cron: "0 */24 * * *"
@@ -14,6 +18,8 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: '22'
+      - name: Update npm
+        run: npm install -g npm@latest
       - name: Update and Publish
         run: |
           git config --global user.name "github-actions"
@@ -26,8 +32,6 @@ jobs:
           # bail if no changes are present
           [[ `git status --porcelain` ]] || exit 0
 
-          echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
-  
           git add .
           # bump the version, commit, and create a tag
           npm version patch -f -m "Update all-the-package-types to %s"
