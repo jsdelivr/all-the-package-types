@@ -26,6 +26,6 @@
 	"devDependencies": {
 		"all-the-package-repos": "^2",
 		"tap-spec": "^5.0.0",
-		"tape": "^5.6.6"
+		"tape": "^5.9.0"
 	}
 }
