@@ -8050,7 +8050,7 @@
     "t": "css-mediaquery"
   },
   {
-    "p": "https://github.com/webpack-contrib/css-minimizer-webpack-plugin",
+    "p": "https://github.com/webpack/css-minimizer-webpack-plugin",
     "l": "css-minimizer-webpack-plugin",
     "t": "css-minimizer-webpack-plugin"
   },
@@ -41025,7 +41025,7 @@
     "t": "react-d3-graph"
   },
   {
-    "p": "https://github.com/adazzle/react-data-grid",
+    "p": "https://github.com/Comcast/react-data-grid",
     "l": "react-data-grid",
     "t": "react-data-grid"
   },
@@ -50770,7 +50770,7 @@
     "t": "terser"
   },
   {
-    "p": "https://github.com/webpack-contrib/terser-webpack-plugin",
+    "p": "https://github.com/webpack/terser-webpack-plugin",
     "l": "terser-webpack-plugin",
     "t": "terser-webpack-plugin"
   },
