@@ -53857,7 +53857,17 @@
   {
     "p": null,
     "l": null,
+    "t": "w3c-controlled-frame"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "w3c-css-typed-object-model-level-1"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "w3c-direct-sockets"
   },
   {
     "p": null,
@@ -53903,6 +53913,11 @@
     "p": null,
     "l": null,
     "t": "w3c-web-serial"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "w3c-web-smart-card"
   },
   {
     "p": null,
