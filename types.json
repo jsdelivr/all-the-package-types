@@ -50640,6 +50640,11 @@
     "t": "telegram-web-app"
   },
   {
+    "p": "https://github.com/telegraf/telegraph.md",
+    "l": "telegraph.md",
+    "t": "telegraph.md"
+  },
+  {
     "p": "https://github.com/cadpnq/telnetlib",
     "l": "telnetlib",
     "t": "telnetlib"
@@ -53897,6 +53902,11 @@
   {
     "p": null,
     "l": null,
+    "t": "w3c-screen-capture"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "w3c-screen-orientation"
   },
   {
@@ -55856,6 +55866,11 @@
   },
   {
     "p": "https://github.com/xmppjs/xmpp.js",
+    "l": "@xmpp/sasl-ht-sha-256-none",
+    "t": "xmpp__sasl-ht-sha-256-none"
+  },
+  {
+    "p": "https://github.com/xmppjs/xmpp.js",
     "l": "@xmpp/sasl-plain",
     "t": "xmpp__sasl-plain"
   },
@@ -55863,6 +55878,11 @@
     "p": "https://github.com/xmppjs/xmpp.js",
     "l": "@xmpp/sasl-scram-sha-1",
     "t": "xmpp__sasl-scram-sha-1"
+  },
+  {
+    "p": "https://github.com/xmppjs/xmpp.js",
+    "l": "@xmpp/sasl2",
+    "t": "xmpp__sasl2"
   },
   {
     "p": "https://github.com/xmppjs/xmpp.js",
