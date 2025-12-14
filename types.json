@@ -18725,6 +18725,11 @@
     "t": "geojson-equality"
   },
   {
+    "p": "https://github.com/jczaplew/geojson-precision",
+    "l": "geojson-precision",
+    "t": "geojson-precision"
+  },
+  {
     "p": null,
     "l": null,
     "t": "geojson-validation"
