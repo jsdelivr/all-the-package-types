@@ -28205,6 +28205,11 @@
     "t": "libsodium-wrappers-sumo"
   },
   {
+    "p": "https://github.com/brendankenny/libtess.js",
+    "l": "libtess",
+    "t": "libtess"
+  },
+  {
     "p": "https://github.com/libxmljs/libxmljs",
     "l": "libxmljs",
     "t": "libxmljs"
