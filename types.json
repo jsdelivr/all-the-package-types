@@ -45985,6 +45985,11 @@
     "t": "s-salt-pepper"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "s2-geometry"
+  },
+  {
     "p": "https://github.com/jb55/s3-download-stream",
     "l": "s3-download-stream",
     "t": "s3-download-stream"
@@ -51670,7 +51675,7 @@
     "t": "transit-js"
   },
   {
-    "p": "https://github.com/dzcpy/transliteration",
+    "p": "https://github.com/yf-hk/transliteration",
     "l": "transliteration",
     "t": "transliteration"
   },
