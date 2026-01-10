@@ -39475,7 +39475,7 @@
     "t": "purifycss-webpack"
   },
   {
-    "p": "https://github.com/intuitivcloud/purl",
+    "p": "https://github.com/ljharb/purl",
     "l": "purl",
     "t": "purl"
   },
