@@ -32065,7 +32065,7 @@
     "t": "minecraft-pinger"
   },
   {
-    "p": "https://github.com/webpack-contrib/mini-css-extract-plugin",
+    "p": "https://github.com/webpack/mini-css-extract-plugin",
     "l": "mini-css-extract-plugin",
     "t": "mini-css-extract-plugin"
   },
@@ -56135,7 +56135,7 @@
     "t": "yauzl-promise"
   },
   {
-    "p": null,
+    "p": "https://github.com/mohsen1/yawn-yaml",
     "l": "yawn-yaml",
     "t": "yawn-yaml"
   },
