@@ -38230,6 +38230,11 @@
     "t": "postcss-env-function"
   },
   {
+    "p": "https://github.com/postcss/postcss-fail-on-warn",
+    "l": "postcss-fail-on-warn",
+    "t": "postcss-fail-on-warn"
+  },
+  {
     "p": "https://github.com/luisrudge/postcss-flexbugs-fixes",
     "l": "postcss-flexbugs-fixes",
     "t": "postcss-flexbugs-fixes"
