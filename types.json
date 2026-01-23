@@ -27395,6 +27395,11 @@
     "t": "kos-core"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "kotobee"
+  },
+  {
     "p": "https://github.com/krakenjs/kraken-js",
     "l": "kraken-js",
     "t": "kraken-js"
@@ -30580,7 +30585,7 @@
     "t": "makeup-floating-label"
   },
   {
-    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-keyboard-trap",
+    "p": "https://github.com/makeup/makeup-js",
     "l": "makeup-keyboard-trap",
     "t": "makeup-keyboard-trap"
   },
@@ -36803,6 +36808,11 @@
     "p": "https://github.com/jaredhanson/passport-google-oauth2",
     "l": "passport-google-oauth20",
     "t": "passport-google-oauth20"
+  },
+  {
+    "p": "https://github.com/jaredhanson/passport-google-openidconnect",
+    "l": "passport-google-oidc",
+    "t": "passport-google-oidc"
   },
   {
     "p": "https://github.com/jaredhanson/passport-http",
