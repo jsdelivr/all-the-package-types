@@ -35525,6 +35525,11 @@
     "t": "ola"
   },
   {
+    "p": "https://github.com/baltazorr/oled-i2c-bus",
+    "l": "oled-i2c-bus",
+    "t": "oled-i2c-bus"
+  },
+  {
     "p": "https://github.com/f/omelette",
     "l": "omelette",
     "t": "omelette"
