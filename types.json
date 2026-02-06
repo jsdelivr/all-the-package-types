@@ -970,6 +970,11 @@
     "t": "amcharts"
   },
   {
+    "p": "https://github.com/jrburke/amdefine",
+    "l": "amdefine",
+    "t": "amdefine"
+  },
+  {
     "p": "https://github.com/americanexpress/react-seo",
     "l": "@americanexpress/react-seo",
     "t": "americanexpress__react-seo"
@@ -4410,6 +4415,11 @@
     "t": "buffer-json-encoding"
   },
   {
+    "p": "https://github.com/dpw/node-buffer-more-ints",
+    "l": "buffer-more-ints",
+    "t": "buffer-more-ints"
+  },
+  {
     "p": "https://github.com/villadora/node-buffer-reader",
     "l": "buffer-reader",
     "t": "buffer-reader"
@@ -6263,6 +6273,11 @@
     "p": "https://github.com/jonschlinkert/clone-deep",
     "l": "clone-deep",
     "t": "clone-deep"
+  },
+  {
+    "p": "https://github.com/hughsk/clone-stats",
+    "l": "clone-stats",
+    "t": "clone-stats"
   },
   {
     "p": "https://github.com/mcollina/cloneable-readable",
@@ -12990,6 +13005,11 @@
     "t": "fast-simplex-noise"
   },
   {
+    "p": "https://github.com/nickyout/fast-stable-stringify",
+    "l": "fast-stable-stringify",
+    "t": "fast-stable-stringify"
+  },
+  {
     "p": "https://github.com/bluesmoon/node-faststats",
     "l": "fast-stats",
     "t": "fast-stats"
@@ -13583,6 +13603,11 @@
     "p": "https://github.com/thlorenz/find-parent-dir",
     "l": "find-parent-dir",
     "t": "find-parent-dir"
+  },
+  {
+    "p": "https://github.com/jonschlinkert/find-pkg",
+    "l": "find-pkg",
+    "t": "find-pkg"
   },
   {
     "p": "https://github.com/shinnn/find-pkg-dir",
@@ -21670,6 +21695,11 @@
     "t": "html-minifier-terser"
   },
   {
+    "p": "https://github.com/henrikjoreteg/html-parse-stringify",
+    "l": "html-parse-stringify",
+    "t": "html-parse-stringify"
+  },
+  {
     "p": "https://github.com/tmont/html-parser",
     "l": "html-parser",
     "t": "html-parser"
@@ -23545,6 +23575,11 @@
     "t": "is-relative-url"
   },
   {
+    "p": "https://github.com/shinnn/is-resolvable",
+    "l": "is-resolvable",
+    "t": "is-resolvable"
+  },
+  {
     "p": "https://github.com/sindresorhus/is-root",
     "l": "is-root",
     "t": "is-root"
@@ -24053,6 +24088,11 @@
     "p": "https://github.com/Adrinlol/javascript-color-gradient",
     "l": "javascript-color-gradient",
     "t": "javascript-color-gradient"
+  },
+  {
+    "p": "https://github.com/Bill4Time/javascript-natural-sort",
+    "l": "javascript-natural-sort",
+    "t": "javascript-natural-sort"
   },
   {
     "p": "https://github.com/javascript-obfuscator/javascript-obfuscator",
@@ -28438,6 +28478,11 @@
     "p": "https://github.com/javve/list.js",
     "l": "list.js",
     "t": "list.js"
+  },
+  {
+    "p": "https://github.com/jden/node-listenercount",
+    "l": "listenercount",
+    "t": "listenercount"
   },
   {
     "p": "https://github.com/ljharb/listify",
@@ -35525,6 +35570,11 @@
     "t": "ola"
   },
   {
+    "p": "https://github.com/noopkat/oled-font-5x7",
+    "l": "oled-font-5x7",
+    "t": "oled-font-5x7"
+  },
+  {
     "p": "https://github.com/baltazorr/oled-i2c-bus",
     "l": "oled-i2c-bus",
     "t": "oled-i2c-bus"
@@ -36643,6 +36693,11 @@
     "p": "https://github.com/albell/parse-srcset",
     "l": "parse-srcset",
     "t": "parse-srcset"
+  },
+  {
+    "p": "https://github.com/jkroso/parse-svg-path",
+    "l": "parse-svg-path",
+    "t": "parse-svg-path"
   },
   {
     "p": "https://github.com/webtorrent/parse-torrent",
@@ -39708,6 +39763,11 @@
     "p": "https://github.com/unshiftio/querystringify",
     "l": "querystringify",
     "t": "querystringify"
+  },
+  {
+    "p": "https://github.com/mafintosh/queue-tick",
+    "l": "queue-tick",
+    "t": "queue-tick"
   },
   {
     "p": "https://github.com/davidmarkclements/quick-format",
@@ -45315,6 +45375,11 @@
     "t": "rgb2hex"
   },
   {
+    "p": "https://github.com/yetzt/node-rgbcolor",
+    "l": "rgbcolor",
+    "t": "rgbcolor"
+  },
+  {
     "p": "https://github.com/rgrove/parse-xml",
     "l": "@rgrove/parse-xml",
     "t": "rgrove__parse-xml"
@@ -46670,6 +46735,11 @@
     "t": "secretbox-encoding"
   },
   {
+    "p": "https://github.com/jonschlinkert/section-matter",
+    "l": "section-matter",
+    "t": "section-matter"
+  },
+  {
     "p": "https://github.com/fastify/secure-json-parse",
     "l": "secure-json-parse",
     "t": "secure-json-parse"
@@ -47473,6 +47543,11 @@
     "p": "https://github.com/shouldjs/should.js",
     "l": "should",
     "t": "should"
+  },
+  {
+    "p": "https://github.com/shouldjs/format",
+    "l": "should-format",
+    "t": "should-format"
   },
   {
     "p": "https://github.com/shouldjs/promised",
@@ -48443,6 +48518,11 @@
     "p": "https://github.com/kesla/sort-json",
     "l": "sort-json",
     "t": "sort-json"
+  },
+  {
+    "p": "https://github.com/kevva/sort-keys-length",
+    "l": "sort-keys-length",
+    "t": "sort-keys-length"
   },
   {
     "p": "https://github.com/keithamus/sort-object-keys",
@@ -49785,7 +49865,7 @@
     "t": "stylelint"
   },
   {
-    "p": "https://github.com/webpack-contrib/stylelint-webpack-plugin",
+    "p": "https://github.com/webpack/stylelint-webpack-plugin",
     "l": "stylelint-webpack-plugin",
     "t": "stylelint-webpack-plugin"
   },
@@ -54523,6 +54603,11 @@
     "p": "https://github.com/statianzo/webpack-livereload-plugin",
     "l": "webpack-livereload-plugin",
     "t": "webpack-livereload-plugin"
+  },
+  {
+    "p": "https://github.com/shellscape/webpack-log",
+    "l": "webpack-log",
+    "t": "webpack-log"
   },
   {
     "p": "https://github.com/shellscape/webpack-manifest-plugin",
