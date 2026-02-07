@@ -30560,7 +30560,7 @@
     "t": "mailchimp__mailchimp_marketing"
   },
   {
-    "p": "https://github.com/mailchimp/mailchimp-transactional-node",
+    "p": "https://github.com/mailchimp/mailchimp-client-lib-codegen",
     "l": "@mailchimp/mailchimp_transactional",
     "t": "mailchimp__mailchimp_transactional"
   },
