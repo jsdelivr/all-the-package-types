@@ -9710,7 +9710,7 @@
     "t": "dirname-regex"
   },
   {
-    "p": "https://github.com/prodatakey/dirty-chai",
+    "p": "https://github.com/joshperry/dirty-chai",
     "l": "dirty-chai",
     "t": "dirty-chai"
   },
@@ -30640,7 +30640,7 @@
     "t": "maker.js"
   },
   {
-    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-expander",
+    "p": "https://github.com/makeup/makeup-js",
     "l": "makeup-expander",
     "t": "makeup-expander"
   },
@@ -50213,6 +50213,11 @@
     "p": "https://github.com/scriptex/svg64",
     "l": "svg64",
     "t": "svg64"
+  },
+  {
+    "p": "https://github.com/zenozeng/svgcanvas",
+    "l": "svgcanvas",
+    "t": "svgcanvas"
   },
   {
     "p": "https://github.com/svgdotjs/svgdom",
