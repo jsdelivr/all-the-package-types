@@ -32740,7 +32740,7 @@
     "t": "mongoose-simple-random"
   },
   {
-    "p": "https://github.com/blakehaswell/mongoose-unique-validator",
+    "p": "https://github.com/mongoose-unique-validator/mongoose-unique-validator",
     "l": "mongoose-unique-validator",
     "t": "mongoose-unique-validator"
   },
@@ -43965,7 +43965,7 @@
     "t": "react-vega"
   },
   {
-    "p": "https://github.com/stephane-monnot/react-vertical-timeline",
+    "p": null,
     "l": "react-vertical-timeline-component",
     "t": "react-vertical-timeline-component"
   },
