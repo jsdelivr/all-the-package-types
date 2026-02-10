@@ -4080,7 +4080,7 @@
     "t": "bounds.js"
   },
   {
-    "p": "https://github.com/lancedikson/bowser",
+    "p": "https://github.com/bowser-js/bowser",
     "l": "bowser",
     "t": "bowser"
   },
@@ -23958,6 +23958,11 @@
     "p": "https://github.com/jalaali/jalaali-js",
     "l": "jalaali-js",
     "t": "jalaali-js"
+  },
+  {
+    "p": "https://github.com/jambonz/jambonz-node",
+    "l": "@jambonz/node-client",
+    "t": "jambonz__node-client"
   },
   {
     "p": "https://github.com/mzp/japan-postal-code",
