@@ -7895,7 +7895,7 @@
     "t": "cronitor"
   },
   {
-    "p": null,
+    "p": "https://github.com/cronofy/cronofy",
     "l": "cronofy-elements",
     "t": "cronofy-elements"
   },
@@ -8633,6 +8633,11 @@
     "p": "https://github.com/johnwalley/d3-simple-slider",
     "l": "d3-simple-slider",
     "t": "d3-simple-slider"
+  },
+  {
+    "p": "https://github.com/d3/d3-tile",
+    "l": "d3-tile",
+    "t": "d3-tile"
   },
   {
     "p": "https://github.com/d3/d3-time",
