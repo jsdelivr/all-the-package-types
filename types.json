@@ -55476,6 +55476,11 @@
   },
   {
     "p": "https://github.com/WordPress/gutenberg",
+    "l": "@wordpress/server-side-render",
+    "t": "wordpress__server-side-render"
+  },
+  {
+    "p": "https://github.com/WordPress/gutenberg",
     "l": "@wordpress/shortcode",
     "t": "wordpress__shortcode"
   },
