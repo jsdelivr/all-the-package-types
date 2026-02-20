@@ -46315,7 +46315,7 @@
     "t": "sanitize-filename"
   },
   {
-    "p": "https://github.com/apostrophecms/sanitize-html",
+    "p": "https://github.com/apostrophecms/apostrophe",
     "l": "sanitize-html",
     "t": "sanitize-html"
   },
@@ -48370,7 +48370,7 @@
     "t": "soap"
   },
   {
-    "p": "https://github.com/Automattic/jetpack",
+    "p": "https://github.com/Automattic/social-logos",
     "l": "social-logos",
     "t": "social-logos"
   },
