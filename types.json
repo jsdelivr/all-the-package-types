@@ -2325,7 +2325,7 @@
     "t": "atmosphere"
   },
   {
-    "p": "https://github.com/Atmosphere/atmosphere.js-node",
+    "p": "https://github.com/Atmosphere/atmosphere",
     "l": "atmosphere.js",
     "t": "atmosphere.js"
   },
@@ -5500,7 +5500,7 @@
     "t": "chenfengyuan__vue-qrcode"
   },
   {
-    "p": null,
+    "p": "https://github.com/CrazyCreativeDream/CacheDB",
     "l": "@chenyfan/cache-db",
     "t": "chenyfan__cache-db"
   },
@@ -20280,7 +20280,7 @@
     "t": "gulp-hash"
   },
   {
-    "p": "https://github.com/tracker1/gulp-header",
+    "p": "https://github.com/gulp-community/gulp-header",
     "l": "gulp-header",
     "t": "gulp-header"
   },
