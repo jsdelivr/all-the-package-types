@@ -23240,6 +23240,11 @@
     "t": "is-date-object"
   },
   {
+    "p": "https://github.com/watson/is-deflate",
+    "l": "is-deflate",
+    "t": "is-deflate"
+  },
+  {
     "p": "https://github.com/sindresorhus/is-docker",
     "l": "is-docker",
     "t": "is-docker"
