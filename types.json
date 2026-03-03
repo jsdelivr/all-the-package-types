@@ -35795,7 +35795,7 @@
     "t": "openapi-factory"
   },
   {
-    "p": "https://github.com/redocly/openapi-sampler",
+    "p": "https://github.com/Redocly/openapi-sampler",
     "l": "openapi-sampler",
     "t": "openapi-sampler"
   },
@@ -36365,7 +36365,7 @@
     "t": "package-json"
   },
   {
-    "p": "https://github.com/JoshuaKGoldberg/package-json-validator",
+    "p": "https://github.com/michaelfaith/package-json-validator",
     "l": "package-json-validator",
     "t": "package-json-validator"
   },
