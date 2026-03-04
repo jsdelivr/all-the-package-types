@@ -6835,7 +6835,7 @@
     "t": "compression-next"
   },
   {
-    "p": "https://github.com/webpack-contrib/compression-webpack-plugin",
+    "p": "https://github.com/webpack/compression-webpack-plugin",
     "l": "compression-webpack-plugin",
     "t": "compression-webpack-plugin"
   },
@@ -7335,7 +7335,7 @@
     "t": "copy-text-to-clipboard"
   },
   {
-    "p": "https://github.com/webpack-contrib/copy-webpack-plugin",
+    "p": "https://github.com/webpack/copy-webpack-plugin",
     "l": "copy-webpack-plugin",
     "t": "copy-webpack-plugin"
   },
