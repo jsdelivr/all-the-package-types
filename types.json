@@ -38760,7 +38760,7 @@
     "t": "precond"
   },
   {
-    "p": "https://github.com/zkochan/packages",
+    "p": "https://github.com/zkochan/packages/blob/main/preferred-pm",
     "l": "preferred-pm",
     "t": "preferred-pm"
   },
@@ -54935,7 +54935,7 @@
     "t": "which-boxed-primitive"
   },
   {
-    "p": "https://github.com/zkochan/packages",
+    "p": "https://github.com/zkochan/packages/blob/main/which-pm",
     "l": "which-pm",
     "t": "which-pm"
   },
