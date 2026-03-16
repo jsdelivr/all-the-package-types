@@ -55805,6 +55805,11 @@
     "t": "xast"
   },
   {
+    "p": "https://github.com/apache/cordova-node-xcode",
+    "l": "xcode",
+    "t": "xcode"
+  },
+  {
     "p": "https://github.com/arshaw/xdate",
     "l": "xdate",
     "t": "xdate"
