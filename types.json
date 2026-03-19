@@ -47215,7 +47215,7 @@
     "t": "serverless-jest-plugin"
   },
   {
-    "p": "https://github.com/horike37/serverless-step-functions",
+    "p": "https://github.com/serverless-operations/serverless-step-functions",
     "l": "serverless-step-functions",
     "t": "serverless-step-functions"
   },
