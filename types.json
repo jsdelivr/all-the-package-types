@@ -10945,7 +10945,7 @@
     "t": "electron-store"
   },
   {
-    "p": "https://github.com/kilian/electron-to-chromium",
+    "p": "https://github.com/Kilian/electron-to-chromium",
     "l": "electron-to-chromium",
     "t": "electron-to-chromium"
   },
@@ -43048,6 +43048,11 @@
     "p": "https://github.com/facebook/react-native",
     "l": "@react-native/assets",
     "t": "react-native__assets"
+  },
+  {
+    "p": "https://github.com/facebook/react-native",
+    "l": "@react-native/assets-registry",
+    "t": "react-native__assets-registry"
   },
   {
     "p": "https://github.com/react-navigation/react-navigation",
