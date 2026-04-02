@@ -3355,8 +3355,8 @@
     "t": "begin__data"
   },
   {
-    "p": null,
-    "l": null,
+    "p": "https://github.com/codetypess/behavior3-ts",
+    "l": "behavior3",
     "t": "behavior3"
   },
   {
@@ -9568,6 +9568,11 @@
     "p": "https://github.com/NickQiZhu/di.js",
     "l": "di-lite",
     "t": "di-lite"
+  },
+  {
+    "p": "https://github.com/Nijikokun/Diacritics.js",
+    "l": "diacritic",
+    "t": "diacritic"
   },
   {
     "p": "https://github.com/andrewrk/node-diacritics",
@@ -30680,12 +30685,12 @@
     "t": "makeup-keyboard-trap"
   },
   {
-    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-prevent-scroll-keys",
+    "p": "https://github.com/makeup/makeup-js",
     "l": "makeup-prevent-scroll-keys",
     "t": "makeup-prevent-scroll-keys"
   },
   {
-    "p": "https://github.com/makeup/makeup-js/tree/master/packages/core/makeup-screenreader-trap",
+    "p": "https://github.com/makeup/makeup-js",
     "l": "makeup-screenreader-trap",
     "t": "makeup-screenreader-trap"
   },
