@@ -6250,6 +6250,11 @@
     "t": "clipboardy"
   },
   {
+    "p": "https://github.com/junmer/clipper-lib",
+    "l": "clipper-lib",
+    "t": "clipper-lib"
+  },
+  {
     "p": "https://github.com/auduno/clmtrackr",
     "l": "clmtrackr",
     "t": "clmtrackr"
@@ -7598,6 +7603,11 @@
     "p": "https://github.com/cornerstonejs/cornerstone",
     "l": "cornerstone-core",
     "t": "cornerstone-core"
+  },
+  {
+    "p": "https://github.com/jslicense/correct-license-metadata.js",
+    "l": "correct-license-metadata",
+    "t": "correct-license-metadata"
   },
   {
     "p": "https://github.com/toboid/correlation-id",
@@ -20095,7 +20105,7 @@
     "t": "guacamole-common-js"
   },
   {
-    "p": null,
+    "p": "https://github.com/guardian/prosemirror-invisibles",
     "l": "@guardian/prosemirror-invisibles",
     "t": "guardian__prosemirror-invisibles"
   },
@@ -25345,6 +25355,11 @@
     "t": "jsbn"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "jsbox-app"
+  },
+  {
     "p": "https://github.com/kcwiakala/jsboxmuller",
     "l": "jsboxmuller",
     "t": "jsboxmuller"
@@ -28328,6 +28343,11 @@
     "p": "https://github.com/arunahk/license-key-gen",
     "l": "license-key-gen",
     "t": "license-key-gen"
+  },
+  {
+    "p": "https://github.com/jslicense/licensee.js",
+    "l": "licensee",
+    "t": "licensee"
   },
   {
     "p": "https://github.com/lifeomic/axios-fetch",
@@ -32081,7 +32101,7 @@
   },
   {
     "p": null,
-    "l": null,
+    "l": "microsoftteams",
     "t": "microsoftteams"
   },
   {
@@ -34055,6 +34075,11 @@
     "t": "node-browser-history"
   },
   {
+    "p": "https://github.com/WilliamVenner/node-bzip2",
+    "l": "node-bzip2",
+    "t": "node-bzip2"
+  },
+  {
     "p": "https://github.com/node-cache/node-cache",
     "l": "node-cache",
     "t": "node-cache"
@@ -35018,6 +35043,11 @@
     "p": "https://github.com/sindresorhus/npm-keyword",
     "l": "npm-keyword",
     "t": "npm-keyword"
+  },
+  {
+    "p": "https://github.com/jslicense/npm-license-corrections.json",
+    "l": "npm-license-corrections",
+    "t": "npm-license-corrections"
   },
   {
     "p": "https://github.com/mwittig/npm-license-crawler",
@@ -45820,6 +45850,11 @@
     "t": "route-cache"
   },
   {
+    "p": "https://github.com/cowboy/javascript-route-matcher",
+    "l": "route-matcher",
+    "t": "route-matcher"
+  },
+  {
     "p": "https://github.com/rcs/route-parser",
     "l": "route-parser",
     "t": "route-parser"
@@ -48675,9 +48710,24 @@
     "t": "spatialite"
   },
   {
+    "p": "https://github.com/kemitchell/spdx-compare.js",
+    "l": "spdx-compare",
+    "t": "spdx-compare"
+  },
+  {
+    "p": "https://github.com/kemitchell/spdx-copyleft.json",
+    "l": "spdx-copyleft",
+    "t": "spdx-copyleft"
+  },
+  {
     "p": "https://github.com/jslicense/spdx-correct.js",
     "l": "spdx-correct",
     "t": "spdx-correct"
+  },
+  {
+    "p": "https://github.com/kemitchell/spdx-exceptions.json",
+    "l": "spdx-exceptions",
+    "t": "spdx-exceptions"
   },
   {
     "p": "https://github.com/jslicense/spdx-expression-parse.js",
@@ -48685,9 +48735,49 @@
     "t": "spdx-expression-parse"
   },
   {
+    "p": "https://github.com/kemitchell/spdx-expression-validate.js",
+    "l": "spdx-expression-validate",
+    "t": "spdx-expression-validate"
+  },
+  {
+    "p": "https://github.com/kemitchell/spdx-id-to-url.js",
+    "l": "spdx-id-to-url",
+    "t": "spdx-id-to-url"
+  },
+  {
+    "p": "https://github.com/jslicense/spdx-is-osi.js",
+    "l": "spdx-is-osi",
+    "t": "spdx-is-osi"
+  },
+  {
+    "p": "https://github.com/jslicense/spdx-license-ids",
+    "l": "spdx-license-ids",
+    "t": "spdx-license-ids"
+  },
+  {
+    "p": "https://github.com/kemitchell/spdx-osi.json",
+    "l": "spdx-osi",
+    "t": "spdx-osi"
+  },
+  {
+    "p": "https://github.com/kemitchell/spdx-ranges.js",
+    "l": "spdx-ranges",
+    "t": "spdx-ranges"
+  },
+  {
     "p": "https://github.com/kemitchell/spdx-satisfies.js",
     "l": "spdx-satisfies",
     "t": "spdx-satisfies"
+  },
+  {
+    "p": "https://github.com/jslicense/spdx-to-html.js",
+    "l": "spdx-to-html",
+    "t": "spdx-to-html"
+  },
+  {
+    "p": "https://github.com/jslicense/spdx-whitelisted.js",
+    "l": "spdx-whitelisted",
+    "t": "spdx-whitelisted"
   },
   {
     "p": "https://github.com/indutny/node-spdy",
@@ -51113,6 +51203,11 @@
     "p": "https://github.com/STRML/textFit",
     "l": "textfit",
     "t": "textfit"
+  },
+  {
+    "p": "https://github.com/borgar/textile-js",
+    "l": "textile-js",
+    "t": "textile-js"
   },
   {
     "p": "https://github.com/shuvalov-anton/textr",
