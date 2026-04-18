@@ -30795,6 +30795,11 @@
     "t": "mapbox__geojson-extent"
   },
   {
+    "p": "https://github.com/mapbox/geojson-rewind",
+    "l": "@mapbox/geojson-rewind",
+    "t": "mapbox__geojson-rewind"
+  },
+  {
     "p": "https://github.com/mapbox/hast-util-table-cell-style",
     "l": "@mapbox/hast-util-table-cell-style",
     "t": "mapbox__hast-util-table-cell-style"
