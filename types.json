@@ -5005,7 +5005,7 @@
     "t": "casperjs"
   },
   {
-    "p": "https://github.com/datastax/nodejs-driver",
+    "p": "https://github.com/apache/cassandra-nodejs-driver",
     "l": "cassandra-driver",
     "t": "cassandra-driver"
   },
