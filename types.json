@@ -51055,7 +51055,7 @@
     "t": "terser"
   },
   {
-    "p": "https://github.com/webpack/terser-webpack-plugin",
+    "p": "https://github.com/webpack/minimizer-webpack-plugin",
     "l": "terser-webpack-plugin",
     "t": "terser-webpack-plugin"
   },
