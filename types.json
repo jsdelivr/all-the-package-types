@@ -11810,6 +11810,11 @@
     "t": "eslint-plugin-prettier"
   },
   {
+    "p": "https://github.com/eslint-community/eslint-plugin-promise",
+    "l": "eslint-plugin-promise",
+    "t": "eslint-plugin-promise"
+  },
+  {
     "p": "https://github.com/ArnaudBarre/eslint-plugin-react-refresh",
     "l": "eslint-plugin-react-refresh",
     "t": "eslint-plugin-react-refresh"
@@ -19285,22 +19290,22 @@
     "t": "gl-matrix"
   },
   {
-    "p": null,
+    "p": "https://github.com/gre/gl-react",
     "l": "gl-react",
     "t": "gl-react"
   },
   {
-    "p": null,
+    "p": "https://github.com/gre/gl-react",
     "l": "gl-react-dom",
     "t": "gl-react-dom"
   },
   {
-    "p": null,
+    "p": "https://github.com/gre/gl-react",
     "l": "gl-react-expo",
     "t": "gl-react-expo"
   },
   {
-    "p": null,
+    "p": "https://github.com/gre/gl-react",
     "l": "gl-react-headless",
     "t": "gl-react-headless"
   },
@@ -19310,7 +19315,7 @@
     "t": "gl-react-image"
   },
   {
-    "p": null,
+    "p": "https://github.com/gre/gl-react",
     "l": "gl-react-native",
     "t": "gl-react-native"
   },
