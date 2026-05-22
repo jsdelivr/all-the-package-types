@@ -56300,12 +56300,12 @@
     "t": "xss-filters"
   },
   {
-    "p": "https://github.com/gregberge/xstyled",
+    "p": "https://github.com/styled-components/xstyled",
     "l": "@xstyled/styled-components",
     "t": "xstyled__styled-components"
   },
   {
-    "p": "https://github.com/gregberge/xstyled",
+    "p": "https://github.com/styled-components/xstyled",
     "l": "@xstyled/system",
     "t": "xstyled__system"
   },
