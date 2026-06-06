@@ -19555,7 +19555,7 @@
     "t": "google-closure-compiler"
   },
   {
-    "p": "https://github.com/googleapis/nodejs-datastore",
+    "p": "https://github.com/googleapis/google-cloud-node",
     "l": "@google-cloud/datastore",
     "t": "google-cloud__datastore"
   },
@@ -19565,7 +19565,7 @@
     "t": "google-cloud__kms"
   },
   {
-    "p": "https://github.com/googleapis/nodejs-pubsub",
+    "p": "https://github.com/googleapis/google-cloud-node",
     "l": "@google-cloud/pubsub",
     "t": "google-cloud__pubsub"
   },
