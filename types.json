@@ -53120,7 +53120,7 @@
     "t": "usage"
   },
   {
-    "p": "https://github.com/node-usb/node-usb",
+    "p": "https://github.com/node-usb/node-usb-rs",
     "l": "usb",
     "t": "usb"
   },
