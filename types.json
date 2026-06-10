@@ -19570,7 +19570,7 @@
     "t": "google-cloud__pubsub"
   },
   {
-    "p": "https://github.com/googleapis/nodejs-storage",
+    "p": "https://github.com/googleapis/google-cloud-node",
     "l": "@google-cloud/storage",
     "t": "google-cloud__storage"
   },
@@ -34345,7 +34345,7 @@
     "t": "node-mailjet"
   },
   {
-    "p": null,
+    "p": "https://github.com/illuspas/Node-Media-Server",
     "l": "node-media-server",
     "t": "node-media-server"
   },
