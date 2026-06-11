@@ -46285,6 +46285,11 @@
     "t": "safer-buffer"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "safie-sdk"
+  },
+  {
     "p": "https://github.com/balderdashy/sails.io.js",
     "l": "sails.io.js",
     "t": "sails.io.js"
