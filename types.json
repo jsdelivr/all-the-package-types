@@ -11785,6 +11785,11 @@
     "t": "eslint-config-prettier"
   },
   {
+    "p": "https://github.com/github/eslint-plugin-github",
+    "l": "eslint-plugin-github",
+    "t": "eslint-plugin-github"
+  },
+  {
     "p": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y",
     "l": "eslint-plugin-jsx-a11y",
     "t": "eslint-plugin-jsx-a11y"
@@ -11803,6 +11808,21 @@
     "p": "https://github.com/lo1tuma/eslint-plugin-mocha",
     "l": "eslint-plugin-mocha",
     "t": "eslint-plugin-mocha"
+  },
+  {
+    "p": "https://github.com/markalfred/eslint-plugin-no-constructor-bind",
+    "l": "eslint-plugin-no-constructor-bind",
+    "t": "eslint-plugin-no-constructor-bind"
+  },
+  {
+    "p": "https://github.com/mozilla/eslint-plugin-no-unsanitized",
+    "l": "eslint-plugin-no-unsanitized",
+    "t": "eslint-plugin-no-unsanitized"
+  },
+  {
+    "p": "https://github.com/shiva-hack/eslint-plugin-pii",
+    "l": "eslint-plugin-pii",
+    "t": "eslint-plugin-pii"
   },
   {
     "p": "https://github.com/prettier/eslint-plugin-prettier",
@@ -11828,6 +11848,11 @@
     "p": "https://github.com/francoismassart/eslint-plugin-tailwindcss",
     "l": "eslint-plugin-tailwindcss",
     "t": "eslint-plugin-tailwindcss"
+  },
+  {
+    "p": "https://github.com/Rantanen/eslint-plugin-xss",
+    "l": "eslint-plugin-xss",
+    "t": "eslint-plugin-xss"
   },
   {
     "p": "https://github.com/eslint/js",
@@ -19310,7 +19335,7 @@
     "t": "gl-react-headless"
   },
   {
-    "p": "https://github.com/gre/gl-react-image",
+    "p": "https://github.com/gre/gl-react",
     "l": "gl-react-image",
     "t": "gl-react-image"
   },
