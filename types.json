@@ -52175,6 +52175,11 @@
     "t": "tsc-watch"
   },
   {
+    "p": "https://github.com/boytchev/tsl-textures",
+    "l": "tsl-textures",
+    "t": "tsl-textures"
+  },
+  {
     "p": "https://github.com/cbowdon/TsMonad",
     "l": "tsmonad",
     "t": "tsmonad"
