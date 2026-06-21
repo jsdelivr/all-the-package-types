@@ -25900,7 +25900,7 @@
     "t": "jsonp-promise"
   },
   {
-    "p": "https://github.com/sapienlab/jsonpack",
+    "p": "https://github.com/rgcl/jsonpack",
     "l": "jsonpack",
     "t": "jsonpack"
   },
@@ -26403,6 +26403,11 @@
     "p": null,
     "l": null,
     "t": "kakao-pixel"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "kakao.postcode"
   },
   {
     "p": null,
@@ -30583,6 +30588,11 @@
     "p": "https://github.com/addaleax/lzma-native",
     "l": "lzma-native",
     "t": "lzma-native"
+  },
+  {
+    "p": "https://github.com/floydpink/lzwCompress.js",
+    "l": "lzwcompress",
+    "t": "lzwcompress"
   },
   {
     "p": "https://github.com/videojs/m3u8-parser",
