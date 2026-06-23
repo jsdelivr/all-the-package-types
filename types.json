@@ -34170,7 +34170,7 @@
     "t": "node-crate"
   },
   {
-    "p": "https://github.com/merencia/node-cron",
+    "p": "https://github.com/node-cron/node-cron",
     "l": "node-cron",
     "t": "node-cron"
   },
@@ -39130,7 +39130,7 @@
     "t": "promise-deferred"
   },
   {
-    "p": "https://github.com/felippemauriciov/promise-fn-retry",
+    "p": "https://github.com/felippemauricio/promise-fn-retry",
     "l": "promise-fn-retry",
     "t": "promise-fn-retry"
   },
