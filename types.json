@@ -32010,47 +32010,47 @@
     "t": "metric-suffix"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro",
     "t": "metro"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-babel-transformer",
     "t": "metro-babel-transformer"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-cache",
     "t": "metro-cache"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-config",
     "t": "metro-config"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-core",
     "t": "metro-core"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-file-map",
     "t": "metro-file-map"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-resolver",
     "t": "metro-resolver"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-source-map",
     "t": "metro-source-map"
   },
   {
-    "p": "https://github.com/facebook/metro",
+    "p": "https://github.com/react/metro",
     "l": "metro-transform-worker",
     "t": "metro-transform-worker"
   },
