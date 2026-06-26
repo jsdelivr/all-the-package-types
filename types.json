@@ -35510,6 +35510,11 @@
     "t": "object-refs"
   },
   {
+    "p": "https://github.com/blackflux/object-treeify",
+    "l": "object-treeify",
+    "t": "object-treeify"
+  },
+  {
     "p": "https://github.com/ljharb/object.assign",
     "l": "object.assign",
     "t": "object.assign"
