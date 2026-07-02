@@ -8300,8 +8300,8 @@
     "t": "cycled"
   },
   {
-    "p": null,
-    "l": null,
+    "p": "https://github.com/CycloneDX/cyclonedx-npmjs-reserved-packages",
+    "l": "cyclonedx",
     "t": "cyclonedx"
   },
   {
@@ -55925,7 +55925,7 @@
     "t": "wx-js-sdk-dt"
   },
   {
-    "p": null,
+    "p": "https://github.com/wechat-miniprogram/wx-server-sdk",
     "l": "wx-server-sdk",
     "t": "wx-server-sdk"
   },
