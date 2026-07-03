@@ -33370,6 +33370,11 @@
     "t": "named-routes"
   },
   {
+    "p": "https://github.com/sethvincent/namespace-emitter",
+    "l": "namespace-emitter",
+    "t": "namespace-emitter"
+  },
+  {
     "p": "https://github.com/hirokidaichi/namespace-js",
     "l": "namespace-js",
     "t": "namespace-js"
@@ -55148,6 +55153,11 @@
     "p": "https://github.com/maicki/why-did-you-update",
     "l": "why-did-you-update",
     "t": "why-did-you-update"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "wicg-cross-origin-storage"
   },
   {
     "p": null,
