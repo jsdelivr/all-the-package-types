@@ -6130,6 +6130,11 @@
     "t": "clearbladejs-server"
   },
   {
+    "p": "https://github.com/clearoutio/clearout-node",
+    "l": "@clearoutio/clearout",
+    "t": "clearoutio__clearout"
+  },
+  {
     "p": "https://github.com/stscoundrel/cleasby-vigfusson-dictionary",
     "l": "cleasby-vigfusson-dictionary",
     "t": "cleasby-vigfusson-dictionary"
