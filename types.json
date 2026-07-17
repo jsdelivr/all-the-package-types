@@ -2655,7 +2655,7 @@
     "t": "axios-cancel"
   },
   {
-    "p": "https://github.com/mpyw/axios-interceptor-change-case",
+    "p": "https://github.com/mpyw/axios-case-converter",
     "l": "axios-case-converter",
     "t": "axios-case-converter"
   },
