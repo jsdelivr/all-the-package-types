@@ -40730,7 +40730,7 @@
     "t": "reach__window-size"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react",
     "t": "react"
   },
@@ -41375,7 +41375,7 @@
     "t": "react-document-title"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-dom",
     "t": "react-dom"
   },
@@ -41935,7 +41935,7 @@
     "t": "react-intl-redux"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-is",
     "t": "react-is"
   },
@@ -43935,7 +43935,7 @@
     "t": "react-tap-event-plugin"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-test-renderer",
     "t": "react-test-renderer"
   },
