@@ -21760,7 +21760,7 @@
     "t": "html-minifier-terser"
   },
   {
-    "p": "https://github.com/henrikjoreteg/html-parse-stringify",
+    "p": "https://github.com/i18next/html-parse-stringify",
     "l": "html-parse-stringify",
     "t": "html-parse-stringify"
   },
