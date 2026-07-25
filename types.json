@@ -8835,57 +8835,57 @@
     "t": "datatables-buttons"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables",
+    "p": "https://github.com/DataTables/DataTablesSrc",
     "l": "datatables.net",
     "t": "datatables.net"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-AutoFill",
+    "p": "https://github.com/DataTables/AutoFill",
     "l": "datatables.net-autofill",
     "t": "datatables.net-autofill"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-Buttons",
+    "p": "https://github.com/DataTables/Buttons",
     "l": "datatables.net-buttons",
     "t": "datatables.net-buttons"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-ColReorder",
+    "p": "https://github.com/DataTables/ColReorder",
     "l": "datatables.net-colreorder",
     "t": "datatables.net-colreorder"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-FixedColumns",
+    "p": "https://github.com/DataTables/FixedColumns",
     "l": "datatables.net-fixedcolumns",
     "t": "datatables.net-fixedcolumns"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-FixedHeader",
+    "p": "https://github.com/DataTables/FixedHeader",
     "l": "datatables.net-fixedheader",
     "t": "datatables.net-fixedheader"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-KeyTable",
+    "p": "https://github.com/DataTables/KeyTable",
     "l": "datatables.net-keytable",
     "t": "datatables.net-keytable"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-RowGroup",
+    "p": "https://github.com/DataTables/RowGroup",
     "l": "datatables.net-rowgroup",
     "t": "datatables.net-rowgroup"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-RowReorder",
+    "p": "https://github.com/DataTables/RowReorder",
     "l": "datatables.net-rowreorder",
     "t": "datatables.net-rowreorder"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-Scroller",
+    "p": "https://github.com/DataTables/Scroller",
     "l": "datatables.net-scroller",
     "t": "datatables.net-scroller"
   },
   {
-    "p": "https://github.com/DataTables/Dist-DataTables-Select",
+    "p": "https://github.com/DataTables/Select",
     "l": "datatables.net-select",
     "t": "datatables.net-select"
   },
@@ -19055,7 +19055,7 @@
     "t": "ghidra.js"
   },
   {
-    "p": "https://github.com/TryGhost/Ghost-Storage-Base",
+    "p": "https://github.com/TryGhost/Ghost",
     "l": "ghost-storage-base",
     "t": "ghost-storage-base"
   },
