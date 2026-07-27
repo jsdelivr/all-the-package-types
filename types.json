@@ -1060,7 +1060,7 @@
     "t": "android-device-list"
   },
   {
-    "p": "https://github.com/google/android-emulator-webrtc",
+    "p": "https://github.com/pokowaka/android-emulator-webrtc",
     "l": "android-emulator-webrtc",
     "t": "android-emulator-webrtc"
   },
@@ -24235,7 +24235,7 @@
     "t": "jest"
   },
   {
-    "p": "https://github.com/nickcolley/jest-axe",
+    "p": "https://github.com/NickColley/jest-axe",
     "l": "jest-axe",
     "t": "jest-axe"
   },
@@ -44785,7 +44785,7 @@
     "t": "redux-router"
   },
   {
-    "p": "https://github.com/redux-saga/redux-saga",
+    "p": "https://github.com/redux-saga/redux-saga/blob/main/packages",
     "l": "redux-saga",
     "t": "redux-saga"
   },
