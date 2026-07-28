@@ -42265,7 +42265,7 @@
     "t": "react-motion-ui-pack"
   },
   {
-    "p": "https://github.com/facebook/react-native",
+    "p": "https://github.com/react/react-native",
     "l": "react-native",
     "t": "react-native"
   },
@@ -43150,7 +43150,7 @@
     "t": "react-native__assets"
   },
   {
-    "p": "https://github.com/facebook/react-native",
+    "p": "https://github.com/react/react-native",
     "l": "@react-native/assets-registry",
     "t": "react-native__assets-registry"
   },
