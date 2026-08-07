@@ -28295,7 +28295,7 @@
     "t": "lgtv2"
   },
   {
-    "p": null,
+    "p": "https://github.com/meshcore-dev/meshcore.js",
     "l": "@liamcottle/meshcore.js",
     "t": "liamcottle__meshcore.js"
   },
