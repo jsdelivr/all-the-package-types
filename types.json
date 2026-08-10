@@ -32695,7 +32695,7 @@
     "t": "moment-holiday"
   },
   {
-    "p": "https://github.com/behrang/moment-jalaali",
+    "p": "https://github.com/jalaali/moment-jalaali",
     "l": "moment-jalaali",
     "t": "moment-jalaali"
   },
@@ -33758,6 +33758,11 @@
     "p": "https://github.com/rs/node-netmask",
     "l": "netmask",
     "t": "netmask"
+  },
+  {
+    "p": "https://github.com/CamShaft/netrc",
+    "l": "netrc",
+    "t": "netrc"
   },
   {
     "p": "https://github.com/Wizcorp/network-interfaces",
