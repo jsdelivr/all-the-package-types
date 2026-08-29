@@ -26185,6 +26185,11 @@
     "t": "jsurl2"
   },
   {
+    "p": "https://github.com/themustafaomar/jsvectormap",
+    "l": "jsvectormap",
+    "t": "jsvectormap"
+  },
+  {
     "p": "https://github.com/jsx-eslint/jsx-ast-utils",
     "l": "jsx-ast-utils",
     "t": "jsx-ast-utils"
