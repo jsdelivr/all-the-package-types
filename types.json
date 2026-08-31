@@ -37920,7 +37920,7 @@
     "t": "pino-std-serializers"
   },
   {
-    "p": null,
+    "p": "https://github.com/oapicf/pinterest-sdk",
     "l": "pinterest-sdk",
     "t": "pinterest-sdk"
   },
