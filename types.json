@@ -12485,6 +12485,11 @@
     "t": "express-http-proxy"
   },
   {
+    "p": "https://github.com/axiomzen/express-interceptor",
+    "l": "express-interceptor",
+    "t": "express-interceptor"
+  },
+  {
     "p": "https://github.com/trainiac/express-jsonschema",
     "l": "express-jsonschema",
     "t": "express-jsonschema"
@@ -24425,7 +24430,7 @@
     "t": "jmespath"
   },
   {
-    "p": "https://github.com/webstream-labs/jmuxer",
+    "p": "https://github.com/samirkumardas/jmuxer",
     "l": "jmuxer",
     "t": "jmuxer"
   },
@@ -41025,7 +41030,7 @@
     "t": "react-bootstrap-typeahead"
   },
   {
-    "p": "https://github.com/svenanders/react-breadcrumbs",
+    "p": "https://github.com/robbestad/react-breadcrumbs",
     "l": "react-breadcrumbs",
     "t": "react-breadcrumbs"
   },
