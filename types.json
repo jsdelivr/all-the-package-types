@@ -21405,6 +21405,11 @@
     "t": "helmet"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "helpscout-beacon"
+  },
+  {
     "p": "https://github.com/lovell/hepburn",
     "l": "hepburn",
     "t": "hepburn"
@@ -41355,12 +41360,12 @@
     "t": "react-dev-utils"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-devtools",
     "t": "react-devtools"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-devtools-inline",
     "t": "react-devtools-inline"
   },
@@ -43420,7 +43425,7 @@
     "t": "react-recompose"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-reconciler",
     "t": "react-reconciler"
   },
@@ -43445,7 +43450,7 @@
     "t": "react-redux-toastr"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "react-refresh",
     "t": "react-refresh"
   },
@@ -46690,7 +46695,7 @@
     "t": "schedule"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "scheduler",
     "t": "scheduler"
   },
@@ -53295,12 +53300,12 @@
     "t": "use-set-timeout"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "use-subscription",
     "t": "use-subscription"
   },
   {
-    "p": "https://github.com/facebook/react",
+    "p": "https://github.com/react/react",
     "l": "use-sync-external-store",
     "t": "use-sync-external-store"
   },
