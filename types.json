@@ -22475,7 +22475,7 @@
     "t": "image-blob-reduce"
   },
   {
-    "p": "https://github.com/image-size/image-size",
+    "p": "https://codeberg.org/image-size/image-size.git",
     "l": "image-size",
     "t": "image-size"
   },
@@ -28125,7 +28125,7 @@
     "t": "ledgerhq__hw-app-btc"
   },
   {
-    "p": "https://github.com/LedgerHQ/ledger-live",
+    "p": "https://github.com/LedgerHQ/ts-libs",
     "l": "@ledgerhq/hw-transport",
     "t": "ledgerhq__hw-transport"
   },
