@@ -19755,6 +19755,11 @@
     "t": "google.visualization"
   },
   {
+    "p": "https://github.com/google/earthengine-api",
+    "l": "@google/earthengine",
+    "t": "google__earthengine"
+  },
+  {
     "p": "https://github.com/googlemaps/google-maps-services-js",
     "l": "@google/maps",
     "t": "google__maps"
