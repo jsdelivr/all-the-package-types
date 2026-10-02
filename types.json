@@ -10,7 +10,7 @@
     "t": "11ty__eleventy-plugin-directory-output"
   },
   {
-    "p": "https://github.com/11ty/eleventy-plugin-rss",
+    "p": "https://github.com/11ty/plugin-rss",
     "l": "@11ty/eleventy-plugin-rss",
     "t": "11ty__eleventy-plugin-rss"
   },
@@ -40245,7 +40245,7 @@
     "t": "randomcolor"
   },
   {
-    "p": "https://github.com/klughammer/node-randomstring",
+    "p": "https://github.com/eliaskg/node-randomstring",
     "l": "randomstring",
     "t": "randomstring"
   },
