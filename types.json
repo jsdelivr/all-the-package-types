@@ -1740,7 +1740,7 @@
     "t": "appgeist__ensure-dir"
   },
   {
-    "p": "https://github.com/appium/appium-adb",
+    "p": "https://github.com/appium/appium-android",
     "l": "appium-adb",
     "t": "appium-adb"
   },
