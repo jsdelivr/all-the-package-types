@@ -3575,7 +3575,7 @@
     "t": "binary-parser"
   },
   {
-    "p": "https://github.com/maxogden/binary-split",
+    "p": "https://github.com/max-mapper/binary-split",
     "l": "binary-split",
     "t": "binary-split"
   },
@@ -54333,6 +54333,11 @@
     "p": null,
     "l": null,
     "t": "w3c-web-nfc"
+  },
+  {
+    "p": null,
+    "l": null,
+    "t": "w3c-web-printing"
   },
   {
     "p": null,
