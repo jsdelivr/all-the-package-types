@@ -47290,7 +47290,7 @@
     "t": "sentiment"
   },
   {
-    "p": "https://github.com/getsentry/sentry-javascript-bundler-plugins",
+    "p": "https://github.com/getsentry/sentry-javascript",
     "l": "@sentry/webpack-plugin",
     "t": "sentry__webpack-plugin"
   },
