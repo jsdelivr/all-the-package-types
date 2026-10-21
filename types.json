@@ -25670,6 +25670,11 @@
     "t": "json-schema-compare"
   },
   {
+    "p": "https://github.com/SeedScientific/json-schema-deref-local",
+    "l": "json-schema-deref-local",
+    "t": "json-schema-deref-local"
+  },
+  {
     "p": "https://github.com/json-schema-faker/json-schema-faker",
     "l": "json-schema-faker",
     "t": "json-schema-faker"
