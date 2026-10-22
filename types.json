@@ -36955,6 +36955,11 @@
     "t": "pascalcase"
   },
   {
+    "p": "https://github.com/pasoonate/pasoonate-js",
+    "l": "pasoonate",
+    "t": "pasoonate"
+  },
+  {
     "p": "https://github.com/jaredhanson/passport",
     "l": "passport",
     "t": "passport"
