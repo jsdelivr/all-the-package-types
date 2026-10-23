@@ -3440,7 +3440,7 @@
     "t": "better-sqlite3"
   },
   {
-    "p": null,
+    "p": "https://github.com/beyonk/gdpr-cookie-consent-banner",
     "l": "@beyonk/gdpr-cookie-consent-banner",
     "t": "beyonk__gdpr-cookie-consent-banner"
   },
