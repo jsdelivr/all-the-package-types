@@ -3365,7 +3365,7 @@
     "t": "bell"
   },
   {
-    "p": "https://github.com/krakenjs/belter",
+    "p": "https://github.com/bluepnume/belter",
     "l": "belter",
     "t": "belter"
   },
@@ -7925,7 +7925,7 @@
     "t": "croppie"
   },
   {
-    "p": "https://github.com/krakenjs/cross-domain-utils",
+    "p": "https://github.com/bluepnume/cross-domain-utils",
     "l": "cross-domain-utils",
     "t": "cross-domain-utils"
   },
@@ -8440,7 +8440,7 @@
     "t": "d3"
   },
   {
-    "p": "https://github.com/niekes/d3-3d",
+    "p": "https://github.com/Niekes/d3-3d",
     "l": "d3-3d",
     "t": "d3-3d"
   },
@@ -38450,7 +38450,7 @@
     "t": "post-message-stream"
   },
   {
-    "p": "https://github.com/krakenjs/post-robot",
+    "p": "https://github.com/bluepnume/post-robot",
     "l": "post-robot",
     "t": "post-robot"
   },
@@ -50345,6 +50345,11 @@
     "t": "svg-baker-runtime"
   },
   {
+    "p": "https://github.com/steambap/svg-captcha",
+    "l": "svg-captcha",
+    "t": "svg-captcha"
+  },
+  {
     "p": "https://github.com/iconic/SVGInjector",
     "l": "svg-injector",
     "t": "svg-injector"
@@ -56750,7 +56755,7 @@
     "t": "zafclient"
   },
   {
-    "p": "https://github.com/krakenjs/zalgo-promise",
+    "p": "https://github.com/bluepnume/zalgo-promise",
     "l": "zalgo-promise",
     "t": "zalgo-promise"
   },
