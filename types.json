@@ -31530,6 +31530,11 @@
     "t": "maxmsp"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "maxmsp-v8"
+  },
+  {
     "p": "https://github.com/Cryptkeeper/mcping-js",
     "l": "mcping-js",
     "t": "mcping-js"
@@ -38560,7 +38565,7 @@
     "t": "postcss-js"
   },
   {
-    "p": "https://github.com/shellscape/postcss-less",
+    "p": "https://github.com/prettier/postcss-less",
     "l": "postcss-less",
     "t": "postcss-less"
   },
