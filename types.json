@@ -46400,6 +46400,11 @@
     "t": "safie-sdk"
   },
   {
+    "p": "https://github.com/balderdashy/sails-mongo",
+    "l": "sails-mongo",
+    "t": "sails-mongo"
+  },
+  {
     "p": "https://github.com/balderdashy/sails.io.js",
     "l": "sails.io.js",
     "t": "sails.io.js"
