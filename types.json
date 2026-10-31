@@ -10007,6 +10007,11 @@
   {
     "p": null,
     "l": null,
+    "t": "dom-html-in-canvas"
+  },
+  {
+    "p": null,
+    "l": null,
     "t": "dom-inputevent"
   },
   {
@@ -22085,6 +22090,11 @@
     "t": "hubspot-pace"
   },
   {
+    "p": null,
+    "l": null,
+    "t": "hubspot-tracking-code"
+  },
+  {
     "p": "https://github.com/AndriiHeonia/hull",
     "l": "hull.js",
     "t": "hull.js"
@@ -33985,42 +33995,42 @@
     "t": "ngeohash"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/datasource",
     "t": "nginstack__datasource"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/dev-tools",
     "t": "nginstack__dev-tools"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/devops",
     "t": "nginstack__devops"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/engine",
     "t": "nginstack__engine"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/iquery",
     "t": "nginstack__iquery"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/jsunit",
     "t": "nginstack__jsunit"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/orm",
     "t": "nginstack__orm"
   },
   {
-    "p": null,
+    "p": "https://github.com/nginstack/nginstack",
     "l": "@nginstack/web-framework",
     "t": "nginstack__web-framework"
   },
