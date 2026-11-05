@@ -3625,6 +3625,11 @@
     "t": "bip32"
   },
   {
+    "p": "https://github.com/axic/bip32-path",
+    "l": "bip32-path",
+    "t": "bip32-path"
+  },
+  {
     "p": "https://github.com/bitcoinjs/bip38",
     "l": "bip38",
     "t": "bip38"
